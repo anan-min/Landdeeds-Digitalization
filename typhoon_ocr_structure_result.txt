@@ -1,0 +1,175 @@
+Result for images/03-11.jpg:
+5036 I 5836-3
+ที่ดินระวัง เลข ๒๕ 2
+ตำบลมะโตโรนีสกลนคร
+อำเภอป่าแก้ว
+โฉนดที่ ๖๗๖
+สารบาญเล่มที่ ๒
+นาที่
+<figure>**Observation:**
+The image shows a map with various lines, shapes, and numbers. There is also Thai text present.
+
+**Text Recognition:**
+The Thai text reads:
+*   "สำเนา" (Saphanea) - Copy
+*   "เลขที่..." (Lan Thi...) - Number...
+*   "วัด..." (Wat...) - Temple...
+*   "ถนน..." (Thanon...) - Road...
+*   "คลอง..." (Khlong...) - Stream...
+*   "หนอง..." (Nong...) - Puddle...
+*   "บ้าน..." (Ban...) - House...
+*   "ไร่..." (Rai...) - Field...
+*   "ต้นไม้..." (Ton Mai...) - Tree...
+*   "อื่นๆ" (Aen Lae) - Others
+
+**Final Summary:**
+The image is a map featuring lines, shapes, and numbers, likely representing geographical features or measurements within a specific area. The presence of Thai text suggests it is a map used by or related to a Thai organization or community.</figure>
+DEPARTMENT OF LAND
+
+สำเนา
+
+ลงชื่อ
+ผู้เขียนแผนที่
+
+ลงชื่อ
+ผู้ตรวจแผนที่
+
+Result for images/08-4.jpg:
+วันเดือนปี
+ที่ได้จด
+ละเบียน
+
+แผนที่
+
+เน = ๒๐๐๐
+
+๓.
+เส้น
+<table>
+<tr>
+<th></th>
+<th>พิ ๑๖</th>
+</tr>
+<tr>
+<td rowspan="2">๕๐๗</td>
+<td>๒๙๒๘</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>นก ไม่ผู้</td>
+<td></td>
+</tr>
+<tr>
+<td>นาม.</td>
+<td></td>
+</tr>
+<tr>
+<td>พ.ศ.๔๗</td>
+<td></td>
+</tr>
+<tr>
+<td>๑๙</td>
+<td></td>
+</tr>
+<tr>
+<td>มอน</td>
+<td></td>
+</tr>
+<tr>
+<td>๑๙๓๙</td>
+<td></td>
+</tr>
+</table>
+<figure>**Observation:** The image shows a map with several locations marked on it. There are also numbers and lines connecting these locations.
+
+**Text Recognition:** The map includes the following locations labeled:
+*   ๒๗๑ (271)
+*   ๒๘๑ (281)
+*   ๒๙๑ (291)
+*   ๓๐๑ (301)
+*   ๓๑๑ (311)
+*   ๓๒๑ (321)
+*   ๓๓๑ (331)
+*   ๓๔๑ (341)
+*   ๓๕๑ (351)
+*   ๓๖๑ (361)
+*   ๓๗๑ (371)
+*   ๓๘๑ (381)
+*   ๓๙๑ (391)
+*   ๔๐๑ (401)
+*   ๔๑๑ (411)
+*   ๔๒๑ (421)
+*   ๔๓๑ (431)
+*   ๔๔๑ (441)
+*   ๔๕๑ (451)
+*   ๔๖๑ (461)
+*   ๔๗๑ (471)
+*   ๔๘๑ (481)
+*   ๔๙๑ (491)
+*   ๕๐๑ (501)
+*   ๕๑๑ (511)
+*   ๕๒๑ (521)
+*   ๕๓๑ (531)
+*   ๕๔๑ (541)
+*   ๕๕๑ (551)
+*   ๕๖๑ (561)
+*   ๕๗๑ (571)
+*   ๕๘๑ (581)
+*   ๕๙๑ (591)
+*   ๖๐๑ (601)
+*   ๖๑๑ (611)
+*   ๖๒๑ (621)
+*   ๖๓๑ (631)
+*   ๖๔๑ (641)
+*   ๖๕๑ (651)
+*   ๖๖๑ (661)
+*   ๖๗๑ (671)
+*   ๖๘๑ (681)
+*   ๖๙๑ (691)
+*   ๗๐๑ (701)
+*   ๗๑๑ (711)
+*   ๗๒๑ (721)
+*   ๗๓๑ (731)
+*   ๗๔๑ (741)
+*   ๗๕๑ (751)
+*   ๗๖๑ (761)
+*   ๗๗๑ (771)
+*   ๗๘๑ (781)
+*   ๗๙๑ (791)
+*   ๘๐๑ (801)
+*   ๘๑๑ (811)
+*   ๘๒๑ (821)
+*   ๘๓๑ (831)
+*   ๘๔๑ (841)
+*   ๘๕๑ (851)
+*   ๘๖๑ (861)
+*   ๘๗๑ (871)
+*   ๘๘๑ (881)
+*   ๘๙๑ (891)
+*   ๙๐๑ (901)
+*   ๙๑๑ (911)
+*   ๙๒๑ (921)
+*   ๙๓๑ (931)
+*   ๙๔๑ (941)
+*   ๙๕๑ (951)
+*   ๙๖๑ (961)
+*   ๙๗๑ (971)
+*   ๙๘๑ (981)
+*   ๙๙๑ (991)
+*   ๑๐๐๑ (1001)
+
+The map appears to show geographical coordinates or measurements between different points. Some lines are solid, while others are dashed.
+
+**Final Summary:** The image presents a map with various locations marked, likely representing geographical coordinates or measurements. Several lines connect these locations, suggesting relationships or paths between them. The map includes numerical labels near many of the locations.</figure>
+๒๗๑
+
+๒๘๑
+
+๒๙๑
+
+๓๐๑
+
+๓๑๑
+
