@@ -6,7 +6,8 @@ import numpy as np
 
 # Set the folder paths
 input_folder = '../images'  # Folder where original images are stored
-output_folder = '../research_results/cv_results/testing'  # Folder to save processed images with contours
+# Folder to save processed images with contours
+output_folder = '../research_results/cv_results/testing'
 
 # Ensure the output folder exists
 if not os.path.exists(output_folder):
@@ -24,39 +25,52 @@ def process_image(image_path, output_folder):
         # Convert to grayscale
         gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
-        # Step 1: Increase brightness to fade text
-        bright = cv2.add(gray, 150)  # Increase brightness
+        # Step 1: Increase brightness slightly to fade text, with a modest adjustment
+        bright = cv2.add(gray, 100)  # Moderate brightness enhancement
         blurred = cv2.GaussianBlur(bright, (5, 5), 0)
 
         # Step 2: OCR Text Detection
         d = pytesseract.image_to_data(blurred, output_type=Output.DICT)
 
-        # Step 3: Mask text regions with stronger intensity
+        # Step 3: Mask text regions with stronger intensity (slightly enlarged)
         mask = np.ones_like(gray) * 255  # Start with white canvas
 
         for i in range(len(d['text'])):
             if int(d['conf'][i]) > 30 and len(d['text'][i].strip()) > 1:
                 x, y, w, h = d['left'][i], d['top'][i], d['width'][i], d['height'][i]
-
-                # Increase the area of masking for stronger effect
+                # Slightly enlarged mask
                 cv2.rectangle(blurred, (x - 5, y - 5),
-                              (x + w + 5, y + h + 5), 255, -1)  # Enlarged mask
+                              (x + w + 5, y + h + 5), 255, -1)
 
         # Optional: further blur small text artifacts
+        # Slightly stronger blur but not excessive
         cleaned = cv2.medianBlur(blurred, 5)
 
-        # Step 4: Edge detection
-        edges = cv2.Canny(cleaned, 30, 100)
+        # Step 4: Apply CLAHE for contrast enhancement (moderate clipLimit)
+        # Slightly stronger CLAHE
+        clahe = cv2.createCLAHE(clipLimit=2.5, tileGridSize=(8, 8))
+        enhanced = clahe.apply(cleaned)
 
-        # Step 5: Contour detection
+        # Step 5: Edge detection (with moderate sensitivity)
+        edges = cv2.Canny(enhanced, 50, 150)  # Balanced edge detection
+
+        # Step 6: Denoise edges using morphological operations (moderate dilation)
+        # Small kernel to preserve fine lines
+        kernel = np.ones((3, 3), np.uint8)
+        # Moderate number of iterations
+        dilated = cv2.dilate(edges, kernel, iterations=2)
+
+        # Step 7: Contour detection
         contours, _ = cv2.findContours(
-            edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+            dilated, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+
+        # Create a copy of the original image to draw contours
+        output = image.copy()
 
         # Draw only large contours (filter out small text noise)
-        output = image.copy()
         for cnt in contours:
             area = cv2.contourArea(cnt)
-            if area > 100:  # Adjust this threshold as needed
+            if area > 200:  # Reduced threshold for better detail preservation
                 cv2.drawContours(output, [cnt], -1, (0, 255, 0), 2)
 
         # Save the output image with contours
