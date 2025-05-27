@@ -1,59 +1,79 @@
-from PIL import Image
 import os
+import traceback
+from PIL import Image
 from typhoon_ocr import ocr_document
 
-# Relative path to the 'images' folder in the same directory as the script
-image_folder = 'images'  
-typhoon_api_key = "sk-FsXJJmQBEw6YLmT1cM2TL5Tbo4bTRYmrZTaDZxqXNXMCrrtV"
-os.environ['TYPHOON_OCR_API_KEY'] = typhoon_api_key
+# Get absolute path to current script's directory
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Define input and output folders
+image_folder = os.path.join(script_dir, 'images')
+output_folder = os.path.join(script_dir, 'research_results', 'typhoon_ocr_results')
+
+# Set Typhoon OCR API key
+os.environ['TYPHOON_OCR_API_KEY'] = "sk-FsXJJmQBEw6YLmT1cM2TL5Tbo4bTRYmrZTaDZxqXNXMCrrtV"
+
+# Disable image pixel limit warning
 Image.MAX_IMAGE_PIXELS = None
 
-def process_and_store_result(image_file_path):
-    try:
-        # Check if the file exists
-        if not os.path.exists(image_file_path):
-            print(f"Error: The file does not exist: {image_file_path}")
-            return  # Skip this image if it doesn't exist
+# Ensure output folder exists
+os.makedirs(output_folder, exist_ok=True)
 
-        # Try to open the image with PIL to verify if it's accessible and valid
-        try:
-            with Image.open(image_file_path) as img:
-                print(f"Successfully opened image: {image_file_path}, Format: {img.format}")
-        except Exception as e:
-            print(f"Error opening image: {image_file_path}. Error: {e}")
+
+def process_and_store_result(image_file_path, output_file_path):
+    try:
+        if not os.path.exists(image_file_path):
+            print(f"❌ File not found: {image_file_path}")
             return
 
-        print(f"Processing image: {image_file_path}")
+        try:
+            with Image.open(image_file_path) as img:
+                print(f"✅ Opened image: {image_file_path} | Format: {img.format}")
+        except Exception as e:
+            print(f"❌ Failed to open image: {image_file_path} | Error: {e}")
+            return
 
-        # Send the image to Typhoon OCR and get the result
-        markdown = ocr_document(image_file_path, task_type="structure")
+        print(f"🧠 Running OCR on: {image_file_path}")
+        try:
+            markdown = ocr_document(image_file_path, task_type="default")
+        except Exception as e:
+            print(f"❌ OCR failed on {image_file_path}: {e}")
+            traceback.print_exc()
+            return
 
-        with open("typhoon_ocr_structure_result.txt", "a") as result_file:
-            result_file.write(f"Result for {image_file_path}:\n")
-            result_file.write(markdown + "\n\n")
+        with open(output_file_path, "w", encoding="utf-8") as f:
+            f.write(markdown)
 
-        print(f"Result for {image_file_path} stored in typhoon_ocr_result.txt")
+        print(f"💾 Saved result to: {output_file_path}")
 
     except Exception as e:
-        print(f"Error processing image {image_file_path}: {e}")
+        print(f"❌ Unexpected error: {e}")
+        traceback.print_exc()
+
 
 def process_all_images_in_folder(folder_path):
+    if not os.path.exists(folder_path):
+        print(f"❌ Image folder does not exist: {folder_path}")
+        return
+
     try:
-        # Get a list of all image files in the directory
         image_files = [f for f in os.listdir(folder_path) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
+        print(f"📄 Found {len(image_files)} images to process.")
 
         for image_file in image_files:
-            # Use os.path.join for the file path
             image_path = os.path.join(folder_path, image_file)
+            base_name = os.path.splitext(image_file)[0]
+            output_file_path = os.path.join(output_folder, f"{base_name}.txt")
 
-            # Print the full path before processing
-            print(f"Full path to image: {image_path}")
-
-            # Process image with Typhoon OCR and store the result
-            process_and_store_result(image_path)
+            process_and_store_result(image_path, output_file_path)
 
     except Exception as e:
-        print(f"Error processing images in folder: {e}")
+        print(f"❌ Error scanning folder: {e}")
+        traceback.print_exc()
 
-# Process all images in the specified folder
-process_all_images_in_folder(image_folder)
+
+if __name__ == "__main__":
+    print("📁 Script directory:", script_dir)
+    print("📁 Image folder:", image_folder)
+    print("📁 Output folder:", output_folder)
+    process_all_images_in_folder(image_folder)
