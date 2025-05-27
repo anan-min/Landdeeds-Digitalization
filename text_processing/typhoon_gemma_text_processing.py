@@ -6,10 +6,10 @@ import ollama
 
 model_name = "typhoon_gemma"
 # Define input and output folders
-output_folder = os.path.join(os.path.dirname(os.path.abspath(
-    __file__)), '..', 'research_results', 'typhoon_ocr_results')
+input_folder = os.path.join(os.path.dirname(os.path.abspath(
+    __file__)), '..', 'research_results', 'ocr_results', 'ms_azure_results')
 processed_folder = os.path.join(os.path.dirname(os.path.abspath(
-    __file__)), '..', 'research_results', 'text_processed', f'{model_name}_text_processed')
+    __file__)), '..', 'research_results', 'text_processed2', f'{model_name}_text_processed')
 
 features = {
     "ที่ดินระวาง": "Alphanumeric code, Format: ####/##, E.g., '1234/56'",
@@ -102,6 +102,6 @@ def run_ollama_model(model_name, prompt):
 
 
 if __name__ == "__main__":
-    print("📁 Output folder:", output_folder)
+    print("📁 Input folder:", input_folder)
     print("📁 Processed folder:", processed_folder)
-    process_all_texts_in_folder(output_folder)
+    process_all_texts_in_folder(input_folder)
