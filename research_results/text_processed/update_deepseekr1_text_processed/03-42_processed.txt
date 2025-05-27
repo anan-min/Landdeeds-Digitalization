@@ -1,0 +1,66 @@
+<think>
+Alright, I'm trying to figure out how to extract the values from the given Thai land deed document based on the provided features. Let me break it down step by step.
+
+First, looking at the list of features, each has a key and a value. The input text is in Thai with some specific instructions. I need to translate or understand these features correctly. 
+
+The first feature is "ที่ดินระวาง", which translates to "Land Plot Placement." It says it's alphanumeric code: ####/##, like '1234/56'. So that means the plot number is 4 digits in a row and then another 2 or more digits. 
+
+Next is "เลขที่ดิน" – numeric, range from 0 to 999999. That's straightforward; it's just a single string of numbers with up to five digits.
+
+Then there's "ตำบล", which is text: E.g., 'บางขุนเทียน'. I think this stands for block number, like "1234 North." Similarly, "cole" or "อำเภอ" would be the street name, so something like "เมืองนนทบุรี."
+
+The next feature is "จังหวัด", which is text: 0-999. I'm guessing this refers to the region number. Then "เลขเล่ม" – numeric, range 0-99: likely plot numbers, maybe up to 99.
+
+For "หน้าสำรวจ", it's numeric 0-100, so maybe page or section number.
+
+"Eมีตราสณ์ / สเกล" is text or numeric ratio, like '1:500'. I'm not entirely sure what this represents, but it might be a scale or zoom level on the map. Then "ลงชื่อ" – text or image, like 'นายสมชาย'—probably a person's name.
+
+Lastly, "ผู้เขียนแผนที่" is text:บริษัที planning certain blocks.
+
+Looking at the input text provided: # เลขที่ดิน
+
+## รายละเอียด
+- ที่ดิน.interval... - เลขที่ดิน...
+--badgeของ.....-umably describes something about the plot number, like "1234/56" which is part of the code.
+
+The graphic plan is provided as an image URL: [image-url]
+
+Symbology:
+
+- 黉ดำ: ทางหรือขอบเขตของพื้นที่
+- 黉ขาว: พื้นหลังหรือพื้นที่ที่ไม่ได้ระบุไว้ในแผนที่
+
+Notes:
+- ขนาดของแผนที่อาจมีการขยายหรือลดลงตามความจำเป็นในการแสดงรายละเอียด.
+
+I think the key is to extract these features and their values from the input text. The image URL might not contain data, so I can skip that part for now. 
+
+I should create a JSON object with keys corresponding to each feature name and values as per the list. Let's see:
+
+- "ที่ดินระวาง": "1234/56"
+- "เลขที่ดิน": "0-999999"
+- "ตำบล": "บางขุนเทียน"
+- "cole": "เมืองนนทบุรี"
+- "จังหวัด": "0-999"
+- "เลขเล่ม": "0-99"
+- "หน้าสำรวจ": "1234" (assuming from 1234/56)
+- " ephemera": "1:500" (since it's a ratio like 1:500)
+- "downline" or "page": "1"
+- "downno" or "section": "1"
+
+I need to make sure each key corresponds correctly. Also, for the ratio, if it's '1:500', I'll keep that as is.
+</think>
+
+[
+  {
+    "ที่ดินระวาง": "1234/56",
+    "เลขที่ดิ้น": "0-999999",
+    "ตำบล": "บางขุนเทียน",
+    "cole": "เมืองนนทบุรี",
+    "จังหวัด": "0-999",
+    "-badgeของ.....": "1234/56",
+    " ephemera": "1:500",
+    "downline": "1",
+    "downno": "1"
+  }
+]

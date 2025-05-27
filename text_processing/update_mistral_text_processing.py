@@ -9,7 +9,7 @@ model_name = "update_mistral"
 output_folder = os.path.join(os.path.dirname(os.path.abspath(
     __file__)), '..', 'research_results', 'typhoon_ocr_results')
 processed_folder = os.path.join(os.path.dirname(os.path.abspath(
-    __file__)), '..', 'research_results', f'{model_name}_text_processed')
+    __file__)), '..', 'research_results', 'text_processed', f'{model_name}_text_processed')
 
 features = {
     "ที่ดินระวาง": "Alphanumeric code, Format: ####/##, E.g., '1234/56'",
@@ -85,7 +85,9 @@ def process_all_texts_in_folder(folder_path):
         print(f"❌ Error scanning folder: {e}")
         traceback.print_exc()
 
-# update prompt to thai and landdeeds 
+# update prompt to thai and landdeeds
+
+
 def generatePrompt(input_text):
     prompt = "Given the following list of features, please extract the corresponding values from the input text, which is in Thai and is from a land deed document. Return the values as JSON.\n\n"
     prompt += "Features: " + \
