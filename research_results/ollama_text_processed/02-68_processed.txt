@@ -1,0 +1,167 @@
+<think>
+Alright, let me try to work through this problem step by step. I have a list of features and an input text that needs to be converted into JSON. The features are defined with specific formats for both text and numeric values, along with examples. I need to extract the correct values from the input text that match each feature.
+
+First, let's understand what each feature represents:
+
+1. **ที่ดินระวาง**: This refers to an alphanumeric code, which is a string of characters.
+2. **เลขที่ดิน**: A numeric value within a specific range (0-999999).
+3. **ตำบล**: Text indicating an area number or street name.
+4. **อำเภอ**: Another text field for a local identifier.
+5. **ฉโนดที่ดิน**: A numeric value in the 0-99 range.
+6. **เลขเล่ม**: Numeric, ranging from 0 to 99.
+7. **หน้าสำรวจ**: Numerical value between 0 and 100.
+8. **comeRatio / scale**: Text that includes a ratio or scale with specific formatting.
+9. **รายละเอียดขนาด**: Details about the size of the plot, including specific measurements in Thai words.
+10. ** positional data on map**:
+    - ที่ดินbetween two areas: 5.36 ไร่ 836 ตร.ว.
+    - เลขที่ดิน: 66
+    - หน้าสำรวจ:74
+    - ชื่อผู้ surveyed: 22490
+11. **ตำแหน่งและชื่อผู้ surveyed**:
+    - ตำบล เกาะเกร็ด
+    - อำเภอ ปากเกร็ด
+    - จังหวัด นนทบุรี
+12. **comeRatio / scale**: 1 : 1000
+13. **วันที่ทำการ surveyed**: วันที่ 13 พฤษภาคม พ.ศ. 2567
+14. **คำเซ็นของผู้ surveyed**:
+    - หัวหน้าการ
+    - 寶ส regardการ
+    - เจ้าพนักงานที่ดิน
+
+Now, let's look at the input text:
+
+```
+# รูปแผนที่ (ใบต่อ)
+
+##รายละเอียดขนาด
+- ที่ดินระหว่าง 5.036 ไร่ 836 ตร.ว.
+- เลขที่ดิน 66
+- หน้าสำรวจ 74
+- โฉนดที่ดินเลขที่ 22490
+
+## positional data on map:
+- ที่ดินbetween two areas: 5.36 ไร่ 836 ตร.ว.
+- เลขที่ดิน 66
+- หน้าสำรวจ 74
+- ชื่อผู้ surveyed: 22490
+
+##comeRatio / scale:
+1 : 1000
+
+##วันที่ทำการsurveyed:
+วันที่ 13 spraying p.ศ. 2567
+
+##คำเซ็นของผู้ surveyed:
+- หัวหน้าการ
+- 寶ส regardการ
+- เจ้าพนักงานที่ดิน
+```
+
+I need to extract each feature from this text and map them correctly.
+
+Let's start with the first section, "รายละเอียดขนาด":
+
+1. **ที่ดินระหว่าง 5.036 ไร่ 836 ตร.ว.**
+   - This is a textual location description.
+2. ** เลขที่ดิน 66** 
+   - Numerical value, likely "66"
+3. ** หน้าสำรวจ 74**
+   - Textual number
+4. ** รูปแผนที่ (ใบต่อ)**
+   - This is the plot name.
+
+Next, in the positional data on map section:
+
+1. ** ที่ดินbetween two areas: 5.36 ไร่ 836 ตร.ว.**
+   - Textual location
+2. ** เลขที่ดิน 66**
+   - Same as above
+3. ** หน้าสำรวจ 74**
+   - Textual number
+4. ** ชื่อผู้ surveyed: 22490**
+
+Then, the comeRatio / scale section:
+
+1. **1 : 1000**
+   - Text with ratio format
+
+And finally, the survey duration:
+
+1. **วันที่ 13 spraying p.ศ. 2567**
+   - Textual date information
+2. **คำเซ็นของผู้ surveyed:**
+   - The three specific terms.
+
+Now, let's map each feature to their respective values from the text.
+
+Starting with "ที่ดินระวาง":
+
+- It is a textual description.
+- No numbers or numeric ranges are present here, so it should be a string like 'ที่ดินระับ...'
+
+Next, "เลขที่ดิน" is a number between 0 and 999999.
+
+Then, "ตำบล" is text for an area code.
+
+"อำเภอ" is another text identifier.
+
+"ฉโนดที่ดิน" is a small numeric range.
+
+"เลขเล่ม" is the numeric value.
+
+"หน้าสำรวจ" is text.
+
+"comeRatio / scale" has a ratio format.
+
+Now, compiling all this into JSON:
+
+First, ensuring that each feature is correctly identified and its corresponding value extracted. I need to make sure the numerical values are in their correct ranges (0-99 for numerals, 0-999 for numbers) and that text fields have the right representations.
+
+Let me start constructing the JSON array with all features:
+
+1. **ที่ดินระวาง**: "ที่ดินระับ..."
+2. **เลขที่ดิน**: "66"
+3. **ตำบล**: "กุลวัมดิชต์ เกาะเกร็ด"
+4. **อำเภอ**: "เมืองนนทบุรี"
+5. **ฉโนดที่ดิน**: "0-99"
+6. **เลขเล่ม**: "66"
+7. **หน้าสำรวจ**: "74"
+8. **comeRatio / scale**: "1:1000"
+
+Finally, the survey duration:
+
+- วันที่ 13 spraying p.ศ. 2567
+- คำเซ็นของผู้ surveyed:
+    - หัวหน้าการ
+    - 寶ส regardการ
+    - เจ้าพนักงานที่ดิน
+
+Putting it all together, ensuring that the JSON structure is correct and that each feature maps appropriately.
+</think>
+
+```json
+[
+    {
+        "ที่ดินระวาง": "ที่ดิ์ระับ...",
+        "เลขที่ดิน": 66,
+        "ตำบล": "กุลวัมดิชต์ เเกาะเกร็ด",
+        "อำเภอ": "เมืองนนทบุรี",
+        "ฉโนดที่ดิน": "0-99",
+        "เลขเล่ม": 66,
+        "หน้าสำรวจ": 74,
+        "comeRatio / scale": "1:1000",
+        "วันที่ทำการsurveyed": "วันที่ 13 spraying p.ศ. 2567",
+        "คำเซ็นของผู้ surveyed": [
+            {
+                "หัวหน้าการ": "หัวหน้าการ"
+            },
+            {
+                " 寶ส regardการ ": 寶ส regardการ
+            },
+            {
+                " เจ้าพนักงานที่ดิน ": เจ้าพนักงานที่ดิ์
+            }
+        ]
+    }
+]
+```

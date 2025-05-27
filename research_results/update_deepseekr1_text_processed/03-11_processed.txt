@@ -1,0 +1,50 @@
+<think>
+Alright, let me try to figure this out step by step. So, I have a list of features extracted from a land deed document, and I need to map them back to the input text. The input text is in Thai and describes a place called "ที่ดิน-between 66/1". From that, I should extract specific values as specified.
+
+First, let me break down each feature one by one:
+
+1. **ที่ดินระวาง**: This seems like it refers to the street address or location. The text mentions "ที่ดินbetween", which is a common term for a street name. So, maybe I can take "ที่ดิน" as the value here.
+
+2. **เลขที่ดิน**: This would be the numeric identifier of that street. In the input, it's given as 66/1. Since this is the street number, and in land deed contexts, such a format might represent the road number or lot number. I'm not entirely sure if it should be " Nath 66 1" or just "66". But since it's the main address, perhaps using " Nath 66" makes sense.
+
+3. **ตำบล**: This is for the block number. The text specifies "bolda แม่โสภา", which translates to "bolda of mother government." So, this would be "bolda แม่โovenant".
+
+4. **อำเภอ**: This is the village name or area name. The given text mentions "ปะจัง", so I'll take that as "湄ง".
+
+5. **จังหวัดยโสธร**: This should include both province and city. The mention of "ย scanning" might be a typo, but likely it's "ย scanning" intended to say "ย scanning". Wait, no, in the land deed, it would probably be "ย scanning" as a place name. However, I'm not entirely sure if that translates correctly. Maybe "ย scanning" should be something else, perhaps just "ย scanning" or maybe it's an abbreviation for a specific area. Since I can't be certain, I'll leave it as is.
+
+6. **สำเนาถูกต้อง**: This refers to the actual land value. The text says "น้ำที่ 45", so I should extract "เมื่อเต็ม" or something similar for the land price. Maybe that's how it's written in Thai.
+
+7. **อ. (อเมก์) andส. (สทศ.)**: These are likely the price ranges. In some contexts, prices can be indicated as 0-999 or 0-99. But without more context, I'll assume "0-999" for the main price range.
+
+8. **ที่ดินระวาง**: This is the same as the first feature, so it should correspond to "ที่ดิน", but in the land deed, it might be specified differently. Since "ที่ดินbetween 66/1" suggests a specific location, perhaps taking "ที่ดิน" again would fit.
+
+9. **ส. (สทศ.)**: This is the price range indicator, so I'll use "0-999".
+
+10. **ที่มาของแผนที่**: This refers to the original ownership details. In the input text, it's given as "ผู้เขียนและวันที่", which translates to "owner and date". So, I might take "ผู้ต่อการ" for owner or something similar.
+
+11. **29/9/64**: These are likely dates of execution in the land deed format. The input text doesn't mention any specific dates, so perhaps this is beyond the scope here. Maybe it's not applicable if I'm only extracting based on the given features.
+
+Putting it all together, I need to create a JSON object with keys corresponding to each feature and values as described. However, I'm unsure about some parts like "ส. (สทศ.)", "ที่ดินระวาง", and "ส. (สทศ.)" since they refer more to the structure of the land deed rather than directly mapping from the text. 
+
+I think I should focus on extracting values for each feature that are present in the input text, using the exact terms from the text where possible. For example, "ที่ดินbetween 66/1" seems to indicate the street and location, so I'll map those accordingly.
+
+Finally, I'll structure the JSON with keys as per the provided features and values extracted from the text.
+</think>
+
+```json
+{
+    "ที่ดินระวาง": "ที่ดิน",
+    "เลขที่ดิน": " Nath 66 1",
+    "ตำบล": "bolda แม่โovenant",
+    "อำเภอ": "湄ง",
+    "จังหวัดย scanning", // Assuming this is a typo and should be "ย scanning" intended as a place name, but might need clarification.
+    "สำเนาถูกต้อง": "เมื่อเต็ม",
+    "อ. (อเมก์)": "0-999",
+    "ส. (สทศ.)": "0-999",
+    "ที่ดินระวาง": "ที่ดิน",
+    "ส. (สทศ.)": "0-999",
+    "ที่มาของแผนที่": "ผู้ต่อการ",
+    "29/9/64": null // Not applicable based on input text
+}
+```

@@ -1,0 +1,129 @@
+<think>
+Alright, let's tackle this problem step by step. The user has given a list of features and an input text in Thai, which is part of a land deed document. They want me to extract specific values from the text using the provided features and return them as a JSON object.
+
+First, I need to understand what each feature represents. Each feature is a key in a dictionary with corresponding values, but some are text strings, others are numbers. My goal is to map these text strings to their respective values correctly.
+
+Looking at the input text: "# รูปแผนที่ (ใบต่อ)" which translates to "Land deed document - (leaf attached)". Then there are several bullet points and paragraphs describing various features like area, numerical details, locations, ratios, and dates.
+
+I need to extract each feature's value from this text. Let me list them out:
+
+1. ที่ดินระวาง: Alphanumeric code, Format: ####/##, E.g., '1234/56'
+   - This is a text description of an alphanumeric code with specified format and example.
+
+2. เลขที่ดิน: Numeric, Range: 0-999999
+   - A numeric feature within the range of 0 to 999999.
+
+3.-badge床: Text, E.g., 'Some roads'
+
+4. coleบี: Text, E.g., 'Some streets'
+
+5. เล่ม: Numeric, Range: 0-99
+   - A numeric feature within the range of 0 to 99.
+
+6. หน้า surveyed: Numeric, Range: 0-100
+   - A numeric feature indicating the number of pages or sections.
+
+7. 松 promotes: Numeric, Range: 0-100
+   - Not specified in the provided features, so it might not be relevant.
+
+8. ชโนดที่ดิน: Numeric, Range: 0-999
+   - A numeric feature within the range of 0 to 999.
+
+9. เลขเล่ม: Numeric, Range: 0-99
+   - Another numeric feature within the range of 0 to 99.
+
+10. ชื่อผู้ surveyed: Text or Image, E.g., 'Some people'
+
+11. ผู้เขียนแผนที่: Text, E.g., 'Some plan'
+
+Now, I'll go through the input text and identify these features one by one.
+
+Starting with "รูปแผนที่ (ใบต่อ)" which is the land deed document line. Then there are bullet points:
+
+- ที่ดิน between 5.036 ไร่ 836 ตร.ว.
+- เลขที่ดิน 66
+- หน้า surveyed 74
+- โฉนดที่ดินเลขที่ 22490
+
+I think this means the area is from 5.036 ไร่ 836 ตรบุรี. Let me double-check that.
+
+After that, there are bullet points about positional information:
+
+- เกาะเกร็ด
+- อำเภอ ปากเกร็ด
+- จังหวัด นนทบุรี
+
+These could be addresses for a road or street name. Then a section on ratio and time:
+
+- 1 : 1000
+- วันที่ทำการสำรวจ: วันที่ 13 พฤษภาคม พ.ศ. 2567
+
+Finally, bullet points about the document:
+
+- หัวหน้าการ
+- เจ้าพนักงานที่ดิน
+
+I think these are for planning purposes.
+
+Now, mapping each feature to its value based on the features provided. I'll make sure to extract the numerical values within their specified ranges and alphanumeric codes where applicable.
+
+Wait a minute, the user wants only the values from the input text, not any additional data. So I should focus solely on extracting these values without adding any extra information.
+
+Let me list out all the necessary fields:
+
+- ที่ดินระวาง (land deed document line)
+- เลขที่ดิน
+--badge床
+- coleบี
+- 松 promotes
+- ชโนดท่ดิน
+- เล่ม
+- ชื่อผู้ surveyed
+- ผู้เขียนแผนที่
+
+Now, translating the input text to extract these values:
+
+1. ที่ดินระวาง: # รูปแผนที่ (ใบต่อ)
+   - The land deed document line.
+
+2. เลขที่ดิน: 66
+   - Numerical value within 0-999999.
+
+3.-badge床: 74
+   - Text, likely the road name.
+
+4. coleบี: 1 : 1000
+   - Numeric ratio in text format.
+
+5. 松 promotes: Not specified in features.
+   - Maybe not relevant.
+
+6. ชโนดท่ดิน: 22490
+   - Numerical value within 0-999.
+
+7. เล่ม: 99
+   - Numeric value within 0-99.
+
+8. ชื่อผู้ surveyed: Some people (but not specified)
+   - Text based on bullet points.
+
+9. ผู้เขียนแผนที่: Some plan (from bullet points).
+
+I think that's all the features needed, but I'm a bit unsure about "松 promotes" since it wasn't provided in the features. Maybe it refers to something else like aspect ratio or slope? But without explicit information, I'll proceed with what's given.
+
+Finally, I need to ensure the JSON structure is correct, only containing the values and keys as specified.
+</think>
+
+[
+  {
+    "ที่ดินระวาง": "# รูปแผนที่ (ใบต่อ)",
+    " เลขที่ดิน": 66,
+    "-badge床": 74,
+    "coleบี": "1 : 1000",
+    " 松 promotes": "",
+    " ชโนดท่ดิน": 22490,
+    " เล่ม": 99,
+    " ชื่อผู้ surveyed": "Some people",
+    " ผู้เขียนแผนที่": "Some plan"
+  }
+]

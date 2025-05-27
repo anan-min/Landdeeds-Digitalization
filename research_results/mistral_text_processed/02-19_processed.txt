@@ -1,0 +1,4 @@
+ {
+  "mataara_sbyon": "1.8000",
+  "maatra_sbyon_na_skel": "1:200"
+}
