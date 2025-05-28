@@ -7,8 +7,7 @@ import numpy as np
 input_folder = os.path.join(os.path.dirname(os.path.abspath(
     __file__)), '..', 'images')
 output_folder = os.path.join(os.path.dirname(os.path.abspath(
-    __file__)), '..', 'research_results', 'cv_results', 'update_cv')
-
+    __file__)), '..', 'research_results', 'cv_results', 'update_cd')
 
 # Ensure the output folder exists
 if not os.path.exists(output_folder):
@@ -27,7 +26,7 @@ def process_image(image_path, output_folder):
         gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
         # Step 1: Increase brightness to fade text
-        bright = cv2.add(gray, 200)  # Increase brightness more
+        bright = cv2.add(gray, 150)  # Increase brightness
         blurred = cv2.GaussianBlur(bright, (5, 5), 0)
 
         # Step 2: OCR Text Detection
@@ -35,27 +34,28 @@ def process_image(image_path, output_folder):
 
         # Step 3: Mask text regions with stronger intensity
         mask = np.ones_like(gray) * 255  # Start with white canvas
+        masking_factor = 2
 
         for i in range(len(d['text'])):
             if int(d['conf'][i]) > 30 and len(d['text'][i].strip()) > 1:
                 x, y, w, h = d['left'][i], d['top'][i], d['width'][i], d['height'][i]
 
-                # Increase the area of masking for stronger effect
-                cv2.rectangle(mask, (x - 5, y - 5),
-                              (x + w + 5, y + h + 5), 0, -1)  # Enlarged mask
+                # Calculate the mask size based on the masking factor
+                # Multiply padding by masking_factor
+                padding_x = int(masking_factor * 5)
+                padding_y = int(masking_factor * 5)  # Same for y direction
 
-        # Apply the mask to the image
-        masked_image = cv2.bitwise_and(gray, gray, mask=mask)
+                # Apply the mask with the adjusted size
+                cv2.rectangle(blurred, (x - padding_x, y - padding_y),
+                            (x + w + padding_x, y + h + padding_y), 255, -1)
 
-        # Step 4: Use adaptive thresholding to enhance text contrast
-        adaptive_thresh = cv2.adaptiveThreshold(masked_image, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
-                                                cv2.THRESH_BINARY, 11, 2)
+        # Optional: further blur small text artifacts
+        cleaned = cv2.medianBlur(blurred, 5)
 
-        # Step 5: Edge detection (increase sensitivity)
-        # Lower the threshold for more edges
-        edges = cv2.Canny(adaptive_thresh, 80, 150)
+        # Step 4: Edge detection
+        edges = cv2.Canny(cleaned, 50, 100)
 
-        # Step 6: Contour detection
+        # Step 5: Contour detection
         contours, _ = cv2.findContours(
             edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
@@ -63,7 +63,7 @@ def process_image(image_path, output_folder):
         output = image.copy()
         for cnt in contours:
             area = cv2.contourArea(cnt)
-            if area > 50:  # Lower threshold to capture smaller contours
+            if area > 100:  # Adjust this threshold as needed
                 cv2.drawContours(output, [cnt], -1, (0, 255, 0), 2)
 
         # Save the output image with contours
