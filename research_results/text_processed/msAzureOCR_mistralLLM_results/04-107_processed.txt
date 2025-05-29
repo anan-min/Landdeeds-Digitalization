@@ -1,0 +1,10 @@
+ {
+      "parcel_id": "79",
+      "plot_number": "7618",
+      "plot_size": "9243",
+      "x_coordinate": "5036",
+      "y_coordinate": "1",
+      "subdivision": "5836-03",
+      "department": "LAN",
+      "date": "15 กุมภาพันธ์ พ.ศ. 2567"
+   }

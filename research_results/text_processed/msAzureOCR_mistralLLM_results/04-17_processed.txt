@@ -1,0 +1,59 @@
+ {
+  "location": "Thailand",
+  "date": "14 พฤษภาคม พ.ศ. 2567",
+  "department_of_land": true,
+  "features": [
+    {
+      "type": "feature",
+      "id": "1",
+      "properties": {
+        "name": "Main Feature",
+        "area": "N/A",
+        "purpose": "N/A",
+        "length": 3.00,
+        "width": 2.63,
+        "height": 1412,
+        "use": "Public Utility"
+      }
+    },
+    {
+      "type": "feature",
+      "id": "2",
+      "properties": {
+        "name": "Canal",
+        "area": "N/A",
+        "purpose": "Waterway",
+        "length": 1708,
+        "width": 2.263,
+        "height": 03.06,
+        "use": "Public Utility"
+      }
+    },
+    {
+      "type": "feature",
+      "id": "3",
+      "properties": {
+        "name": "Road",
+        "area": "N/A",
+        "purpose": "Transportation",
+        "length": 1707,
+        "width": 2.263,
+        "height": null,
+        "use": "Public Utility"
+      }
+    },
+    {
+      "type": "feature",
+      "id": "4",
+      "properties": {
+        "name": "Drainage",
+        "area": "N/A",
+        "purpose": "Water Drainage",
+        "length": 1707,
+        "width": 2.263,
+        "height": null,
+        "use": "Public Utility"
+      }
+    }
+  ]
+}

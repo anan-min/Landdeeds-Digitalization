@@ -1,0 +1,35 @@
+ {
+  "map_scale": "1:1000",
+  "legend": [
+    {
+      "unit": "m",
+      "symbol": "S"
+    },
+    {
+      "unit": "year",
+      "symbol": "Y"
+    }
+  ],
+  "map_details": [
+    {
+      "location": "D468",
+      "scale_value": "1000",
+      "feature": "Department of Lands",
+      "year": "2567",
+      "coordinates": [
+        97.76,
+        3.57
+      ]
+    },
+    {
+      "location": "DEPARTMEN",
+      "scale_value": "10000",
+      "feature": "",
+      "year": "2567",
+      "coordinates": [
+        97.76,
+        3.57
+      ]
+    }
+  ]
+}

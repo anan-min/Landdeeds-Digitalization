@@ -1,0 +1,17 @@
+ {
+    "properties": {
+        "land_parcel_number": "...",
+        "land_table_number": "4550",
+        "land_row_number": "8275",
+        "land_column_number": "4731",
+        "department_name": "Department of Land",
+        "date_issued": "14 พฤษภาคม พ.ศ. 2567",
+        "ministry_name": "Ministry of Agriculture and Cooperatives",
+        "land_department_department_number": "DEPAR2"
+    },
+    "size": {
+        "area": "..."
+    },
+    "scale": "1:10000",
+    "map_image": "..."
+}

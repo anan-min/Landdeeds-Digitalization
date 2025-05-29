@@ -1,0 +1,47 @@
+ {
+      "map": {
+        "scale": "1:5000",
+        "title": "Map of Land Plot",
+        "legend": [
+          {
+            "name": "Land Use",
+            "class": [
+              { "symbol": "#ffff99", "label": "Building" },
+              { "symbol": "#ff66cc", "label": "Road" },
+              { "symbol": "#99ccff", "label": "Water" }
+            ]
+          },
+          {
+            "name": "Boundary Markers",
+            "class": [
+              { "symbol": "#006400", "label": "North" },
+              { "symbol": "#0099ff", "label": "West" },
+              { "symbol": "#b3224d", "label": "South" },
+              { "symbol": "#9966ff", "label": "East" }
+            ]
+          }
+        ],
+        "boundaryMarkers": [
+          { "latitude": 6.75, "longitude": 100.33 },
+          { "latitude": 6.833, "longitude": 100.283 },
+          { "latitude": 6.833, "longitude": 100.417 },
+          { "latitude": 6.75, "longitude": 100.417 }
+        ],
+        "landUse": [
+          { "type": "Building", "geometry": { "coordinates": [100.35, 6.775], "type": "Point" } },
+          { "type": "Road", "geometry": { "coordinates": [[[100.32, 6.79], [100.4, 6.79]]], "type": "MultiLineString" } },
+          { "type": "Water", "geometry": { "type": "Polygon", "coordinates": [[[ [100.35, 6.72], [100.35, 6.8], [100.4, 6.8], [100.4, 6.72] ]] } }
+        ]
+      },
+      "details": {
+        "type": "MapDetails",
+        "plotSize": "1 rai (0.16 hectares)",
+        "plotID": "6281/0675",
+        "purposeOfLand": "Lam Krabong Satthararn Prachayon (Public Utility)",
+        "location": {
+          "latitude": 6.775,
+          "longitude": 100.35
+        },
+        "date": "2557-12-08"
+      }
+    }

@@ -1,0 +1,15 @@
+ {
+    "province": "UnOU",
+    "district": "DEPARTMENT OF LAND",
+    "map_scale": 1100,
+    "table_ratio": 8640,
+    "table_rows": 10,
+    "map_image": {
+        "filename": "ตารางวา",
+        "x_coordinates": [29, 56, 7060, 29, 40, 7153, 55, 4],
+        "y_coordinates": [2, 2, 6919, 54, 6938]
+    },
+    "map_ratio": 11000,
+    "waterway": "ลำกระโดงสาธารณประโยชน์",
+    "date": "15 กุมภาพันธ์ พ.ศ. 2567"
+}

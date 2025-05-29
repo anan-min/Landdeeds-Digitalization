@@ -1,0 +1,24 @@
+ {
+      "project": "Development Plan of Land Department",
+      "scale": "1:1000",
+      "department_of_land": "Department of Land",
+      "date": "28th December 2024",
+      "location": {
+          "district": "District A",
+          "province": "Province B"
+      },
+      "plots": [
+          {
+              "plot_number": "1",
+              "land_use": "Residential",
+              "size_in_square_meter": 500,
+              "owner": "John Doe"
+          },
+          {
+              "plot_number": "2",
+              "land_use": "Commercial",
+              "size_in_square_meter": 1000,
+              "owner": "Jane Smith"
+          }
+      ]
+  }

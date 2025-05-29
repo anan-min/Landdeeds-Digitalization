@@ -1,0 +1,17 @@
+ {
+    "land_parcel_name": "ASUnau",
+    "department": "DEPARTMENT OF LAND",
+    "number_of_land_parcel": "4066",
+    "area_type": "กรมที่ดิน กระทรวงมหาดไทย",
+    "dimension": {
+        "longitude": "-ดงานุ-",
+        "latitude": ".........",
+        "scale": "มาตราส่วนในระวาง ๑,๑๐๐๐"
+    },
+    "map_image": "รูปแผนที่",
+    "task": "(หนึ่งงาน)",
+    "scale_ratio": "๓๑,๑๐ปฎิ้น",
+    "department_of_land_number": "4066",
+    "issue_number": "3725",
+    "date_issued": "วันที่ 08 กุมภาพันธ์ พ.ศ. 2567"
+}

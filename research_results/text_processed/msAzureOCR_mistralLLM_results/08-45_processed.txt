@@ -1,0 +1,24 @@
+ {
+      "land_plot_number": "6",
+      "size_area": "20-2",
+      "work": [
+        "plow",
+        "irrigate"
+      ],
+      "soil_type": "loamy sand",
+      "cultivation": {
+        "plot_number": "1",
+        "width": "5",
+        "length": "43",
+        "ratio": "2000"
+      },
+      "map": null,
+      "land_area": "15",
+      "year_acquired": "1979",
+      "book_number": "82836 13806 3042",
+      "zone_controlled": "DEPARTMENT OF LAND",
+      "date_of_possession": "15 กุมภาพันธ์ พ.ศ. 2567",
+      "department": "Ministry of Natural Resources and Environment",
+      "land_number": "DEPARTMENT OF LAND 6",
+      "region": null
+    }

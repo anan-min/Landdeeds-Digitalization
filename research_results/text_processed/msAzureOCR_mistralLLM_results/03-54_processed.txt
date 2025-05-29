@@ -1,0 +1,11 @@
+ {
+      "district_de": "DE",
+      "plot_number": "16078991",
+      "section": "ซ.",
+      "block": "8961",
+      "village": "ฆ",
+      "tessaban": "19078",
+      "amphur": "4324",
+      "province": "1867",
+      "country": "TH"
+    }

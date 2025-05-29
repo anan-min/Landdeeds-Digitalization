@@ -1,0 +1,35 @@
+ {
+      "document": {
+        "title": "Department of Land",
+        "date": "15th Kumaphabhan, 2567",
+        "parties": [
+          {
+            "name": "Ministry of Land",
+            "role": "Applicant"
+          },
+          {
+            "name": "Mr. John Smith",
+            "role": "Plaintiff"
+          },
+          {
+            "name": "Mrs. Jane Doe",
+            "role": "Defendant"
+          }
+        ],
+        "location": "Bangkok, Thailand",
+        "caseNumber": "07204/2567",
+        "description": "Dispute over land ownership",
+        "evidence": [
+          {
+            "type": "Survey",
+            "details": "Survey report from a certified surveyor"
+          },
+          {
+            "type": "Title Deed",
+            "details": "Original title deed for the property"
+          }
+        ],
+        "decision": null,
+        "outcome": null
+      }
+    }

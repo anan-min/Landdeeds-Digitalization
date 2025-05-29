@@ -1,0 +1,13 @@
+ {
+    "GementOfDef": "89-",
+    "AreaDescription": "งาน เขตตารางวา",
+    "PortionSize": "1,2000",
+    "NumberOfParcels": "สองงานยี่สิบสามตารางวา",
+    "MapScale": "1,1000",
+    "Department": "กรมที่ดิน กระทรวงมหาดไทย",
+    "ParcelNumber": "1578",
+    "SizeInAcre": "-",
+    "Location": "ลำกระโดงสาธารณประโยชน์ 4766",
+    "BoundaryScale": "1,480",
+    "DateIssued": "2567-06-14"
+}

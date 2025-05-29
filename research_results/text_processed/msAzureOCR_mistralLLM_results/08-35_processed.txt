@@ -1,0 +1,51 @@
+ {
+      "Department": "DEPARTMENTY",
+      "Title": "THE MINE DEPARTMENT OF THE MINISTRY OF NATURAL RESOURCES AND ENVIRONMENT",
+      "Location": "83407, 23 5 53",
+      "Divisions": [
+        {
+          "Name": "Mining Division",
+          "Code": "1"
+        },
+        {
+          "Name": "Geological Survey Division",
+          "Code": "2"
+        },
+        {
+          "Name": "Geology Department",
+          "Code": "3"
+        },
+        {
+          "Name": "Minerals Processing Division",
+          "Code": "4"
+        },
+        {
+          "Name": "Mining Safety and Health Inspectorate",
+          "Code": "5"
+        },
+        {
+          "Name": "Petroleum Conservation Department",
+          "Code": "6"
+        },
+        {
+          "Name": "Coal Resources Development Division",
+          "Code": "7"
+        },
+        {
+          "Name": "Mining Affairs Bureau",
+          "Code": "8"
+        }
+      ],
+      "Regions": [
+        {
+          "Name": "Central Region",
+          "Offices": ["83301"]
+        },
+        {
+          "Name": "Northern Region",
+          "Offices": ["83651"]
+        }
+      ],
+      "Royal Address": "Phra Yai",
+      "Established": "15 December 2567"
+    }

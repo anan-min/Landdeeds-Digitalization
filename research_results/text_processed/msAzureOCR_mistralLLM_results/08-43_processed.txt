@@ -1,0 +1,13 @@
+ {
+    "title": "Department of Land",
+    "mapScale": 10,
+    "coordinates": [
+        9000,
+        338
+    ],
+    "departmentId": 244,
+    "riverName": "แม่น้ำเจ้าพระยา",
+    "ministryName": "กระทรวงมหาดไทย",
+    "region": 6,
+    "location": "ธรรมสัญชาติ 5"
+}

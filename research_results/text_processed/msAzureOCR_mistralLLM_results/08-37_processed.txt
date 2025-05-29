@@ -1,0 +1,32 @@
+ {
+    "title": "Land Department",
+    "department_of_land": [
+        "Land Department",
+        "Ministry of Natural Resources and Environment",
+        "Thailand"
+    ],
+    "address": [
+        "83253, 84595",
+        "Bangkok",
+        "Thailand"
+    ],
+    "coordinates": [
+        13.756389,
+        100.501765
+    ],
+    "location_map": {
+        "url": "https://www.google.com/maps/place/"
+    },
+    "building_number": "83253, 84595",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "postal_code": "",
+    "date": "15 January 2567",
+    "document_type": "Departie",
+    "department_of_land_repeated": [
+        "Land Department",
+        "Ministry of Natural Resources and Environment",
+        "Thailand"
+    ],
+    "location_map_url": "https://www.google.com/maps/place/"
+}

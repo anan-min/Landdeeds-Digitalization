@@ -1,0 +1,47 @@
+ {
+      "title": "Royal Gazette",
+      "date": "15 December 2023",
+      "department_of_land": "Department of Land",
+      "ministry_of_natural_resources_and_environment": "Ministry of Natural Resources and Environment",
+      "office_of_the_royal_duties": "Office of the Royal Duties",
+      "geographical_area": [
+        {
+          "number": 1,
+          "region": "North",
+          "sub_regions": ["Area 1-1", "Area 1-2", "Area 1-3"]
+        },
+        {
+          "number": 2,
+          "region": "East",
+          "sub_regions": ["Area 2-1", "Area 2-2", "Area 2-3"]
+        },
+        {
+          "number": 3,
+          "region": "South",
+          "sub_regions": ["Area 3-1", "Area 3-2", "Area 3-3"]
+        },
+        {
+          "number": 4,
+          "region": "West",
+          "sub_regions": ["Area 4-1", "Area 4-2", "Area 4-3"]
+        }
+      ],
+      "gem_stones": [
+        {
+          "name": "Ruby",
+          "location": "North, Area 1-3"
+        },
+        {
+          "name": "Sapphire",
+          "location": "East, Area 2-1"
+        },
+        {
+          "name": "Diamond",
+          "location": "South, Area 3-2"
+        },
+        {
+          "name": "Emerald",
+          "location": "West, Area 4-3"
+        }
+      ]
+    }

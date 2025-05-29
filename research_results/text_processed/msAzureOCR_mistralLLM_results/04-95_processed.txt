@@ -1,0 +1,14 @@
+ {
+      "land_parcel": {
+        "purpose": "Work",
+        "size": 80,
+        "zone": 90,
+        "section": 1,
+        "sub_section": 1000,
+        "plot": "",
+        "plan": "Department of Land (DEPA)",
+        "department": "Department of Land",
+        "number": 4,
+        "location": "Thailand"
+      }
+    }

@@ -1,0 +1,28 @@
+ {
+    "nationality_of_law": "1.500",
+    "department_of_land": "2",
+    "parcel_numbers": [
+        {
+            "number": "8326",
+            "size": "0"
+        },
+        {
+            "number": "0546",
+            "size": "0"
+        },
+        {
+            "number": "0560",
+            "size": ""
+        },
+        {
+            "number": "0048",
+            "size": ""
+        },
+        {
+            "number": "5852",
+            "size": ""
+        }
+    ],
+    "department_name": "กรมที่ดิน DEPARTMENT OF LAND",
+    "date": "วันที่ 15 กุมภาพันธ์ พ.ศ. 2567"
+}

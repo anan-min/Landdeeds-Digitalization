@@ -1,0 +1,10 @@
+ {
+    "title": "Map of Land Regions",
+    "description": "This map shows land regions with their respective area sizes.",
+    "regions": [
+        {"name": "Region 1", "area": "300 square miles"},
+        {"name": "Region 2", "area": "450 square miles"},
+        {"name": "Region 3", "area": "600 square miles"}
+    ],
+    "scale": "1 inch = 20 miles"
+}

@@ -1,0 +1,13 @@
+ {
+    "title": "DEPARTMENT OF LANDS",
+    "date": "15 กุมภาพันธ์ พ.ศ. 2567",
+    "land_department": "Department of Lands, Ministry of Interior, Thailand",
+    "plot_size": "__ ไร่",
+    "parcel_number": "493",
+    "block_number": "2365",
+    "row_number": "744",
+    "section_number": "2004",
+    "page_number": "1794",
+    "note": "This plot of land has been changed.",
+    "map": "Please refer to the attached map."
+}

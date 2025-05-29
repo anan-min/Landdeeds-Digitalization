@@ -1,0 +1,11 @@
+ {
+    "land_bent": "BENT OF LAW",
+    "law_number": 10000,
+    "depa_number": 17100,
+    "ministry_number": 2116,
+    "soil_type": "clay",
+    "soil_moisture": "wet",
+    "land_area": 3.0,
+    "date": "14 June 2567",
+    "location": "Thailand"
+}

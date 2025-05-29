@@ -1,0 +1,15 @@
+ {
+    "department": "DEPARTMENT C",
+    "date": "26/12/2567",
+    "scale": 1000,
+    "location": {
+        "latitude": 14.68333,
+        "longitude": 100.55,
+        "elevation": 85
+    },
+    "size": {
+        "width": 24000,
+        "length": 1147,
+        "units": "m"
+    }
+}

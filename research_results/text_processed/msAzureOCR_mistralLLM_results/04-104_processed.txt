@@ -1,0 +1,9 @@
+ {
+      "area": " Thailand Department of Land",
+      "date": "15 December 2024 B.E. (2567)",
+      "plotRatio": "1:83",
+      "plotSize": "5,036 sqm - 60,361 sqm",
+      "parcelQuantity": "83 parcels",
+      "mapScale": "1:5036",
+      "titleDeedNumber": "1"
+   }

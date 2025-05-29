@@ -7,9 +7,12 @@ import ollama
 model_name = "update_mistral"
 # Define input and output folders
 output_folder = os.path.join(os.path.dirname(os.path.abspath(
-    __file__)), '..', 'research_results', 'ocr_results', 'openai_ocr_results')
+    __file__)), '..', 'research_results', 'ocr_results', 'ms_azure_ocr_results')
 processed_folder = os.path.join(os.path.dirname(os.path.abspath(
-    __file__)), '..', 'research_results', 'text_processed', f'openaiOCR_mistralLLM_results')
+    __file__)), '..', 'research_results', 'text_processed', f'msAzureOCR_mistralLLM_results')
+
+if not os.path.exists(processed_folder):
+    os.makedirs(processed_folder)
 
 features = {
     "ที่ดินระวาง": "Alphanumeric code, Format: ####/##, E.g., '1234/56'",
@@ -23,10 +26,6 @@ features = {
     "ลงชื่อ": "Text or Image, E.g., 'นายสมชาย'",
     "ผู้เขียนแผนที่": "Text, E.g., 'บริษัทแผนที่บางขุนเทียน'"
 }
-
-
-# Ensure processed folder exists
-os.makedirs(processed_folder, exist_ok=True)
 
 
 def process_and_store_result(txt_file_path, output_file_path):

@@ -1,0 +1,21 @@
+ {
+    "Department": "DEPARTMENT OF MINES",
+    "Scale": "1 : 1000",
+    "Map_Number": "AT OF LA 93/6-3",
+    "Place_Name": "O F (OF) of LA (Lumpang)",
+    "Department_of_Mines": "DEPARTMENT OF MINES, ROYAL THAI GOVERNMENT",
+    "Date_Issued": "15th January 2067",
+    "Location": {
+        "River_Name": "Chu Phrom",
+        "Latitude": "7°49'3\" N",
+        "Longitude": "100°50'8.7\" E",
+        "Mae Nam Chao Phraya": true,
+        "Place_ID": "5087"
+    },
+    "Page_Number": [
+        6,
+        7,
+        3557,
+        3661
+    ]
+}

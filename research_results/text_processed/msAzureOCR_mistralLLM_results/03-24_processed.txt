@@ -1,0 +1,23 @@
+ {
+    "property": "Department of Land",
+    "departmentId": "1",
+    "dateIssued": "1 Kuepaphan 2567",
+    "location": {
+        "district": "89/8",
+        "province": "8921",
+        "nation": "6872",
+        "landArea": "1866",
+        "coordinate": [
+            "7784",
+            "2206",
+            "81"
+        ],
+        "subdistrict": "7784",
+        "village": "4",
+        "tambon": "111",
+        "amphoe": "อำเภอที่...",
+        "changwat": "ชั้น..."
+    },
+    "mapRatio": "1:1200",
+    "landType": "Rural"
+}

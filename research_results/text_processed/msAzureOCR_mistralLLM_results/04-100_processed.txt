@@ -1,0 +1,15 @@
+ {
+    "land_parcel": "DEPART MENT OF",
+    "location": "Krung Thep Maha Nakhon",
+    "coordinates": {
+        "latitude": null,
+        "longitude": null
+    },
+    "size": null,
+    "purpose": "ลำกระโดงสาธารณประโยชน์",
+    "plot_number": "5036 1 6036-1",
+    "section": "COL",
+    "subdivision": "592R",
+    "department": "กรมที่ดิน DEPART MENT OF",
+    "date": "วันที่/15 กุมภาพันธ์ พ.ศ. 2567"
+}

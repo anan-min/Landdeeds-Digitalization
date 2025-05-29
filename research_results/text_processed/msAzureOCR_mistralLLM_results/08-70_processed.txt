@@ -1,0 +1,32 @@
+ {
+   "land_area": [
+      "Farm",
+      "150 rai",
+      "Plot 1: 8126 square wah",
+      "Plot 2: 4940 square wah"
+   ],
+   "plot_shape": [
+      "Rectangle"
+   ],
+   "land_use": [
+      "Agriculture"
+   ],
+   "department": [
+      "Department of Lands"
+   ],
+   "location": [
+      "Thailand",
+      "Province",
+      "District",
+      "Sub-district"
+   ],
+   "document_number": [
+      5,
+      "8126",
+      "5",
+      "8313"
+   ],
+   "date_of_issue": [
+      "15 December 2024"
+   ]
+}

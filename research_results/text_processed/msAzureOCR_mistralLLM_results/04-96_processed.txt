@@ -1,0 +1,13 @@
+ {
+"region": "Haad Thai",
+"department": "Krong Thien Din Krung Thep Maha Nakhon",
+"region_department": ["Haad Thai", "Krong Thien Din Krung Thep Maha Nakhon"],
+"table_number": 80,
+"scale_factor": 11200,
+"map_image": "",
+"scale": 11200,
+"legend": "Tedin E",
+"location": "7203451 S 470-7118 IT OF 4997 Sámnàa",
+"date": "วันที่ 8 กุมภาพันธ์ พ.ศ. 2567",
+"department_name": "CAREUNAU DEPARTMENT"
+}

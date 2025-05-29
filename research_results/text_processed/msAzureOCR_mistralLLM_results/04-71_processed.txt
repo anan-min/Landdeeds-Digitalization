@@ -1,0 +1,22 @@
+ {
+      "title": "Ment of Land, EPA, and Ando Agreement",
+      "date": "14 June 2567",
+      "agreement_number": "114",
+      "land_department": "Department of Lands, Ministry of Natural Resources and Environment",
+      "land_area": {
+        "total_area": "29815 sq.m",
+        "forest_reserve": "27510 sq.m",
+        "public_use_zone": "3525 sq.m"
+      },
+      "plot_location": {
+        "longitude": "3560",
+        "latitude": "3598"
+      },
+      "land_status": "Restricted for employees only, no outside access allowed",
+      "map": "Attached map",
+      "terms_and_conditions": [
+        "Use of the land is restricted to the Ministry of Natural Resources and Environment and their authorized personnel.",
+        "All activities on the land must comply with applicable environmental laws and regulations.",
+        "The land may not be sold, transferred, or encumbered in any way without the prior written approval of the Ministry."
+      ]
+    }

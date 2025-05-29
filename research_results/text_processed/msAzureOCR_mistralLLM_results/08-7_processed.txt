@@ -1,0 +1,15 @@
+ {
+  "land_parcel": "26-10",
+  "scale": "1:100",
+  "plot_ratio": "1, 2000",
+  "map": true,
+  "area": "51",
+  "location": "3006",
+  "longitude": "3.557",
+  "latitude": "N/A",
+  "unit_of_measurement": "รai",
+  "subdivision": "5, 5087",
+  "registration_date": "1967-12-15",
+  "department_of_land": true,
+  "map_type": "EPAI"
+}

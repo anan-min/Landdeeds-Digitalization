@@ -1,0 +1,28 @@
+ {
+"title": "Land Department of Thailand",
+"date": "15 December 2024 B.E.",
+"location": "Department of Land",
+"map_scale": "1:10,000",
+"depar_number": "29",
+"coordinates": [
+[6392, 2],
+[7422, 2],
+[59, 2],
+[9800, 1],
+[6514, 2],
+[6837, 2]
+],
+"water_body": "Canal for public utilities",
+"land_parcel": [
+{
+"id": "1",
+"coordinates": [6302, 1],
+"area": "41.6 hectares"
+},
+{
+"id": "2",
+"coordinates": [9800, 1],
+"area": "54 hectares"
+}
+]
+}

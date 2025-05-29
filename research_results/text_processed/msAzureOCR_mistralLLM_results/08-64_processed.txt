@@ -1,0 +1,60 @@
+ {
+    "scale": "1",
+    "image": {
+        "width": "389",
+        "height": "674",
+        "unit_scale": 1,
+        "units": [
+            {
+                "id": "0",
+                "type": "text",
+                "x": "22.5",
+                "y": "31.5",
+                "width": "98",
+                "height": "27",
+                "angle": "0",
+                "value": "ME"
+            },
+            {
+                "id": "1",
+                "type": "text",
+                "x": "23.5",
+                "y": "64.5",
+                "width": "87",
+                "height": "27",
+                "angle": "0",
+                "value": "DEPARTMENT"
+            },
+            {
+                "id": "2",
+                "type": "text",
+                "x": "148.5",
+                "y": "37.5",
+                "width": "106",
+                "height": "27",
+                "angle": "0",
+                "value": "วันที่ 15 กุมภาพันธ์ พ.ศ. 2567"
+            },
+            {
+                "id": "3",
+                "type": "text",
+                "x": "48.5",
+                "y": "615.5",
+                "width": "98",
+                "height": "27",
+                "angle": "0",
+                "value": "ฉบับสำนักงานที่ดิน ห้ามนำออก"
+            }
+        ]
+    },
+    "layers": [
+        {
+            "id": "0",
+            "name": "Image",
+            "type": "image",
+            "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+MBAQjQBQUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAASURBVHjaY3sR/7zgT69aZL1w7dW0FjD+xwO8v2cL4GYuUkQeo+Xgm6tPpV7NfQQgCfKJjzJq5h8E13bKIzgT7R9rJkdLH5yzA9Fx7vWcZw/G4QlqVuDZX+j07P7pUm6Bnz9+/v3tX/MhN18/7E85OXv6gD2TgAAAABJRU5ErkJggg==",
+            "x": "0",
+            "y": "0"
+        }
+    ]
+}

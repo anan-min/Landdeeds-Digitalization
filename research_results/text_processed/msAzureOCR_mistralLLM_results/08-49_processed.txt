@@ -1,0 +1,37 @@
+ {
+      "department_name": "Department of Land",
+      "date": "15 กุมภาพันธ์ พ.ศ. 2567",
+      "land_area": [
+          {
+              "plot_number": 1,
+              "field_number": 1,
+              "size_in_rai": 8.87,
+              "parcel_number": 10174,
+              "use_percentage": 50
+          },
+          {
+              "plot_number": 2,
+              "field_number": 2,
+              "size_in_rai": 0.3887,
+              "parcel_number": 182,
+              "use_percentage": 50
+          },
+          {
+              "plot_number": 3,
+              "field_number": 3,
+              "size_in_rai": 0.7364,
+              "parcel_number": 385,
+              "use_percentage": 0.08
+          },
+          {
+              "plot_number": 4,
+              "field_number": 4,
+              "size_in_rai": 0.0395,
+              "parcel_number": 395,
+              "use_percentage": 0.8
+          }
+      ],
+      "map": "Map Not Included",
+      "scale": "1:1200",
+      "note": "The copies of the Land Department are not allowed to be taken out."
+  }

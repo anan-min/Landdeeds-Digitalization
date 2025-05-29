@@ -1,0 +1,13 @@
+ {
+      "Department": "Department of Land",
+      "Ministry": "Ministry of Natural Resources and Environment",
+      "Date": "13th March 2024",
+      "Location": "Thailand",
+      "Map_coordinates": {
+        "Latitude": [5.60, 4.80, 4.28],
+        "Longitude": [104.30, 104.80, 8.00]
+      },
+      "Scale": "1:20,000",
+      "Key": "Currently not provided in the text.",
+      "Legend": "Currently not provided in the text."
+    }

@@ -1,0 +1,10 @@
+ {
+    "land_area": "120 rai",
+    "land_use": "Lam Kra Bang Sa Thani",
+    "department_of_land": "DEPARTMENT OF LAND",
+    "ministry_name": "Ministry of Land",
+    "plot_number": "5/2",
+    "plot_size_decimal": "2.08",
+    "plot_coordinates": "6° 2' N, 103° 49' E",
+    "date_issued": "21 December 208"
+}

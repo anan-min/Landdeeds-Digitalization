@@ -1,0 +1,18 @@
+ {
+  "NT_OF_LAN": 79,
+  "MAP_SCALE": 1,
+  "EPAR": 2,
+  "DEPARTMENT_OF_LAND": "กรมที่ดิน DEPARTMENT OF LAND",
+  "DATE": "วันที่ 15 กุมภาพันธ์ พ.ศ. 2567",
+  "AREA": {
+    "SQUARE_METERS": 85360,
+    "ACRES": 2109.64
+  },
+  "PARCEL_NO": 9908,
+  "ROAD_DIVISION": 7,
+  "ROW_NO": 1,
+  "COLUMN_NO": 8,
+  "SUB_DIVIDE_NO": 3,
+  "TERRAIN": "เนา",
+  "SOURCE": "ฉบับสำนักงานที่ดิน ห้ามนำออก"
+}

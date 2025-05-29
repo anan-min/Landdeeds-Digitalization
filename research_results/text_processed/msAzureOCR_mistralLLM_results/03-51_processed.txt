@@ -1,0 +1,11 @@
+ {
+"unit_of_land": "AF",
+"depa_number": "6498",
+"date": "21 กุมภาพันธ์-พ.ศ. 2567",
+"river_name": "แม่น้ำเจ้าพระยา ลำกระโดงสาธารณประโยชน์",
+"table_number": "๔๓๖๖",
+"map_image_id": null,
+"water_right_table": "ศขวัญ ย.",
+"water_right_number": "6418",
+"volume": null
+}

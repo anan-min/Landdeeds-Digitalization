@@ -1,0 +1,15 @@
+ {
+    "teedorang": "503675836-3",
+    "elqtidin": "134 48",
+    "tambon": "กางเกร็ด (เสาวาสนา 9000",
+    "amphoe": "ปากเกร็ด",
+    "conddorang": "270",
+    "elqmhabook": "2.3",
+    "hnaasamrawat": "-274 -586",
+    "mataSynSonSkl": "1:8",
+    "lngChuoi": [
+        "mi Loom ผู้เขียนแผนที่",
+        "นายสันติชัย นิลพานิช"
+    ],
+    "phuthoruanplanthat": "บริษัทแผนที่บางขุนเทียน"
+}

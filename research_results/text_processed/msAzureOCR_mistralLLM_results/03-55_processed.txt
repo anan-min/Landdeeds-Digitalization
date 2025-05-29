@@ -1,0 +1,32 @@
+ {
+    "Department of Land": {
+        "date": "21 December 2024",
+        "tables": [
+            {
+                "number": "1",
+                "title": "Land Classification",
+                "cells": [
+                    ["Province", "District", "Sub-district", "Village", "Location"],
+                    // ... other rows
+                ]
+            },
+            {
+                "number": "2",
+                "title": "Land Ownership",
+                "cells": [
+                    ["Province", "District", "Sub-district", "Village", "Owner Name", "Type of Ownership"],
+                    // ... other rows
+                ]
+            },
+            {
+                "number": "3",
+                "title": "Land Uses",
+                "cells": [
+                    ["Province", "District", "Sub-district", "Village", "Use Type", "Area (Rai)"],
+                    // ... other rows
+                ]
+            }
+        ],
+        "scale": "1:2500"
+    }
+}

@@ -1,0 +1,11 @@
+ {
+    "district_name": "Unnamed District",
+    "province_name": null,
+    "area_size": "270 rai",
+    "scale": 1:10000,
+    "number_of_sheets": 319,
+    "sheet_coordinates": [6432, 2439],
+    "office_name": "Department of Land, Ministry of Natural Resources and Environment",
+    "purpose": "Irrigation for farming",
+    "date_of_issue": "15 December 2021"
+}

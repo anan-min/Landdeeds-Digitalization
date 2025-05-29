@@ -1,0 +1,14 @@
+ {
+   "property": [
+      "NIT OF LAND",
+      "/Land of the National Institute of Thailand",
+      "Location: 79/60 Moo 1, Khao Phra, Ban Tah Sae, Chumpon District, Surat Thani 84250",
+      "Size: Approximately 78,570 square meters",
+      "Date: 13 June 1967",
+      "Purpose: Public Utility Purpose"
+   ],
+   "map": [
+      7.982374, // latitude
+      99.140034  // longitude
+   ]
+}

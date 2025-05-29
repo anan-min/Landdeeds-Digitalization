@@ -1,0 +1,13 @@
+ {
+    "deed_number": "6872",
+    "description": "MENT OF LAND",
+    "date": "2561-12-21",
+    "land_department": "Thai Land Department",
+    "province": "",
+    "district": "",
+    "subdistrict": "",
+    "village_tambon": "",
+    "parcel_number": "8485 9186",
+    "plot_size": "541 square wah",
+    "rights": ["ownership"]
+}

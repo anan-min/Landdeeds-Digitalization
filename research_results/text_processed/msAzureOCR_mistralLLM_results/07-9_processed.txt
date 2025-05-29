@@ -1,0 +1,37 @@
+ {
+    "title": "Map of Mana Nakhon Province",
+    "scale": [1, 2000],
+    "grid": [
+        ["UD", "T", "-5", "6700", "Phra Yai"],
+        ["T", "78", "T", "-5", "Mana Nakhon"],
+        ["-5", "", "", "", ""],
+        ["6700", "71", "3", "", ""]
+    ],
+    "legend": [
+        {
+            "symbol": "UD",
+            "name": "Utmessanukom"
+        },
+        {
+            "symbol": "T",
+            "name": "Tambon"
+        },
+        {
+            "symbol": "-5",
+            "name": "Ammarat"
+        },
+        {
+            "symbol": "6700",
+            "name": "Mueang Phra Yai"
+        },
+        {
+            "symbol": "71",
+            "name": "Amphoe Mana Nakhon"
+        },
+        {
+            "symbol": "3",
+            "name": "Subdistrict"
+        }
+    ],
+    "date": "2567-01-15"
+}

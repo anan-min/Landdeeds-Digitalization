@@ -1,0 +1,15 @@
+ {
+     "department_name": "Department Of Land",
+     "location": "Thailand",
+     "date": "15 January 2567",
+     "areas_of_responsibility": [
+         "Minister of Interior",
+         "Royal Forest Department",
+         "Geographical Information System Division",
+         "Land Development Department"
+     ],
+     "map_files": [
+         "07295",
+         "07319"
+     ]
+ }

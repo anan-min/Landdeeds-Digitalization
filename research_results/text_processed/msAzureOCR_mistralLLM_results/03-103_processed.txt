@@ -1,0 +1,9 @@
+ {
+    "LAND": "Land",
+    "WATER_SOURCE": "Lungmen Reservoir",
+    "SCALE": 100,
+    "SHAPE": 566,
+    "DEPARTMENT": "Department of Land",
+    "DATE": "21 December 2567",
+    "LOCATION": "Thai Nguyen Province, Vietnam"
+}

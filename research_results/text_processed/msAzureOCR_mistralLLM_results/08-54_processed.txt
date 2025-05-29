@@ -1,0 +1,13 @@
+ {
+  "area": "2 Rai",
+  "parcel_number": "8639-2",
+  "plot_ratio": "11000",
+  "map_number": "14",
+  "department": "Department of Lands, Forestry and Fisheries",
+  "province": "Unknown",
+  "district": "Unknown",
+  "village": "Unknown",
+  "location": "Outside the forest reserve",
+  "river_name": "Lam Krabong Satharan Phumpha",
+  "date": "15 December 2567"
+}

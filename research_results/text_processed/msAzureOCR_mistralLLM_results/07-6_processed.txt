@@ -1,0 +1,10 @@
+ {
+    "land_area": "1,200",
+    "scale": "1:1000",
+    "land_department": "Department of Land",
+    "location": "Thailand",
+    "date": "15 December 2567",
+    "plot_number": "D-8739",
+    "parcel_size": "0.9739 hectares",
+    "offset": "-0.01"
+}

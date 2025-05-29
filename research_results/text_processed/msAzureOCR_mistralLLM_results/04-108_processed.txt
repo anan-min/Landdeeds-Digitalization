@@ -1,0 +1,12 @@
+ {
+    "place": "DEPARTMENT OF LAND",
+    "address": "15 Kumphaophanthom Rd., Nonthaburi 11000, Thailand",
+    "department_of": "MINISTRY OF NATURAL RESOURCES AND ENVIRONMENT",
+    "coordinates": {
+        "latitude": "",
+        "longitude": ""
+    },
+    "district": "Nonthaburi",
+    "province": "Nonthaburi",
+    "country": "Thailand"
+}

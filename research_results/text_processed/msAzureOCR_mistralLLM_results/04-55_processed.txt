@@ -1,0 +1,12 @@
+ {
+    "ที่ดินระวาง": "4731/5701",
+    "เลขที่ดิน": null,
+    "ตำบล": "Not provided in the text",
+    "อำเภอ": "Not provided in the text",
+    "ฉโนดที่ดิน": "9882",
+    "เลขเล่ม": "Not provided in the text",
+    "หน้าสำรวจ": null,
+    "มาตราส่วน / สเกล": "1:10000",
+    "ลงชื่อ": "MENT OF L",
+    "ผู้เขียน": "Not provided in the text"
+}

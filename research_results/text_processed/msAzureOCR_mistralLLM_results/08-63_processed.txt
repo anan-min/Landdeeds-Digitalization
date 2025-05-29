@@ -1,0 +1,56 @@
+ {
+    "title": "Land Department",
+    "date": "15 December 2024",
+    "department_name": "Land Department",
+    "ministry": "Ministry of Lands",
+    "plan_name": "Plan for Land Management",
+    "scale": "1:5,000",
+    "areas_of_work": [
+        {
+            "area_name": "Area 1",
+            "area_code": "1001"
+        },
+        {
+            "area_name": "Area 2",
+            "area_code": "1002"
+        },
+        {
+            "area_name": "Area 3",
+            "area_code": "1003"
+        }
+    ],
+    "subareas": [
+        {
+            "subarea_name": "Subarea A",
+            "subarea_code": "2001",
+            "coordinates": ["93.0256", "35.618"]
+        },
+        {
+            "subarea_name": "Subarea B",
+            "subarea_code": "2002",
+            "coordinates": ["90.84", "4.08"]
+        },
+        {
+            "subarea_name": "Subarea C",
+            "subarea_code": "2003",
+            "coordinates": ["5.007", "17.31"]
+        }
+    ],
+    "land_parcels": [
+        {
+            "parcel_number": "0440",
+            "subarea": "Subarea A",
+            "size": "30725 square meters"
+        },
+        {
+            "parcel_number": "0661",
+            "subarea": "Subarea B",
+            "size": "48 square meters"
+        },
+        {
+            "parcel_number": "0874",
+            "subarea": "Subarea C",
+            "size": "960 square meters"
+        }
+    ]
+}

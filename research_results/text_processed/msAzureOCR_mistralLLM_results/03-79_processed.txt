@@ -1,0 +1,23 @@
+ {
+   "Department of Natural Resources and Environment (DNRE)": [
+      {
+         "name": "Land Development Department",
+         "location": [13630, 15868],
+         "facility": "COT Thiu Bphayan"
+      },
+      {
+         "name": "Mining Department",
+         "location": [14125],
+         "facility": "DEP"
+      },
+      {
+         "name": "Road Management Department",
+         "location": [6621, 207397],
+         "facility": "RTMENT F"
+      }
+   ],
+   "Average Elevation": 1.6,
+   "Area (square kilometers)": 141,
+   "Plan Name": "Land Use Plan",
+   "Plan Date": "21 December 2023"
+}

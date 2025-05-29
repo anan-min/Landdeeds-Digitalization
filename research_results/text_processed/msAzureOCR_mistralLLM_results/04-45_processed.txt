@@ -1,0 +1,25 @@
+ {
+      "district": "Asunau",
+      "department_of_land": "Department of Land",
+      "table": [
+          {
+              "number": 1,
+              "territory": "Gang",
+              "area": 500,
+              "shape": "Rectangle"
+          },
+          {
+              "number": 2,
+              "territory": "Mueang",
+              "area": 800,
+              "shape": "Square"
+          },
+          {
+              "number": 3,
+              "territory": "Sam Kaeo",
+              "area": 1200,
+              "shape": "Triangle"
+          }
+      ],
+      "land_office_copy_prohibited_date": "14 June 2567"
+   }

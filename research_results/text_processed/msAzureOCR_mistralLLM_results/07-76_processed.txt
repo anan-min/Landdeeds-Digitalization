@@ -1,0 +1,53 @@
+ {
+  "scale": "1:5000",
+  "projection": "UTM Zone 49S",
+  "mapTitle": "NT OF LAN",
+  "legend": [
+    {
+      "label": "Swampland",
+      "color": "#FFEDA0"
+    },
+    {
+      "label": "Department of Land",
+      "color": "#9EC542"
+    }
+  ],
+  "mapArea": [
+    71690,
+    80230
+  ],
+  "features": [
+    {
+      "id": "swampland",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              [697145.7, 3780723],
+              [697145.7, 3781000],
+              [698344.2, 3781000],
+              [698344.2, 3780723]
+            ]
+          ],
+          ...
+        ]
+      },
+      "properties": {
+        "name": "Swampland"
+      }
+    },
+    {
+      "id": "department_of_land",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          ...
+        ]
+      },
+      "properties": {
+        "name": "Department of Land"
+      }
+    }
+  ]
+}

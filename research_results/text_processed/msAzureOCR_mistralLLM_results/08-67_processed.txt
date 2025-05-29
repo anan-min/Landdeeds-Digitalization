@@ -1,0 +1,8 @@
+ {
+      "latitude": "6567",
+      "longitude": "8537",
+      "scale": "(1/10000)",
+      "map_type": "Roop Baan Khanom Saen Satha Rat",
+      "beneficiary": "' ห้ามนำออก สำเนา'",
+      "date_issued": "15 กุมภาพันธ์"
+    }

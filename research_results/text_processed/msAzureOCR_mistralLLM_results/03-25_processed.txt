@@ -1,0 +1,11 @@
+ {
+    "ที่ดินระวาง": "727/9208",
+    "เลขที่ดิน": "14",
+    "ตำบล": "Not provided in the text",
+    "อำเภอ": "DEPARTMENT OF LAND",
+    "Province": "Not provided in the text",
+    "Country": "Thailand",
+    "รูปแผนที่": "10000",
+    "มาตราส่วน": "1/1000",
+    "MENT OF LA": "1.000"
+}

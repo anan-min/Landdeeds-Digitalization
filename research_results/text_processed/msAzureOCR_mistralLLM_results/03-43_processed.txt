@@ -1,0 +1,21 @@
+ {
+    "ที่ดิน": "กระทรวงมหาดไทย กรมที่ดิน",
+    "เลขที่ดิน": "999999",
+    "ตำบล": "None (not provided)",
+    "อำเภอ": "None (not provided)",
+    "ฉโนดที่ดิน": "None (not provided)",
+    "เลขจังหวัด": "None (not provided)",
+    "เลขประเทศ": "None (not provided)",
+    "เลขบ้าน": "None (not provided)",
+    "เลขตรากู่": "None (not provided)",
+    "เลขหมู่": "None (not provided)",
+    "Soi": "None (not provided)",
+    "Road": "None (not provided)",
+    "Moo": "None (not provided)",
+    "Tumbon": "None (not provided)",
+    "Amphoe": "None (not provided)",
+    "Changwat": "None (not provided)",
+    "Postal Code": "None (not provided)",
+    "RoopBang": "แผนที่",
+    "MaatraSyn": "200"
+}

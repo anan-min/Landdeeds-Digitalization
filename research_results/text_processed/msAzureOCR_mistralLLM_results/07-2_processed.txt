@@ -1,0 +1,7 @@
+ {
+      "country": "Thailand",
+      "agency_names": ["Ministry of Natural Resources and Environment", "Department of Mineral Resources", "Geological Survey Department", "Royal Irrigation Department", "Water Resources Management Division", "Department of Rural Roads"],
+      "project_name": "Management Plan for the Protection and Sustainable Use of Land and Water Resources in the Upper Mekong Basin",
+      "start_date": "15 January 2024",
+      "locations": ["Upper Mekong Basin"]
+    }

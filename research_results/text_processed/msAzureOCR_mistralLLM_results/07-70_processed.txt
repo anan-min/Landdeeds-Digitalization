@@ -1,0 +1,29 @@
+ {
+    "Title": "Department of Land",
+    "Date": "15 December 2024",
+    "Land Department": "Ministry of Land",
+    "Scale": "1:2,500",
+    "Map Type": "NT OF L",
+    "Parcels": [
+        {
+            "Number": 1,
+            "Size (m^2)": 4096,
+            "Owner": "N"
+        },
+        {
+            "Number": 2,
+            "Size (m^2)": 8454,
+            "Owner": "DEPARTMENT OF LAND"
+        },
+        {
+            "Number": 3,
+            "Size (m^2)": 9297,
+            "Owner": "29"
+        },
+        {
+            "Number": 4,
+            "Size (m^2)": 801,
+            "Owner": "Current Land Owner"
+        }
+    ]
+}

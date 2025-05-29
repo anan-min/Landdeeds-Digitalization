@@ -1,0 +1,7 @@
+ {
+  "province": "กรุงเทพฯ",
+  "district": "Klong Sam Wa",
+  "land_parcel_number": "2368/2557",
+  "size_in_rai": "1.04",
+  "use_type": "agriculture"
+}

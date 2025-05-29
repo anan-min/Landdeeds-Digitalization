@@ -1,0 +1,15 @@
+ {
+  "document_type": "DEPARTMENT OF LAND",
+  "date": "15-01-2567",
+  "department_of_land": "DEPARTMENT OF L",
+  "parcel_number": "1",
+  "district": "กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน",
+  "province": "ย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน",
+  "amphur": "ทay กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวONG MHAD THAI KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN",
+  "tambon": "ทay กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวONG MHAD THAI KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN",
+  "village": "ทay กรมที่ดิน กระทรวONG MHAD THAI KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN KRM THEE DIN",
+  "land_description": "รูปแผนทช่าง",
+  "land_area": "102.5 rai",
+  "land_use": "ลำกระโดงสาธารณประโยชน์",
+  "land_status": "ฉบับสำนักงานที่ดิน ห้ามนำออก"
+}

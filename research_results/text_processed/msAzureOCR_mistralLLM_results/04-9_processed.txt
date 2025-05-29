@@ -1,0 +1,10 @@
+ {
+    "department_name": "DEPARTMENT OF LAND",
+    "land_office_number": "6075",
+    "district_number": "46025",
+    "section_number": "6650",
+    "land_division": "DEPARTMENT OF LAN",
+    "map_number": "6075-46025-6650",
+    "purpose": "ลำกระโดงสาธารณประโยชน์",
+    "date": "08 กุมภาพันธ์ พ.ศ. 2567"
+}

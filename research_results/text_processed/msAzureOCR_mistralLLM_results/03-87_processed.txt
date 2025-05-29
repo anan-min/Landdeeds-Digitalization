@@ -1,0 +1,17 @@
+ {
+      "land": "Department of Land",
+      "department": "Ministry of Agriculture and Cooperatives",
+      "plot_size": "5 rai",
+      "location": "Lam Klong",
+      "date": "14 June 2567 (Ph.S.)",
+      "land_type": "Irrigated paddy field",
+      "purpose": "Agricultural use",
+      "coordinates": {
+          "latitude": "2404' N",
+          "longitude": "6797 E",
+          "elevation": "6716 ft"
+      },
+      "parcel_number": "877/87/659",
+      "parcel_id": "EP-0000",
+      "owner": "Mr. MaUrgy DEPARTMENT OF LAND"
+  }

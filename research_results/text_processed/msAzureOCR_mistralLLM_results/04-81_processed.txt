@@ -1,0 +1,16 @@
+ {
+    "plot": {
+        "size": "-68",
+        "activities": "2 งาน, 23 ตารางวา",
+        "scale": "1:2000",
+        "boundary_survey": "CMENT OF L 1000, EP 100",
+        "plot_number": "8894-",
+        "subdistrict_number": "4766",
+        "village_number": "30",
+        "block_number": "2734",
+        "ceiling_area": "2766",
+        "land_type": "DEPARTMENT O",
+        "issuing_office": "กระทรวงมหาดไทย กรมที่ดิน",
+        "date_of_issue": "14 พฤษภาคม พ.ศ. 2567"
+    }
+}

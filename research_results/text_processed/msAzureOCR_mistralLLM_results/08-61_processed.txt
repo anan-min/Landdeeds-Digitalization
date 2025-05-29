@@ -1,0 +1,12 @@
+ {
+    "land_department": "Department of Land",
+    "date": "15 กุมภาพันธ์ พ.ศ. 2567",
+    "land_section": "Section 1, Sub-section 52/3",
+    "scale": 100,
+    "map_number": "DEPAF",
+    "land_percentage_in_plotting": "1.111",
+    "plot_number": "49",
+    "row": "12",
+    "column": "5036-493",
+    "direction": "North"
+}

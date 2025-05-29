@@ -1,0 +1,14 @@
+ {
+    "ที่ดินระวาง": "4324/157",
+    "เลขที่ดิน": "1751",
+    "ตำบล": "Not provided in the text",
+    "SOI (Sub-District)": "Not provided in the text",
+    "AMPHEUR (Amphoe)": "Not provided in the text",
+    "Province": "Not provided in the text",
+    "Country": "Thailand",
+    "TUMBON (Muban)": "Not provided in the text",
+    "Road Number": "Not provided in the text",
+    "Village": "Not provided in the text",
+    "House Number": "0872",
+    "DEPARTMENT OF LAND": "Yes"
+}

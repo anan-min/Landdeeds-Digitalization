@@ -1,0 +1,21 @@
+ {
+      "title": "Department of Land",
+      "date": "15 December 2567",
+      "land_department": "Department of Land",
+      "plot_ratio": "1:10000",
+      "map": "Map",
+      "scale": "1/10000",
+      "location": "N",
+      "land_office": "Land Office Derar",
+      "plot_number": 89,
+      "subdistrict": 2,
+      "district": 4774,
+      "province": 5036,
+      "region": 15836 - 3,
+      "community": "7",
+      "village": "618",
+      "subdistrict_code": "5036 | 5837-3",
+      "district_code": "9543",
+      "province_code": "9984",
+      "forbidden_copy": "Copy is forbidden by the Department of Land"
+   }

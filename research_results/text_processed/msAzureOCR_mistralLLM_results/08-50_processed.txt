@@ -1,0 +1,35 @@
+ {
+    "Land Department": [
+        "Thailand",
+        "Department of Land",
+        "Ministry of Agriculture and Cooperatives (former)",
+        "Ministry of Agriculture and Cooperatives",
+        "Ministry of Interior",
+        "Ministry of Natural Resources and Environment",
+        "Ministry of Rural Development and Local Government",
+        "Ministry of Rural Affairs"
+    ],
+    "Department UD": [
+        "U DED",
+        "50.36 T 5836-4",
+        "SU",
+        "024",
+        "ข",
+        "27762",
+        "07666",
+        "2495",
+        "S",
+        "50",
+        "017",
+        "Ya",
+        "1 50",
+        "0182"
+    ],
+    "Date": "15 January 2557",
+    "Scale": [
+        1:2000,
+        1:280
+    ],
+    "Map Title": "Land Registry Map",
+    "Remark": "Copy is not allowed"
+}

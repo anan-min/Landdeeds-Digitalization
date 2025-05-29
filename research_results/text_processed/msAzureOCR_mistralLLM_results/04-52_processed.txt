@@ -1,0 +1,15 @@
+ {
+"land_parcel_number": "612",
+"department_name": "Department of Land",
+"province": "Not provided",
+"district": "Not provided",
+"subdistrict": "Not provided",
+"village_tambon": "Not provided",
+"land_parcel_location": "Not provided",
+"size_of_land_in_rai": "Not provided",
+"size_of_land_in_square_wa": [1, 612],
+"ratio_of_land": [8354, 14676],
+"plan_number": "OMENT OF DEPAF 123",
+"map_number": "Not provided",
+"date_of_document": "14 พฤษภาคม พ.ศ. 2567"
+}

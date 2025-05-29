@@ -1,0 +1,11 @@
+ {
+    "district": "ไร่",
+    "plot_number": "7627",
+    "land_department_name": "สาเนา มที่ดิน DEPARTMENT OF LAND",
+    "office_number": "21",
+    "date": "2567-12-03",
+    "province": null,
+    "district_code": null,
+    "plot_size": "๖๕๓๔ สรุป",
+    "amendment_note": "ที่ดินแปลงนี้มีเนื้อที่ประมาณ."
+}

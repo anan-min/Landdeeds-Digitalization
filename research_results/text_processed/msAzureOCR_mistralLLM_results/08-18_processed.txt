@@ -1,0 +1,12 @@
+ {
+      "region": "NT C",
+      "scale": "1:20000",
+      "map_number": "88907",
+      "coordinate_x": "396584",
+      "coordinate_y": "895237",
+      "parcel_number": "78439",
+      "plot_size": "78439",
+      "land_classification": "7 น้ำ",
+      "land_use": "14 พฤษภาคม 2561",
+      "department": "กรมที่ดิน กระทรวงมหาดไทย"
+   }

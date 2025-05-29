@@ -1,0 +1,11 @@
+ {
+"name": "DESTIN Thailand Soil Resource Development and Management Department",
+"address": "15 Kumphon Phatana Road, Thung Khru, Bangkok 10630, Thailand",
+"date": "15 December 2022",
+"plan_type": "Land Development Plan",
+"scale": "1/10000",
+"plan_number": "5836-4 (1/10000)",
+"area_coverage": "6567 hectares",
+"purpose": "Land for public utility",
+"restriction": "Not to be released publicly"
+}

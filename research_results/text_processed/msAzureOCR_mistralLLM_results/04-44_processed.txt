@@ -1,0 +1,10 @@
+ {
+    "department": "DEPARTMENT OF LAND",
+    "year": 1872,
+    "number": 1868,
+    "scale": 1:2000,
+    "map_type": "cadastral",
+    "area": "approximately 1 acre",
+    "department_short": "DOL",
+    "date": "14 June 2567"
+}

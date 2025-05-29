@@ -1,0 +1,64 @@
+ {
+    "land_parcel": {
+        "type": "government",
+        "purpose": "public_utility",
+        "name": "OF LAND",
+        "issue_date": "15 กุมภาพันธ์ พ.ศ. 2567",
+        "department": "DEPARONY",
+        "size": {
+            "meter_square": "110000",
+            "plot_number": "1/1"
+        },
+        "map": [
+            {
+                "coordinate": {
+                    "x": 7,
+                    "y": 2
+                },
+                "symbol": "JU DEPA"
+            },
+            {
+                "coordinate": {
+                    "x": 9,
+                    "y": 6
+                },
+                "symbol": "7069"
+            },
+            {
+                "coordinate": {
+                    "x": 29,
+                    "y": 2
+                },
+                "symbol": "5729"
+            },
+            {
+                "coordinate": {
+                    "x": 65,
+                "y": 6
+                },
+                "symbol": "6561"
+            },
+            {
+                "coordinate": {
+                    "x": 70,
+                    "y": 6
+                },
+                "symbol": "7060"
+            },
+            {
+                "coordinate": {
+                    "x": 29,
+                    "y": 73
+                },
+                "symbol": "7361"
+            },
+            {
+                "coordinate": {
+                    "x": 57,
+                    "y": 71
+                },
+                "symbol": "7153"
+            }
+        ]
+    }
+}

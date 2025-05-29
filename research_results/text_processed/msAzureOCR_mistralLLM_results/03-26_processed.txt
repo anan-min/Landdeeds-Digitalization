@@ -1,0 +1,20 @@
+ {
+      "land_plot": "DEPARTMENT OF LAND",
+      "number": "21",
+      "date": "2567-12-03",
+      "province": "Thailand",
+      "district": "Ministry of Interior",
+      "subdistrict": "Department of Land",
+      "land_type": "2.00 m.",
+      "size": [
+        "1:2,200",
+        "17:70"
+      ],
+      "plot_number": "6430",
+      "shape": "Ok",
+      "map_number": "9878",
+      "land_use": "Hall of Justice",
+      "length_x": "2.00 m.",
+      "length_y": "3.48 m.",
+      "area": "6.912 m.²"
+    }

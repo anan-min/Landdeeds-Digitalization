@@ -1,0 +1,23 @@
+ {
+      "province": "DEPARTMENT OF LAND",
+      "month": "พฤษภาคม",
+      "year": 2567,
+      "scale": "1:4000",
+      "planType": "River Bank Protection Plan",
+      "mapScale": "1:1000",
+      "departmentOfLand": "L",
+      "leveeWidth": 14000,
+      "floodControlEmbankmentHeight": 3.12516,
+      "damHeight": 2329,
+      "damLength": 2/3.78,
+      "leakageDischarge": 2905,
+      "outletSize": 1.44,
+      "leveeType1": "หลักพยาน",
+      "leveeCode1": "OFION",
+      "leveeLength1": 1940,
+      "leveeType2": "หลักพฤกษ",
+      "purposeOfLeakageDischarge": "ลำกระโดงสาธารณประโยชน์",
+      "damHeight2": 744,
+      "damLength2": 1704,
+      "outletVent": "VO"
+   }

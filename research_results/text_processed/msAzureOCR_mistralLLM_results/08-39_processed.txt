@@ -1,0 +1,31 @@
+ {
+      "name": "Project",
+      "description": "",
+      "location": "Nakhon Sawan, Thailand",
+      "start_date": "15/02/2023",
+      "end_date": "30/04/2023",
+      "budget": 6200,
+      "employee": [
+        {
+          "name": "Natthakit",
+          "position": "Site Manager",
+          "salary": 8539
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 1,
+          "task_name": "Exploration and Mapping",
+          "description": "",
+          "start_date": "15/02/2023",
+          "end_date": "31/03/2023"
+        },
+        {
+          "task_id": 2,
+          "task_name": "Land Preparation",
+          "description": "",
+          "start_date": "01/03/2023",
+          "end_date": "30/04/2023"
+        }
+      ]
+    }

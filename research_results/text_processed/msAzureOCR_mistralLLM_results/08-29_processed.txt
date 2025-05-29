@@ -1,0 +1,16 @@
+ {
+      "place_name": "Department of Land Development (DEPA)",
+      "location": {
+        "latitude": 13.72083,
+        "longitude": 100.50984
+      },
+      "address": "15 Kumphawaphan Road, Dusit, Bangkok 10300",
+      "department_of_land_development": [
+        "Department of Land Development (DEPA)",
+        "กรมที่ดิน DEPARTME"
+      ],
+      "map": {
+        "coordinates": [13.72083, 100.50984],
+        "marker": true
+      }
+    }

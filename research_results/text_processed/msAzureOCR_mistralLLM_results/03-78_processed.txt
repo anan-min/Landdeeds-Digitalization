@@ -1,0 +1,13 @@
+ {
+    "madai": "5 3",
+    "ela_num": "764",
+    "thedinragwaang": "123-08",
+    "tambon": "กาฃ เกร็ด",
+    "amphoe": "ปราณดโด",
+    "chonodtidee": "2253",
+    "elakhom": "2",
+    "hua_sawrac": "100",
+    "mata_san_seklao": "500",
+    "leng_chui_thi": ["ในผลยา อมาก", "ในเหตุสิริ วัณณ์"],
+    "phu_khian_bangti": "แนะารี"
+}

@@ -1,0 +1,38 @@
+ {
+    "survey": {
+        "date": "15 กุมภาพันธ์ พ.ศ. 2567",
+        "department_of_land": "สำนักงานที่ดิน DEPARTMENT OF LAND",
+        "map_unit": {
+            "scale": "1:50,000",
+            "out_of_la": "UNT OF LA",
+            "eparta": "EPARTA"
+        },
+        "parcels": [
+            {
+                "number": "1",
+                "size": "5852 sq.m",
+                "location": {
+                    "latitude": "4844",
+                    "longitude": "7531"
+                }
+            },
+            {
+                "number": "2",
+                "size": "0546 sq.m",
+                "location": {
+                    "latitude": "1 ฆ",
+                    "longitude": "7484"
+                }
+            },
+            {
+                "number": "3",
+                "size": "5852 sq.m",
+                "location": {
+                    "latitude": "5852",
+                    "longitude": "7531"
+                }
+            },
+            // Add more parcels as needed, each with a unique number, size, and location object
+        ]
+    }
+}

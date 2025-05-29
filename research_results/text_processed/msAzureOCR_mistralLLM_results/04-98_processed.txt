@@ -1,0 +1,9 @@
+ {
+    "department_name": "DEPARTMENT O",
+    "date": "2023-01-15",
+    "project_name": "ลำกระโดงสาธารณประโยชน์",
+    "lot_number": "5047",
+    "parcel_number": "16036-1",
+    "description": "Dangan-/ตารางวา มาตราส่วนในระวาง ๑: ๑๐๐๐ (หนึ่งงานสามสิบเจ็ดตารางวา ) รูปแผนที่ มาตราส่วน ๑,๑๐๐๐ งที่ติ 2309",
+    "location": "Not provided"
+}

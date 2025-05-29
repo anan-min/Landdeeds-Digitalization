@@ -1,0 +1,11 @@
+ {
+      "title": "MENT OF K DEPA",
+      "land_department": "DEPARTMENT OF LAND",
+      "ministry": "MINISTRY OF KINGDOM OF THAILAND",
+      "section": "KRUMHANG SAMAKKHI AROONRAT",
+      "volume": "3725",
+      "page_number_from": "4109",
+      "page_number_to": "4119",
+      "land_office": "LAND OFFICE",
+      "date": "08 กุมภาพันธ์ พ.ศ. 2567"
+   }

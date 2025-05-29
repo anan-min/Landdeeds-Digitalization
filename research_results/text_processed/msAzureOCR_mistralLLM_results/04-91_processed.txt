@@ -1,0 +1,9 @@
+ {
+"area_unit": "sqare meters",
+"total_area": 5455000,
+"parcel_number": 4109,
+"plot_number": 1695,
+"land_department": "Department of Lands",
+"location": "Thailand",
+"date": "2567-08-08"
+}

@@ -1,0 +1,29 @@
+ {
+      "title": "Department of Land",
+      "thaiName": "กรมที่ดิน ห้ามนำออก",
+      "abbreviation": "DEPARTMENT OF LAND",
+      "position": ["Chief of Division (Land Management)",
+                   "Deputy Chief of Division (Land Management)",
+                   "Division Head for Land Development",
+                   "Deputy Division Head for Land Development",
+                   "Section Head (Land Title Section)",
+                   "Deputy Section Head (Land Title Section)",
+                   "Head Office Staff",
+                   "Division Staff"],
+      "jurisdiction": {
+        "name": "Ministry of Natural Resources and Environment",
+        "thaiName": "กระทรวงธนาคารแห่งชั้นคู่สังคม"
+      },
+      "location": [
+        {
+          "province": "Nakhon Nayok",
+          "amphoe": "",
+          "district": ""
+        },
+        {
+          "province": "Nonthaburi",
+          "amphoe": "Pak Kret District",
+          "district": ""
+        }
+      ]
+    }

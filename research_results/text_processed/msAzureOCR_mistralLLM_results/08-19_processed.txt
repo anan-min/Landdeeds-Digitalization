@@ -1,0 +1,20 @@
+ {
+  "properties": {
+    "land_parcel": [
+      "Ground-Structure",
+      "Work-Structure"
+    ],
+    "task": "Survey Land",
+    "soil": "-",
+    "area": "-",
+    "plan": "Map",
+    "scale": "1:2000",
+    "law": "MENT OF LAW",
+    "page": "1000",
+    "volume_number": "1592",
+    "date": "1792-1793",
+    "land_office_department": "COUที่ดิน DEPARTMENT OF",
+    "issued_on": "15 กุมภาพันธ์ พ.ศ. 2567",
+    "land_office": "กรมที่ดิน กระทรวงมหาดไทย กรมที่ดิน กระทรวงมหาดไทย ..."
+  }
+}

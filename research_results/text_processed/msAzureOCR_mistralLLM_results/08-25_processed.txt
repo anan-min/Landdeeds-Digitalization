@@ -1,0 +1,20 @@
+ {
+  "department_of": [
+    "Department of",
+    "Mines",
+    "Department of",
+    "Natural Resources and Environment",
+    "Department of",
+    "Royal Forest Department"
+  ],
+  "plot_rules": {
+    "number": [1, 6000],
+    "size": [10000],
+    "shape": "Rectangular"
+  },
+  "parcel_details": {
+    "id": "4281",
+    "department_of_district_extension": "DEPARTMENT OF MINES DEPARTURE DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENT DEPARTMENT OF ROYAL FOREST DEPARTMENT"
+  },
+  "date": "15 Kumphaphan 2567"
+}

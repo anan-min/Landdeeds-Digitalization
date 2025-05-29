@@ -1,0 +1,9 @@
+ {
+    "land_area": {
+        "unit": "Rai",
+        "value": 1792
+    },
+    "land_department": "DEPARTMENT OF LAND",
+    "location": "Krung Thep Maha Nakhon",
+    "date": "15-01-2567"
+}

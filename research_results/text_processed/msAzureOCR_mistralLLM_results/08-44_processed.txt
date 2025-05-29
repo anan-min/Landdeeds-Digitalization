@@ -1,0 +1,37 @@
+ {
+      "documents": [
+        {
+          "title": "Land Title Deed",
+          "reference_numbers": [
+            "1961811",
+            "314147"
+          ],
+          "date": "15 January 2024 B.E.",
+          "location": {
+            "province": "DAR Region",
+            "district": "",
+            "village_tambon": "",
+            "plot_number": "60734"
+          },
+          "deed_type": "Land Title Deed",
+          "landlord": "His Majesty the King"
+        },
+        {
+          "title": "Deed of Conveyance",
+          "reference_numbers": [
+            "1961811",
+            "314147",
+            "OR-2567-015"
+          ],
+          "date": "15 January 2024 B.E.",
+          "location": {
+            "province": "DAR Region",
+            "district": "",
+            "village_tambon": "",
+            "plot_number": "60734"
+          },
+          "grantee": "John Doe",
+          "grantor": "His Majesty the King"
+        }
+      ]
+    }

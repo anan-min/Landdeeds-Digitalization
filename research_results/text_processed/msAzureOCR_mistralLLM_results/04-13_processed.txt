@@ -1,0 +1,18 @@
+ {
+      "propertyId": "2234",
+      "plotNumber": "8721",
+      "scale": 1,
+      "subdivisionNumber": 2104,
+      "district": 3,
+      "province": 9605,
+      "amphoe": 1711,
+      "location": {
+          "longitude": null,
+          "latitude": null
+      },
+      "landUse": "สาเนา",
+      "purposeOfLand": "กระทรวงมหาดไทย",
+      "landType": "กรมที่ดิน D",
+      "departmentOfLand": "Krung Thep Maha Nakhon",
+      "dateIssued": "14 พฤษภาคม 2567"
+  }

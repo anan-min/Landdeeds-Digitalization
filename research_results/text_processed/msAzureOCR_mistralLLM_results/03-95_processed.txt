@@ -1,0 +1,33 @@
+ {
+      "title_of_plan": "แผนที่",
+      "scale": "1,1000",
+      "gridline_type": "solid",
+      "legend": [
+        {
+          "symbol": "X",
+          "description": "ตำแหน่ง"
+        },
+        {
+          "color": "#FF7F50",
+          "description": "ที่ดินกระทรวงมหาดไทย"
+        }
+      ],
+      "position": [
+        {
+          "coordinate_x": 5789,
+          "coordinate_y": 7778,
+          "description": "ช.ร. 5789 ช.ร. 5744"
+        },
+        {
+          "coordinate_x": 0440,
+          "coordinate_y": 440,
+          "description": "S"
+        },
+        {
+          "coordinate_x": 9732,
+          "coordinate_y": 8618,
+          "description": "สาเน"
+        }
+      ],
+      "date": "วันที่ 21 กุมภาพันธ์ พ.ศ. 2567"
+    }

@@ -1,0 +1,10 @@
+ {
+  "province": "Thailand",
+  "district": "Department",
+  "projectName": "Land Development Project Number 37",
+  "scale": 1,
+  "plotSize": 0,
+  "type": "land development",
+  "department": "Ministry of Natural Resources and Environment",
+  "dateIssued": "25 June 2036"
+}

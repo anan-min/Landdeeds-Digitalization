@@ -1,0 +1,27 @@
+ {
+  "project_name": "F LAND",
+  "location_1": {
+    "name": "Lam Krabaeng Sathanarn Prachoychon",
+    "id": "4692",
+    "plot_size": "2 rai"
+  },
+  "task_1": {
+    "type": "Tabular Data",
+    "ratio_in_scale": "1/10000",
+    "map": true,
+    "ratio_out_scale": "1/2000"
+  },
+  "land_parcel_number_1": "7",
+  "location_2": {
+    "name": "Lam Krabaeng Sathanarn Prachoychon",
+    "id": "2882",
+    "plot_size": "1 rai 7 chet",
+    "demand_number": "DE MAND"
+  },
+  "task_2": {
+    "type": "Phasing Plan",
+    "ratio_in_scale": "1/2000"
+  },
+  "land_parcel_number_2": "2882",
+  "year": "B.E. 2567"
+}

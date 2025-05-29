@@ -1,0 +1,47 @@
+ {
+"map_data": [
+    {
+        "id": "0330",
+        "lanes": 8776,
+        "area": "Current Use: Forest Reserve, Prohibited Area for Logging",
+        "department": "Department of Lands",
+        "date": "2567-12-15"
+    },
+    {
+        "id": "0294",
+        "lanes": 7,
+        "area": "",
+        "department": "Department of Lands",
+        "date": "2567-12-15"
+    },
+    {
+        "id": "0271",
+        "lanes": 4,
+        "area": "Current Use: Forest Reserve, Restricted Area for Mining and Quarrying",
+        "department": "Department of Lands",
+        "date": "2567-12-15"
+    },
+    {
+        "id": "LANE",
+        "lanes": 6,
+        "area": "",
+        "department": "",
+        "date": ""
+    }
+],
+"scale": 10000,
+"legend": [
+    {
+        "label": "Current Use: Forest Reserve",
+        "color": "#38761D"
+    },
+    {
+        "label": "Prohibited Area for Logging",
+        "color": "#A94442"
+    },
+    {
+        "label": "Restricted Area for Mining and Quarrying",
+        "color": "#80691B"
+    }
+]
+}

@@ -1,0 +1,46 @@
+ {
+      "department": "Department of Lands",
+      "location": [
+          {
+              "coordinates": [4598],
+              "name": "DEPA"
+          },
+          {
+              "coordinates": [4479],
+              "name": ""
+          },
+          {
+              "coordinates": [44731],
+              "name": ""
+          },
+          {
+              "coordinates": [4212],
+              "name": "เดงสาธารณประเสิชัย-"
+          },
+          {
+              "coordinates": [4517],
+              "name": ""
+          },
+          {
+              "coordinates": [4492],
+              "name": ""
+          },
+          {
+              "coordinates": [4910],
+              "name": "ล่ากระเด"
+          },
+          {
+              "coordinates": ["ข"],
+              "name": ""
+          },
+          {
+              "coordinates": ["ข"],
+              "name": ""
+          },
+          {
+              "coordinates": [04517],
+              "name": ""
+          }
+      ],
+      "date": "15 กุมภาพันธ์ พ.ศ. 2567"
+  }

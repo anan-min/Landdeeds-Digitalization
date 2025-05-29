@@ -1,0 +1,14 @@
+ {
+  "title": "Department of Land",
+  "date": "15 January 2024 B.E.",
+  "mapScale": "1:10000",
+  "departmentCode": "DERAD",
+  "purpose": "Public Benefit",
+  "parcelNumber": "3863",
+  "plotArea": "3.863 hectares",
+  "location": {
+    "latitude": "11°12'N",
+    "longitude": "103°46'E"
+  },
+  "landUse": "Land Department Office"
+}

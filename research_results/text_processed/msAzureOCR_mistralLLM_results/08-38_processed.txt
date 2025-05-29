@@ -1,0 +1,17 @@
+ {
+      "name": "Ministry of Natural Resources and Environment (MNRE)",
+      "department_type": "Government Department",
+      "establishment_date": "15 January 2567",
+      "location": {
+        "latitude": "-13.852490",
+        "longitude": "100.546297",
+        "address": "Department of Mineral Resources, 83/253 Moo 15, Tambon Hua Mak, Khet Taling Chan, Bangkok 15 020, Thailand"
+      },
+      "services_provided": [
+        "Mining regulations and policies",
+        "Geological surveys",
+        "Mineral resource management",
+        "Environmental conservation"
+      ],
+      "jurisdiction": "Thailand"
+    }

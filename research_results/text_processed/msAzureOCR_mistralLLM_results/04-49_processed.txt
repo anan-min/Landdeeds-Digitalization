@@ -1,0 +1,30 @@
+ {
+"title": "Partment of Lands",
+"date": "13 June 2567",
+"location": [43.72, 25.5725],
+"divisions": ["Northern", "Central", "Eastern", "Western", "Southern"],
+"boundaries": {
+  "northern": [
+    [0, 192],
+    [53991, 6]
+  ],
+  "central": [
+    [41, 50/55],
+    [50065, 50575]
+  ],
+  "eastern": [
+    [5/141, 54149]
+  ],
+  "western": [
+    [50160, 50160]
+  ],
+  "southern": [
+    [0, 192],
+    [41, 50/55],
+    [50065, 50575],
+    [5/141, 54149],
+    [50160, 50160]
+  ]
+},
+"prohibited_areas": ["Currently no prohibited areas"]
+}

@@ -1,0 +1,13 @@
+ {
+    "title": "Land Department Department of Land",
+    "purpose": "For public benefit",
+    "department_name": "Department of Land",
+    "ministry": "Ministry of Natural Resources and Environment",
+    "date": "15 December 2024",
+    "map_scale": "1:2,000",
+    "coordinates": {
+        "top_left": [98.3768, 13.6931],
+        "bottom_right": [98.2335, 13.5624]
+    },
+    "location": "Chiang Mai Province, Thailand"
+}

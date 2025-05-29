@@ -1,0 +1,13 @@
+ {
+    "survey_number": 15,
+    "year": 2567,
+    "soil_department": "กรมที่ดิน กระทรวงมหาดไทย",
+    "date": "วันที่ 15 กุมภาพันธ์ พ.ศ. 2567",
+    "map_scale": "1:10,000",
+    "idepa": true,
+    "plot_number": [8534, 8145, 925, 5925, 29, 57, 6315, 7069, 0544, 0962],
+    "land_use": "ลำกระโดงสาธารณประโยชน์",
+    "shade": true,
+    "official_copy": false,
+    "boundary_lines": ["DEPARTMENT ON"]
+}

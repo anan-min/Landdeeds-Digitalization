@@ -1,0 +1,17 @@
+ {
+  "Land Parcel Information": {
+    "Size (Rai)": 152.4,
+    "Land Use": ["Agriculture", "Water Resource"],
+    "Location": {
+      "Coordinates": [86.49, 7.369],
+      "Place": "Thailand"
+    },
+    "Department of Land": "Department of Land Administration",
+    "Date": "15 January 2024 B.E.",
+    "PlanNumber": "1/2024"
+  },
+  "Land Parcel Map": {
+    "Scale": "1:2,900",
+    "Features": ["Rivers", "Canals"]
+  }
+}

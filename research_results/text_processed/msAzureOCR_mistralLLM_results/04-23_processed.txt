@@ -1,0 +1,18 @@
+ {
+    "plotNumber": "OF L",
+    "scale": "1:2000",
+    "size": [17660, 14035],
+    "department": "Department of Land",
+    "dateIssued": "13 July 1967",
+    "landType": "Ruweng Mahedi Thai",
+    "agency": [
+        "Krom Ruweng Mahedi Thai",
+        "Krom Thi Diri Bor Thor Ruweng Mahedi Thai"
+    ],
+    "sizeUnit": "Meter Square",
+    "owner": "Ju DEPARTMENT OF LAND",
+    "landUse": [
+        "Lam Kradong Sattharann Prayochon"
+    ],
+    "purpose": "หลักผ่อน"
+}

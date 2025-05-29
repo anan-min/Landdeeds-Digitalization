@@ -1,0 +1,8 @@
+ {
+  "land_area": "150 sq km",
+  "location": "Ontario, Canada",
+  "department_name": "Department of Lands and Forestry",
+  "date": "15 December 1924",
+  "scale": "1:10,000",
+  "map_size": "8.536 x 11 inches"
+}

@@ -1,0 +1,38 @@
+ {
+    "title": "Department of Land",
+    "date": "15 กุมภาพันธ์ พ.ศ. 2567",
+    "map_included": true,
+    "scale": "ENT OF LAN 1:1000",
+    "department": {
+        "name": "Department of Land",
+        "short_name": "DARAR"
+    },
+    "purpose": "/ ทางสาธารณประโยชน์",
+    "areas": [
+        {
+            "number": "1",
+            "size": "1000",
+            "name": "N"
+        },
+        {
+            "number": "2",
+            "size": "55",
+            "name": "ข.ท.ด."
+        },
+        {
+            "number": "3",
+            "size": "9638",
+            "name": "8จ"
+        },
+        {
+            "number": "4",
+            "size": "111",
+            "name": "5898."
+        },
+        {
+            "number": "5",
+            "size": "5662",
+            "name": "ฉบับสำนักงานที่ดิน ห้ามนำออก"
+        }
+    ]
+}

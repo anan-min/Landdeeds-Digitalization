@@ -1,0 +1,27 @@
+ {
+  "title": "Department of Land",
+  "date": "15 January 2024",
+  "mapScale": 1111,
+  "departmentOfLand": "DEPARTMENT OF LAND",
+  "plotNumber1": {
+    "coordinates": [9824.0, 5647.0],
+    "value": 8738000,
+    "purpose": "For the benefit of public interest"
+  },
+  "plotNumber2": {
+    "coordinates": [0.0, 7000.0],
+    "value": 5647000,
+    "purpose": "Other Purpose"
+  },
+  "plotNumber3": {
+    "coordinates": [8838.0, 3863.0],
+    "value": 9386300,
+    "purpose": "For the benefit of public interest"
+  },
+  "signature": "Ayutthaya Krungthep Land Department, Ministry of Interior",
+  "plotNumber4": {
+    "coordinates": [111.0, 1234.0],
+    "value": 8386300,
+    "purpose": "For the benefit of public interest"
+  }
+}

@@ -49,6 +49,7 @@ def process_image(image_path):
     image = Image.open(image_path)
     draw = ImageDraw.Draw(image)
 
+    
     # Iterate over each prediction and adjust the coordinates
     for prediction in predictions:
         # Get the bounding box coordinates and size from API result

@@ -1,0 +1,33 @@
+ {
+      "title": "Department of Land Map",
+      "date": "15 December 2567",
+      "scale": "50 sondes",
+      "dimensions": "10,080 mm x 8,454 mm",
+      "legend": [
+        {
+          "symbol": "T",
+          "label": "Town"
+        },
+        {
+          "symbol": "DEPARTMENT OF LAND",
+          "label": "Department of Land"
+        },
+        {
+          "symbol": "/",
+          "label": "Road"
+        }
+      ],
+      "areas": [
+        {
+          "name": "Phra Nakhon Si Ayutthaya",
+          "area_code": "1863"
+        },
+        {
+          "name": "Bang Sai",
+          "area_code": "9908"
+        }
+      ],
+      "prohibitions": [
+        "No reproduction without permission"
+      ]
+    }

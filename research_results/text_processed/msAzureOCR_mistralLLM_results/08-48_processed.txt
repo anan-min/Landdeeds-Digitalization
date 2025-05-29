@@ -1,0 +1,14 @@
+ {
+      "title": "Title",
+      "date": "15 กุมภาพันธ์ พ.ศ.2567",
+      "department": "Department of Land",
+      "scale": "1:20,000",
+      "map_unit": "Meter",
+      "map_image": "Here would go the image of the map",
+      "legend": {
+        "1": "Building",
+        "2": "Road",
+        "3": "Waterbody"
+      },
+      "coordinate_system": "UTM Zone 50N"
+    }

@@ -1,0 +1,94 @@
+ {
+  "title": "Land Department Office",
+  "date": "2567-12-15",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEPARTMENT OF LAND",
+      "scale": 8000
+    },
+    {
+      "page_number": 2,
+      "text": "กรมที่ดิน กระทรวงมหาดไทย"
+    },
+    {
+      "page_number": 3,
+      "text": "ชั้น -",
+      "scale": 1000
+    },
+    {
+      "page_number": 4,
+      "text": "งาน-",
+      "scale": 1000
+    },
+    {
+      "page_number": 5,
+      "text": "มาตราส่วนในระวาง ๑,๑๐๐๐"
+    },
+    {
+      "page_number": 6,
+      "text": "80 ตารางวา"
+    },
+    {
+      "page_number": 7,
+      "text": "รูปแผนที่",
+      "scale": 1000
+    },
+    {
+      "page_number": 8,
+      "text": "มาตราส่วน ๑.๑๐๐๐"
+    },
+    {
+      "page_number": 9,
+      "text": "2 MENT OF LAND",
+      "scale": 8000
+    },
+    {
+      "page_number": 10,
+      "text": "ออก",
+      "scale": 1000
+    },
+    {
+      "page_number": 11,
+      "text": "กรม",
+      "scale": 1000
+    },
+    {
+      "page_number": 12,
+      "text": "กรมที่ดิน DEP/O"
+    },
+    {
+      "page_number": 13,
+      "text": "ชะ",
+      "scale": 1000
+    },
+    {
+      "page_number": 14,
+      "text": "062",
+      "scale": 1000
+    },
+    {
+      "page_number": 15,
+      "text": "4985",
+      "scale": 1000
+    },
+    {
+      "page_number": 16,
+      "text": "0680",
+      "scale": 1000
+    },
+    {
+      "page_number": 17,
+      "text": "ฉบับสำนักงานที่ดิน ห้าม"
+    },
+    {
+      "page_number": 18,
+      "text": "สำเนา",
+      "scale": 1000
+    },
+    {
+      "page_number": 19,
+      "text": "วันที่ 15 กุมภาพันธ์ พ.ศ. 2567"
+    }
+  ]
+}

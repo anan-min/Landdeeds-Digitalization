@@ -1,0 +1,22 @@
+ {
+    "scale": 1,
+    "units": ["m"],
+    "data": [
+      {"x": 0, "y": 3650},
+      {"x": 114, "y": 5036},
+      {"x": 228, "y": 5836.4}
+    ],
+    "legend": {
+      "title": "Legend",
+      "items": [
+        {"name": "3650 m", "color": null},
+        {"name": "5036 m", "color": null},
+        {"name": "5836.4 m", "color": null}
+      ]
+    },
+    "bounding_box": [
+      17,
+      292
+    ],
+    "source": ""
+  }

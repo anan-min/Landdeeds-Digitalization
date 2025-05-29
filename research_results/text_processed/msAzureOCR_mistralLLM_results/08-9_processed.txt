@@ -1,0 +1,22 @@
+ {
+      "department_name": "The Department of Land",
+      "date": "15 Kumphaphan 2567",
+      "map_link": null,
+      "districts": [
+        {
+          "district_code": "DERAP",
+          "coordinates": [
+            7.823,
+            4.07204,
+            8.555,
+            7.204,
+            3.19,
+            11,
+            7.895,
+            7
+          ],
+          "province_name": null,
+          "subdistricts": []
+        }
+      ]
+    }

@@ -1,0 +1,31 @@
+ {
+      "parcel_information": [
+        {
+          "type": "Parcel",
+          "size": "4369 square meters",
+          "location": "Department of Land",
+          "usage": "Public Utility",
+          "department": "Department of Natural Resources",
+          "date": "21 December 2567"
+        },
+        {
+          "type": "Road",
+          "size": "16840 linear meters",
+          "location": "Public Utility Development Department",
+          "usage": "Public Utility",
+          "department": "Ministry of Natural Resources and Environment"
+        }
+      ],
+      "plan_information": [
+        {
+          "scale": "1:2000",
+          "ratio": "1.2%",
+          "image": "Map Image"
+        },
+        {
+          "scale": "1:1000",
+          "ratio": "4%",
+          "image": "Detailed Map Image"
+        }
+      ]
+    }

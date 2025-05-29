@@ -1,0 +1,13 @@
+ {
+    "land_department": "DEPARTMENT OF LAND",
+    "scale": "1:10000",
+    "location": "IT OF",
+    "purpose": "กรุมที่ น 1ฉ ทางสาธารณประโยชน์ 5317 %",
+    "land_classification": "PAF",
+    "percentage_developed": "5063",
+    "water_body": "แม่น้ำเจ้าพระยา",
+    "boundary_map": true,
+    "forbidden_to_take_copy": true,
+    "date_of_issue": "วันที่ 15 กุมภาพันธ์ พ.ศ.",
+    "land_department_office": "สำนักงานที่ดิน"
+}

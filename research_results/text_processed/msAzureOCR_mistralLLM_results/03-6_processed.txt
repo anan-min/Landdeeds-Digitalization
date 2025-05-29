@@ -1,0 +1,29 @@
+ {
+      "department_name": "Department of Land",
+      "date": "21 December 20XX",
+      "location": {
+          "region": "Thailand",
+          "coordinates": {
+              "latitude": "8.1856",
+              "longitude": "37.91"
+          },
+          "address": "Clong Liay Nai Yong, 44004, Ka"
+      },
+      "map_data": {
+          "type": "image",
+          "url": "",
+          "width": "3785",
+          "height": "10240"
+      },
+      "land_data": [
+          {
+              "type": "field",
+              "number": "1, 1, 000"
+          },
+          {
+              "type": "forest",
+              "area": "10000"
+          },
+          // Add more land data entries as needed
+      ]
+  }

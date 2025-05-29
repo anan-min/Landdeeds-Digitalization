@@ -1,0 +1,24 @@
+ {
+  "map_data": [
+    {
+      "id": "1",
+      "name": "NT OF LA",
+      "department": "1/10000",
+      "area": "5036 1 6036-5 (1/10000)",
+      "number_of_plots": "140",
+      "plot_size": "8567 5 current 8305 5 current 8540 69 other 0383 .2567",
+      "notes": "Copy of the document from the Department of Lands, not to be removed.",
+      "date": "15 กุมภาพันธ์ พ.ค"
+    }
+  ],
+  "legend_data": [
+    {
+      "symbol": "N",
+      "description": "Current plot"
+    },
+    {
+      "symbol": "C",
+      "description": "Other"
+    }
+  ]
+}

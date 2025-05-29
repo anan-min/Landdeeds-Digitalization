@@ -1,0 +1,7 @@
+ {
+    "title": "แผนบ้านและสวนเขต 13 พฤษภาคม พ.ศ. 2567",
+    "author": "",
+    "map_url": "http://gis-land.rd.go.th/data/13_phutsaphakhom/13_phutsaphakhom.html",
+    "description": "เป็นแผนบ้านและสวนของเขต 13 พฤษภาคม พ.ศ. 2567 และแผนที่ระบุการแดนพืช และการหักแดนที่จะเป็นสาธารณประโยชน์",
+    "file_url": "http://gis-land.rd.go.th/data/13_phutsaphakhom/13_phutsaphakhom.pdf"
+}

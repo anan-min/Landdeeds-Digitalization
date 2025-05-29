@@ -1,0 +1,10 @@
+ {
+    "parcel_number": "4107",
+    "scale": "1,1000",
+    "plan_type": "SZ",
+    "size": "3.12m",
+    "location": "0689",
+    "status": "สำเนา",
+    "department": "DEPARTMENT OF LAND",
+    "date": "วันที่ 08 กุมภาพันธ์ พ.ศ. 2567"
+}

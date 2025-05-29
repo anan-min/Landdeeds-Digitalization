@@ -1,0 +1,11 @@
+ {
+    "title": "Land Department",
+    "land_office_department": "Department of Land",
+    "parcel_number": "2002956",
+    "table_ratio": "1:2000",
+    "map_scale": "1:2000",
+    "plot_ratio": "0.1",
+    "environmental_impact_assessment": "EPA",
+    "land_department": ["Land Department", "Land Office Department"],
+    "date": "21 December 2567"
+}

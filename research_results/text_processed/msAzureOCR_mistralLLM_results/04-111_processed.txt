@@ -1,0 +1,13 @@
+ {
+    "location": "ONDA",
+    "date_of_issue": "15 กุมภาพันธ์ พ.ศ. 2567",
+    "department": "Department of Land",
+    "land_plot_size_in_rai": {
+        "total_area": 110,
+        "useful_area": 108,
+        "reserved_area": 2
+    },
+    "purpose_of_land": "Benefit to the Public",
+    "parcel_number": "4/5540",
+    "notes": "Copy of Land Department"
+}

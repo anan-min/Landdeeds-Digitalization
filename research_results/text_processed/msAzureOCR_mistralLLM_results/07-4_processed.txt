@@ -1,0 +1,25 @@
+ {
+      "land_title": "Wang Mueang Thai Land Office",
+      "department": "Ministry of Agriculture and Cooperatives",
+      "date": "15 January 2567",
+      "location": [
+         {
+            "id": "36113",
+            "type": "BTMENT",
+            "label": "Office of Land"
+         },
+         {
+            "x_coordinate": "88985",
+            "y_coordinate": "418",
+            "label": "King's Property"
+         },
+         {
+            "x_coordinate": "131886",
+            "y_coordinate": null,
+            "label": "Government Land"
+         }
+      ],
+      "parcel_id": "642863",
+      "type": "Krum",
+      "purpose": "For the benefit of the public"
+   }

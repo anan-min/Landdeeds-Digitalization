@@ -1,0 +1,26 @@
+ {
+   "land_department": "DEPARTMENT OF LAND",
+   "date": "14 พฤษภาคมนี้",
+   "land_area": "355.4",
+   "location": {
+      "province": "สถเนา",
+      "district": "นบ",
+      "coordinates": [
+         4985,
+         1695 / 1,
+         160,
+         5455,
+         81,
+         0634,
+         1257
+      ],
+      "elevation": 0644,
+      "latitude_longitude": "@ 1257",
+      "region": "กระทรวงมหาดไทย",
+      "subdistrict": "",
+      "year": 2563
+   },
+   "land_type": "ซ่า",
+   "water_body": "น้ำ",
+   "soil_texture": ""
+}

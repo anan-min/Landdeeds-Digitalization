@@ -1,0 +1,40 @@
+ {
+      "property1": "Given",
+      "property2": "Krung Thep Maha Nakhon",
+      "property3": "Thailand",
+      "description": "A piece of land survey document",
+      "date_created": "21 December 1941",
+      "property4": "Ministry of Natural Resources and Environment",
+      "property5": {
+          "table_name": "Land Survey Document",
+          "row_number": "0010"
+      },
+      "property6": {
+          "column1": "Scale",
+          "value1": "1:2,000"
+      },
+      "property7": [
+          {
+              "item1": "Legal Land Boundary",
+              "item2": "A",
+              "item3": "1,668.57",
+              "item4": "1,669.05"
+          },
+          {
+              "item1": "Legal Land Boundary",
+              "item2": "B",
+              "item3": "1,668.04",
+              "item4": "1,667.53"
+          }
+      ],
+      "property8": [
+          {
+              "item1": "Geodetic Reference System",
+              "item2": "WGS-84 UTM Zone 50N"
+          },
+          {
+              "item1": "Projection",
+              "item2": "Transverse Mercator (UTM)"
+          }
+      ]
+   }

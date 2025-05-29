@@ -1,0 +1,12 @@
+ {
+   "title": "Department of Land",
+   "subtitle": "Division of Engineering and Development",
+   "planType": "100-plot plan",
+   "aspectRatio": "1:100",
+   "scale": 1,
+   "parcelID": "DE",
+   "plotCount": [9800, 6837, 7339, 7058, 8534, 5925],
+   "beneficiaryName": "",
+   "dateIssued": "15 KU 2567",
+   "signature": ""
+}

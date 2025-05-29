@@ -1,0 +1,13 @@
+ {
+      "lan_department": "Thai Department of Land",
+      "scale": "1/10000",
+      "plan_type": "Plan Type Unknown",
+      "land_parcel_number": "6593 0",
+      "section_area": "5036",
+      "section_start": "6036-1 (1/1000)",
+      "section_end": "8836-8 (1/1000)",
+      "total_area": "3160",
+      "purpose": "Utility Easement",
+      "sub_area": "5036 1 5836-8 (1/1000)",
+      "prohibition": "No Copying Allowed"
+   }

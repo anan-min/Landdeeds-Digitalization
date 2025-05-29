@@ -1,0 +1,20 @@
+ {
+      "district": "DEPARTMENT OF LAND",
+      "scale": "1 : 2000",
+      "coordinates": [
+        [8961, 4270],
+        [28505, 14705]
+      ],
+      "land_plot_number": "2138-8961",
+      "parcel_size": {
+          "area": 42993.31,
+          "unit": "square meters"
+      },
+      "owner": "",
+      "use": "",
+      "location": {
+        "province": "",
+        "district": "",
+        "village": ""
+      }
+    }

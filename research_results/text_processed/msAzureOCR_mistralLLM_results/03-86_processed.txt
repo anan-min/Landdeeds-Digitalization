@@ -1,0 +1,20 @@
+ {
+    "land_department": "DEPARTMENT OF LAND",
+    "government": "MINISTRY OF LAND",
+    "subdivision": "DIVISION OF LAND",
+    "land_office": "LAND OFFICE",
+    "district_name": "KRABURI",
+    "province_code": "24",
+    "province_name": "RATCHABURI",
+    "amphoe_code": "6797",
+    "amphoe_name": "NAKHON INN",
+    "tambon_code": "1084",
+    "tambon_name": "KLUAI",
+    "moo_ban_code": "612",
+    "moo_ban_name": "MOO 9",
+    "village_plot_number": "2402960",
+    "parcel_size": "9000 DA9.10",
+    "land_type": "RURAL LAND",
+    "purpose_of_use": "AGRICULTURE AND FORESTERY",
+    "date_of_issue": "21 DECEMBER 1967"
+}

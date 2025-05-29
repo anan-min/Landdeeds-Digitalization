@@ -1,0 +1,38 @@
+ {
+    "District": "Sunigy DEPARTMENT Of LAND",
+    "Date": "2567-04-13",
+    "Province": "มหาดไทย",
+    "Department": ["กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย", "กรมที่ดิน กระทรวงมหาดไทย"],
+    "Acreage": "-1 to 1 acre",
+    "Table": [
+        {
+            "Field": "Terrace",
+            "Area": "-"
+        },
+        {
+            "Field": "Irrigation",
+            "Area": "1:1000"
+        },
+        {
+            "Field": "Map",
+            "Area": "1/1000"
+        },
+        {
+            "Field": "District number",
+            "Area": "65"
+        },
+        {
+            "Field": "Land code",
+            "Area": "4095"
+        },
+        {
+            "Field": "Folio number",
+            "Area": "9118"
+        },
+        {
+            "Field": "Plot number",
+            "Area": "3197"
+        }
+    ],
+    "Remarks": "This parcel has an area of -1 to 1 acre. The irrigation ratio is 1:1000 (1 acre). Please note that this is a copy, the original document must be consulted."
+}

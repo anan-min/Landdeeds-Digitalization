@@ -1,0 +1,38 @@
+ {
+      "department": "Department of Natural Resources and Environment",
+      "date": "2567-12-15",
+      "map_title": "Land Use and Development Plan",
+      "location": [
+         {
+            "name": "DEP Office",
+            "coordinates": [84.595, 8.07]
+         },
+         {
+            "name": "Om Thai Land",
+            "coordinates": [83.657, null]
+         },
+         {
+            "name": "Chao Phraya River",
+            "coordinates": [null, 14.0]
+         }
+      ],
+      "boundary_lines": [
+         [83.4, 8.2],
+         [83.657, null],
+         [null, 14.0]
+      ],
+      "area": {
+         "square_kilometers": 84595,
+         "acres": null
+      },
+      "rules": [
+         {
+            "id": 1,
+            "percentage": 356
+         },
+         {
+            "id": 2,
+            "percentage": 1000
+         }
+      ]
+   }

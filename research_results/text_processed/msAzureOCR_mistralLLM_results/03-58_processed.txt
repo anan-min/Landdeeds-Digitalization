@@ -1,0 +1,34 @@
+ {
+    "property_details": {
+        "plot_size": "-",
+        "location": "-",
+        "district": "",
+        "province": "",
+        "region": "",
+        "land_type": "DEPARTMENT OF LAND",
+        "land_division": "ระทรวงมหาดไทย",
+        "department": "กรมที่ดิน",
+        "division": "กระทรวงมหาดไทย",
+        "parcel_number": "8/61",
+        "certificate_type": "ครีดด",
+        "folio_number": "1408",
+        "volume_number": "1970",
+        "page_number": "0872",
+        "sub_district": "น.",
+        "village": "4324",
+        "tambon": "1970",
+        "amphur": "",
+        "date": "ที่ 21 กุมภาพันธ์ พ.ศ. 2567"
+    },
+    "land_description": {
+        "plot_area": "มาตราส่วนในระวาง ๑๒๐๐๐",
+        "construction_area": "",
+        "land_use": "",
+        "land_status": "ฉบับสำนักงานที่ดิน ห้ามากออก"
+    },
+    "survey_details": {
+        "plot_shape": "-",
+        "boundary_markers": "-๓ ๖ ตารางวา",
+        "surveyor": ""
+    }
+}
