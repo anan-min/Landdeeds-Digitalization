@@ -6,13 +6,15 @@ from typhoon_ocr import ocr_document
 script_dir = os.path.dirname(os.path.abspath(__file__))
 image_folder = os.path.join(script_dir, '..', 'static', 'dol_compressed')
 # static/dol_compressed
-output_folder = os.path.join(script_dir, '..', 'ocr_results', 'research_results', 'typhoonOCR_newDOL_results')
+output_folder = os.path.join(
+    script_dir, '..', 'research_results', 'ocr_results', 'typhoonOCR_newDOL_results')
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
 os.environ['TYPHOON_OCR_API_KEY'] = "sk-FsXJJmQBEw6YLmT1cM2TL5Tbo4bTRYmrZTaDZxqXNXMCrrtV"
 Image.MAX_IMAGE_PIXELS = None
 os.makedirs(output_folder, exist_ok=True)
+
 
 def process_and_store_result(image_file_path, output_file_path):
     try:
@@ -22,7 +24,8 @@ def process_and_store_result(image_file_path, output_file_path):
 
         try:
             with Image.open(image_file_path) as img:
-                print(f"✅ Opened image: {image_file_path} | Format: {img.format}")
+                print(
+                    f"✅ Opened image: {image_file_path} | Format: {img.format}")
         except Exception as e:
             print(f"❌ Failed to open image: {image_file_path} | Error: {e}")
             return
@@ -44,13 +47,15 @@ def process_and_store_result(image_file_path, output_file_path):
         print(f"❌ Unexpected error: {e}")
         traceback.print_exc()
 
+
 def process_all_images_in_folder(folder_path):
     if not os.path.exists(folder_path):
         print(f"❌ Image folder does not exist: {folder_path}")
         return
 
     try:
-        image_files = [f for f in os.listdir(folder_path) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
+        image_files = [f for f in os.listdir(
+            folder_path) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
         print(f"📄 Found {len(image_files)} images to process.")
 
         for image_file in image_files:
@@ -63,6 +68,7 @@ def process_all_images_in_folder(folder_path):
     except Exception as e:
         print(f"❌ Error scanning folder: {e}")
         traceback.print_exc()
+
 
 if __name__ == "__main__":
     print("📁 Script directory:", script_dir)
