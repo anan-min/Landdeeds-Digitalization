@@ -3,22 +3,16 @@ import traceback
 from PIL import Image
 from typhoon_ocr import ocr_document
 
-# Get absolute path to current script's directory
 script_dir = os.path.dirname(os.path.abspath(__file__))
+image_folder = os.path.join(script_dir, '..', 'static', 'dol_compressed')
+# static/dol_compressed
+output_folder = os.path.join(script_dir, '..', 'ocr_results', 'research_results', 'typhoonOCR_newDOL_results')
+if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
 
-# Define input and output folders
-image_folder = os.path.join(script_dir, 'images')
-output_folder = os.path.join(script_dir, 'research_results', 'typhoon_ocr_results')
-
-# Set Typhoon OCR API key
 os.environ['TYPHOON_OCR_API_KEY'] = "sk-FsXJJmQBEw6YLmT1cM2TL5Tbo4bTRYmrZTaDZxqXNXMCrrtV"
-
-# Disable image pixel limit warning
 Image.MAX_IMAGE_PIXELS = None
-
-# Ensure output folder exists
 os.makedirs(output_folder, exist_ok=True)
-
 
 def process_and_store_result(image_file_path, output_file_path):
     try:
@@ -50,7 +44,6 @@ def process_and_store_result(image_file_path, output_file_path):
         print(f"❌ Unexpected error: {e}")
         traceback.print_exc()
 
-
 def process_all_images_in_folder(folder_path):
     if not os.path.exists(folder_path):
         print(f"❌ Image folder does not exist: {folder_path}")
@@ -70,7 +63,6 @@ def process_all_images_in_folder(folder_path):
     except Exception as e:
         print(f"❌ Error scanning folder: {e}")
         traceback.print_exc()
-
 
 if __name__ == "__main__":
     print("📁 Script directory:", script_dir)
