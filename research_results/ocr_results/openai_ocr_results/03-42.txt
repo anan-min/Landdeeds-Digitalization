@@ -1,0 +1,28 @@
+Certainly! Here is the extracted Thai text from the land deed document image:
+
+---
+
+**ทที่รดระวาง** ... เลขที่ดิน ... เลขที่ดิน ... เลขที่สำรวจ ...  
+**ตำบล** ... เกาะแก้ว ...  
+**อำเภอ** ... เมือง ...  
+**โฉนดที่** 2462  
+**เล่ม** 16 **หน้า** 254  
+
+**ที่ก่ล่องแผนที่**  
+มาตราส่วน ... 1:9000
+
+(แผนผังที่ดิน พร้อมตัวเลขต่างๆ)
+
+The sketch contains many reference numbers and text such as:
+
+- 5556 แปลงที่
+- 43469
+- 2314
+- 4369
+- 4769
+- หลักเขตเขาหลัก
+- ฯลฯ
+
+---
+
+This is the general structure and most of the clearly visible text on the form. If you need very specific numbers from the map or handwritten text, let me know which part you'd like to extract!
