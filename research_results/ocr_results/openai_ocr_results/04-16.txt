@@ -1,0 +1,20 @@
+Here is the extracted text from the image (Thai land deed document):
+
+---
+
+รูปแผนที่  
+มาตราส่วน 1:2000
+
+ถนนสาธารณประโยชน์  
+มาตราส่วนในระวาง 1:4000
+
+เลขที่หลักเขต 2116, 2292, 3341, 2299  
+ขนาดที่ดิน 912 ตารางวา
+
+วันที่ 14 พฤศจิกายน 2567
+
+---
+
+Note:  
+- There is also some small text and official stamps/seals, but those are mostly standard legal phrasing or schedule codes.  
+- If you need text from the red vertical row or margins, or the tiny block text, let me know and I’ll attempt a more detailed extraction!

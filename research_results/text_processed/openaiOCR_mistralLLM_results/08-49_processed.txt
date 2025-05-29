@@ -1,0 +1,12 @@
+ {
+    "ที่ดินระวาง": "5ก  0174",
+    "เลขที่ดิน": "0174",
+    "ตำบล": "Not Provided (The text 'บางขุนเทียน' is not in the main visible text)",
+    "อำเภอ": "Not Provided (The text 'เมืองนนทบุรี' is not in the main visible text)",
+    "ฉโนดที่ดิน": "49",
+    "เลขเล่ม": "Not Provided (No number corresponding to this feature)",
+    "หน้าสำรวจ": "Not Provided (No number corresponding to this feature)",
+    "มาตราส่วน / สเกล": "Not Provided (No text or numeric ratio corresponding to this feature)",
+    "ลงชื่อ": "Not Provided (No text or image corresponding to this feature)",
+    "ผู้เขียนแผนที่": "Not Provided (No text corresponding to this feature)"
+}

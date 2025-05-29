@@ -1,24 +1,28 @@
-Certainly! Here is the extracted text from the land deeds document (โฉนดที่ดิน) in Thai as shown in the image:
+Certainly! Here is the extraction of the Thai text from the land deed document you provided (based on OCR and analysis from the image):
+
+---
+**ที่ดินระวาง** ...  
+**แผ่นที่ ๒๒๔๔ (๒๔๔)**  
+**เล่ม ๒, หน้า ๑๔**  
+
+**ตำบล** ทหารผ่านศึก  
+**อำเภอ** ศรีเทพ  
+**จังหวัด** เพชรบูรณ์  
 
 ---
 
-**ที่ดินระวาง...50C/1 5984-8........แผนที่...ของที่ดิน....ฉ.ที่...**
-**หน้าสำรวจ....หมู่ที่...6...**
-**ตำบล...ทาสบเส้า....อำเภอ...แม่ทา....**
-**จังหวัด...ลำพูน...**
-**ในเขตที่...๒๔.....**
-**เลขที่...๒๖...หน้า...๑๔...**
-
-(แผนผังที่ดินปรากฏรายละเอียด, ส่วนหนึ่งของแผนผังที่ดิน)
-
-**สำเนาถูกต้อง**
-
-(ลายเซ็นและตราประทับ)
-
-**สารบัญจดทะเบียน**
+- There are several numbers and measurements on the land parcel diagram, such as:  
+0.0649, 0.0457, 0.0517, 0.0874, 0.0611, 0.0617, 0.0583, 0.0567, 0.0617, 0.0887, 0.0584  
+- Terms like "แปลง" (plot) and "เขตไป" (boundary/to boundary) appear.
+- Other labels: "ทางสาธารณประโยชน์" (public road)
+- Signatures at the bottom, with lines for "ลงชื่อ" (signature), "สารบบจดทะเบียน" (registration book).
 
 ---
 
-ส่วนที่เหลือประกอบด้วยข้อมูลตัวเลขและรายละเอียดที่เป็นส่วนหนึ่งของแผนผังโฉนดที่ดิน เช่น หมายเลขหลักเขต, ขอบเขตแปลงที่ดิน, เส้นทาง, ข้อความเกี่ยวกับทิศทางและพื้นที่ใกล้เคียง เป็นต้น
+**Map Legend:**  
+- "ที่จำลองแผนที่" (map model)  
+- "มาตราส่วน ๑:๑๐๐๐" (scale 1:1000)
 
-*หมายเหตุ: หากต้องการส่วนใดเป็นพิเศษ หรือเน้นที่ข้อความใด แจ้งได้ครับ*
+---
+
+If you need particular sections translated or certain parts more clearly extracted, let me know! If you want the hand-written names or other portions, please point them out specifically.

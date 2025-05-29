@@ -1,0 +1,12 @@
+ {
+  "ที่ดิน": "72/56",
+  "เลขที่ดิน": "56",
+  "ตำบล": "Not provided in text",
+  "อำเภอ": "Not provided in text",
+  "ฉโนดที่ดิน": "Not provided in text",
+  "เลขเล่ม": "Not provided in text",
+  "หน้าสำรวจ": "Not provided in text",
+  "มาตราส่วน/สเกล": "1:4000",
+  "ลงชื่อ": "Caeruk lai",
+  "ผู้เขียนแผนที่": "Not provided in text"
+}

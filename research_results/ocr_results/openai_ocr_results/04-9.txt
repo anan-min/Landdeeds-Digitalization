@@ -1,0 +1,45 @@
+Certainly! Here is the extracted text from the land deeds document in Thai:
+
+---
+
+**(Top Section)**
+```
+ที่ดินแปลงนี้เนื้อที่ประมาณ    งาน    ตารางวา 
+(เนื้อปรากฎหลักฐานถูกต้องหลังการรางวัด)
+มาตราส่วนในระวาง  ๑: ๙๐๐๐    รูปแผนที่    มาตราส่วน    ๑: ๑๐๐๐
+```
+*(Translation: The area of this land plot is approximately ___ ngarn, ___ square wah. (Area according to document after survey))*
+
+---
+
+**(Center Map Section)**
+```
+6075
+5877
+6062
+46025
+6659
+ลาดชลประทานรังสิตใต้ฝั่งซ้าย
+71012
+71012
+```
+
+---
+
+**(Left Side, Red Vertical)**
+```
+ฉบับสำนักงานที่ดิน
+```
+*(Translation: Land Office Copy)*
+
+---
+
+**(Bottom Right, Diagonal)**
+```
+วันที่ ๑๙ กุมภาพันธ์ พ.ศ. ๒๕๖๗
+```
+*(Translation: Date: 19 February 2024)*
+
+---
+
+If you need a specific part transcribed (like handwritten data or names), or a translation, please let me know!

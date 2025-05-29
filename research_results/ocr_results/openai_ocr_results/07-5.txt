@@ -1,0 +1,47 @@
+Certainly! Here is the extracted Thai text that appears clearly from the image:
+
+---
+**Top Left Section**
+```
+เลขที่ ๗๘๓ เล่ม ๘๖
+เล่มที่ ๑
+(เขตตำบลเกาะลอย)
+อำเภอ ศรีราชา
+เลขที่ ๓๒๖
+สารบบญานี้ที่ ๓
+ตรา ๑๖
+```
+---
+**Top Center Section**
+```
+ที่ดูลอแผนที่
+มาตราส่วน ๑๐๐๐๐
+```
+---
+
+**Middle Section (Map part)**
+```
+สารบบญาแก้
+```
+
+---
+
+**Bottom Right Section (Signature and Date)**
+The text is difficult to distinguish due to handwriting and tape, however, here are some recognizable elements:
+- There is a handwritten signature.
+- A hand-written date, which is unclear.
+---
+
+**Other Map Contents**
+The map contains land plot numbers and boundaries, for example:
+```
+๒๕๒๐
+๒๕๑๙
+๒.๒๐๖
+๒.๒๔๖
+๒๕๐๖
+```
+
+---
+
+If you need the text to be typed up in a different way, or need more sections to be extracted or translated, please let me know!

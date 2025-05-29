@@ -1,0 +1,13 @@
+ {
+    "ที่ว่าลงแผนที่": null, // Not specified in the text
+    "มาตราส่วน / สเกล": "1:4000",
+    "ตำบล": null, // Not specified in the text
+    "อำเภอ": null, // Not specified in the text
+    "ฉโนดที่ดิน": null, // Not specified in the text
+    "เลขเล่ม": null, // Not specified in the text
+    "หน้าสำรวจ": null, // Not specified in the text
+    "ที่ดินระวัง": null, // Not specified in the text
+    "เลขที่ดิน": null, // Not specified in the text
+    "ลงชื่อ": null, // Not specified in the text
+    "ผู้เขียนแผนที่": null // Not specified in the text
+}

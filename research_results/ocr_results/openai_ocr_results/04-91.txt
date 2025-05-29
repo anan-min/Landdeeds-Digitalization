@@ -1,0 +1,33 @@
+Certainly! Here is the extracted Thai text from the land deed document image:
+
+---
+
+**Top section:**
+```
+ที่ดินแปลงนี้มีเนื้อที่ประมาณ __________ (โฉนดที่ดินจะมีค่าพิกัดมาตราฐาน)
+มาตราส่วนในระว่าง  ๑ : ๑๐๐๐
+รูปแผนที่
+มาตราส่วน  ๑ : ๑๐๐๐
+```
+
+**Center and around map:**
+```
+4095  7695  5455  4095
+1257  3554
+```
+
+**Left (vertical, red):**
+```
+แบบพิมพ์นี้ใช้เฉพาะงานที่ดิน
+```
+
+**Bottom right (diagonal):**
+```
+วันที่ 08 กุมภาพันธ์ พ.ศ. 2567
+```
+
+**Other text (not always perfectly clear, some numbers, and annotation points around the map may indicate plot boundaries and neighboring plots with codes like ๒๑, ๓๒, ๒๒ etc.)**
+
+---
+
+Let me know if you need a specific section transcribed or translated!

@@ -1,0 +1,12 @@
+ {
+    "ที่ดินระวาง": "1:2000",
+    "เลขที่ดิน": "2311",
+    "ตำบล": "Not provided (hand-written)",
+    "อำเภอ": "Not provided (not in the text)",
+    "ฉโนดที่ดิน": "Not provided (not in the text)",
+    "เลขเล่ม": "Not provided (not in the text)",
+    "หน้าสำรวจ": "Not provided (not in the text)",
+    "มาตราส่วน / สเกล": "1:4000",
+    "ลงชื่อ": "Not provided (hand-written)",
+    "ผู้เขียนแผนที่": "Not provided (not in the text)"
+}

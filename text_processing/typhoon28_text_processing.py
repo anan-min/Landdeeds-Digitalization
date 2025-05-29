@@ -7,9 +7,9 @@ import ollama
 model_name = "typhoon28"
 # Define input and output folders
 output_folder = os.path.join(os.path.dirname(os.path.abspath(
-    __file__)), '..', 'research_results', 'typhoon_ocr_results')
+    __file__)), '..', 'research_results', 'ocr_results', 'openai_ocr_results')
 processed_folder = os.path.join(os.path.dirname(os.path.abspath(
-    __file__)), '..', 'research_results', 'text_processed', f'{model_name}_text_processed')
+    __file__)), '..', 'research_results', 'text_processed', f'openaiOCR_typhoon28_results')
 
 features = {
     "ที่ดินระวาง": "Alphanumeric code, Format: ####/##, E.g., '1234/56'",

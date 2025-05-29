@@ -1,0 +1,12 @@
+ {
+    "ที่ดินระวาง": "2ค/8649",
+    "เลขที่ดิน": "2",
+    "ตำบล": "Not provided (need to check the marginal text for this)",
+    "อำเภอ": "Not provided (need to check the marginal text for this)",
+    "ฉโนดที่ดิน": "3",
+    "เลขเล่ม": "2",
+    "หน้าสำรวจ": "Not provided (need to check the marginal text for this)",
+    "มาตราส่วน / สเกล": "1:100, 1:1000",
+    "ลงชื่อ": "Not provided (no signature or image visible in the given text)",
+    "ผู้เขียนแผนที่": "Not provided (need to check the marginal text for this)"
+}

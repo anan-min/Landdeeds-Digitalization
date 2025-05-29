@@ -1,0 +1,12 @@
+ {
+    "ที่ดินระวาง": "79160/57",
+    "เลขที่ดิน": "78579",
+    "ตำบล": "Not provided in the text",
+    "อำเภอ": "Not provided in the text",
+    "ฉโนดที่ดิน": "Not provided in the text",
+    "เลขเล่ม": "Not provided in the text",
+    "หน้าสำรวจ": "Not provided in the text",
+    "มาตราส่วน / สเกล": "1:400, 1:200",
+    "ลงชื่อ": "Not provided in the text",
+    "ผู้เขียนแผนที่": "Not provided in the text"
+}

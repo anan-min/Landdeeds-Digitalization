@@ -1,0 +1,54 @@
+Certainly! Here is the extracted text from the image (Thai land deed document):
+
+---
+
+**Extracted text:**
+
+```
+รูปแผนที่
+
+มาตราส่วนในระวาง 1:2000  
+มาตราส่วน 1:1000  
+```
+
+* Handwritten and map-related:  
+- น. (north direction)  
+- คุ้มที่ ๒๕ (center property label in red)  
+- ๗๙๘๗  
+- ค. 9208  
+- ค. 8921  
+- ค. 7784  
+- ค. 9878  
+- ค. 439  
+- ๑๑๗๒๐  
+- ๑๔๖๗  
+- ๘๖๙๗
+
+There are also many columns/numbers along the left and right, plus "สำเนา" (meaning copy) in a watermark/shadow text.
+
+---
+
+If you need the text in plain Unicode/Thai script for further processing, here is a cleaned version:
+
+---
+
+**Cleaned Thai extract:**
+
+- รูปแผนที่  
+- มาตราส่วนในระวาง ๑ : ๒๐๐๐  
+- มาตราส่วน ๑ : ๑๐๐๐  
+- คุ้มที่ ๒๕  
+- ๗๙๘๗  
+- ค. ๙๒๐๘  
+- ค. ๘๙๒๑  
+- ค. ๗๗๘๔  
+- ค. ๙๘๗๘  
+- ค. ๔๓๙  
+- ๑๑๗๒๐  
+- ๑๔๖๗  
+- ๘๖๙๗  
+- สำเนา (watermark)
+
+---
+
+Let me know if you need a more detailed breakdown or translation!

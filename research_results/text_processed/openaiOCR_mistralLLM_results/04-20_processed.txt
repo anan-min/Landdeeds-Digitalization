@@ -1,0 +1,12 @@
+ {
+  "map_plan": "Map plan",
+  "north_direction": "North direction",
+  "scale": ["1:2000", "1:4000"],
+  "plot_number": ["4960", "1405"],
+  "area": ["2.22", "2.86"],
+  "coordinates": ["9 3238", "9 3229", "9 3238"],
+  "water_body": "ลำกระแสสาธารณะประโยชน์",
+  "road": "ถนนสาธารณะ",
+  "canal_bank": "ตลิ่งลำคลอง",
+  "office_land": "สำนักงานที่ดิน"
+}

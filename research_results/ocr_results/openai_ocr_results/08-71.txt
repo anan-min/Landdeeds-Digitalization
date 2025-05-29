@@ -1,0 +1,38 @@
+Certainly! Here’s the extracted Thai text from the document image:
+
+---
+
+**Center:**
+```
+ที่ดินแปลงนี้ตั้งอยู่ที่ประมาณ ____ ต.____ อ.____ จ.____ 
+(สามารถงานเก่าสันเฉพาะสามส่วนสิบตารางวา)
+มาตราส่วนในระวาง  ๑:๑๐๐๐
+รูปแผนที่
+มาตราส่วน  ๑:๑๐๐๐
+```
+
+**Map Section (coordinates and notes):**
+```
+๖๑ 4940
+๗๑ 9774
+๕๑ 8397
+ทางสาธารณประโยชน์
+๖๑ 5650
+๕๐๓๖|๖๐๓๖-๕(๑/๑๐๐๐)
+```
+
+**Red vertical text (Left):**
+```
+ฉบับสำนักงานที่ดิน
+```
+
+**Watermark and footer:**
+```
+สำเนา
+DEPARTMENT OF LAND
+วันที่ ๑๕ กุมภาพันธ์ พ.ศ. ๒๕๖๗
+```
+
+---
+
+If you need any specific parts translated or more details, please let me know!

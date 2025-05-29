@@ -1,0 +1,19 @@
+ {
+    "ที่ดินระวาง": "27331 / 0887",
+    "เลขที่ดิน": "27331",
+    "ตำบล": "Not provided in the text",
+    "อำเภอ": "Not provided in the text",
+    "ฉโนดที่ดิน": "Not provided in the text",
+    "เลขเล่ม": "Not provided in the text",
+    "หน้าสำรวจ": [
+        "27",
+        "88",
+        "87"
+    ],
+    "มาตราส่วน / สเกล": [
+        "1:4000",
+        "1:1000"
+    ],
+    "ลงชื่อ": "Not provided in the text",
+    "ผู้เขียนแผนที่": "Not provided in the text"
+}

@@ -1,0 +1,28 @@
+Certainly! Here is the extracted Thai text from the land deed document image:
+ 
+```
+ที่ดินแปลงนี้เนื้อที่ประมาณ ไร่ งาน ตารางวา
+มาตราส่วนในระวาง 1:1000
+
+รูปแผนที่ มาตราส่วน 1:1000
+
+4066
+3701
+3725
+3174
+
+วันที่ 08 กุมภาพันธ์ พ.ศ. 2567
+```
+
+**Red Vertical text (left margin):**
+```
+หนังสือสำคัญสำหรับที่หลวง
+33368
+```
+
+**Other elements:**
+- There are some directions and plot numbers, as well as a north direction symbol and various coordinates.
+- There is a department watermark: "สำเนา DEPARTMENT OF LANDS"
+- Decorative watermark with a figure.
+
+If you need further detail or a specific part translated, let me know!

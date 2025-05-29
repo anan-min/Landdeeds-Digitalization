@@ -1,0 +1,34 @@
+Here’s an extraction of the visible Thai text from the land deed document image:
+
+---
+
+**Top Left (Form Section):**
+
+```
+    ทุ่งธรรมรง     ชน 50 ม. 1 รรส. 1   เลขที่ดิน  8793  หน้าสำรวจ .....
+    ตำบล เกาะเต่า    (เขียนด้วยปากกาแดง)
+    อำเภอ จงกาศีศี
+    โฉนดที่  262
+    เล่ม  2  หน้า  22
+```
+
+**Top Right:**
+
+```
+    ที่กำหนดแผนที่
+    มาตราส่วน 1 : 4000
+```
+
+**On the Map Section:**
+
+- (center in red) แปลงนี้ 3754
+- 79013  
+- 32501  
+- 79229  
+- 28850  
+- 27188  
+- 27125
+- 27128  
+- 5401
+
+There are some numbers and handwritten annotations that may not be distinctly readable from the resolution, but above is the main legible text. If you need a more detailed transcription of any section or translation, please let me know!

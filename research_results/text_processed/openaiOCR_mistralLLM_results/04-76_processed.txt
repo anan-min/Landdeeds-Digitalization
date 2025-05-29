@@ -1,0 +1,9 @@
+ {
+  "m2": "1:1000",
+  "direction": "North",
+  "conod_number": "7614/7912",
+  "land_number": "55311253",
+  "side": ["West", "North", "East", "South"],
+  "canal": "คลองชลประทานสายแยกขวา",
+  "folio_number": "2204"
+}

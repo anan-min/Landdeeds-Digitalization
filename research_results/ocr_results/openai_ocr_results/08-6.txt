@@ -1,0 +1,53 @@
+Certainly! Here is the **Thai text** extracted from the land deed document image:
+
+---
+
+**(Center Top)**
+```
+รูปแผนที่
+5036 I 5836 - 4
+```
+
+**(Right side of the map, handwritten in red)**
+```
+โฉนดที่ดินฉบับนี้รวมจากโฉนดเดิมที่
+โฉนด 2524, 2525, 2526
+ตำบล เกาะเจดีย์ อำเภอ ปากช่อง
+จังหวัดราชบุรี
+```
+
+**(Signed area)**
+```
+ลงนาม
+(ลายเซ็น)
+เจ้าหน้าที่รังวัดที่ดิน
+```
+
+---
+
+**Map Numbers and Markers (examples):**
+- 5ก 0182
+- 5ก 0385
+- 5ก 0077
+- 5ก 3862
+- 5ก 1731
+- 5ก 3973
+- 5ก 3975
+- 5ก 4042
+- 5ก 1520
+
+---
+
+**Other visible text:**
+- เส้นรังวัดรังวัดยาวฯ (bottom left)
+- มาตราส่วนในระวาง 1 : 1000 (top)
+- มาตราส่วน 1 : 2000 (top right)
+
+---
+
+**Side Text (Red, rotated):**
+- Not fully readable, mostly generic legal terms found on official land documents.
+
+---
+
+If you need any part of the image translated to English, please let me know!

@@ -1,0 +1,12 @@
+ {
+    "ที่ดินระวาง": "4008-2/3",
+    "เลขที่ดิน": "N/A (Not provided in the input)",
+    "ตำบล": "N/A (Not provided in the input)",
+    "อำเภอ": "N/A (Not provided in the input)",
+    "ฉโนดที่ดิน": "N/A (Not provided in the input)",
+    "เลขเล่ม": "N/A (Not provided in the input)",
+    "หน้าสำรวจ": "N/A (Not provided in the input)",
+    "มาตราส่วน / สเกล": "1:4000",
+    "ลงชื่อ": "N/A (Not provided in the input)",
+    "ผู้เขียนแผนที่": "N/A (Not provided in the input)"
+  }

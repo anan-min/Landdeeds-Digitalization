@@ -1,0 +1,58 @@
+Certainly! Here’s the OCR transcription of the main visible Thai text extracted from the land deeds document image:
+
+---
+
+**Top Section**
+```
+ที่ดินแปลงนี้ตั้งอยู่ที่__________________ ตำบล__________________ อำเภอ__________________ จังหวัด__________________
+จำนวนเนื้อที่ ๒ ไร่ ๕ งาน ๗ ตารางวา
+มาตราส่วนในระวาง ๑: ๒๐๐๐
+รูปแผนที่
+มาตราส่วน ๑: ๑๐๐๐
+```
+
+**Words in the Map Area**
+```
+แบ่งที่ดินนี้จัดทำโฉนดในส่วนนี้
+ทิศเหนือติดกับ น.ส. ๓ เลขที่ 60575
+ทิศใต้ติดกับ คลอง
+ทิศตะวันออกติดกับ น.ส.๓ เลขที่ 60387
+```
+
+**Numbers and boundaries (from various spots on the map)**
+```
+๑๕
+๓๕
+๖๐
+๔๘
+๕๘๙๗๓
+60577
+60575
+60573
+60387
+`
+```
+
+**Diagonal Watermark**
+```
+สำเนา
+```
+
+**Bottom Right**
+```
+50361-69610-1
+```
+
+**Red Vertical Text on the Left Side**
+```
+หมุดหมายเขตที่ดิน
+```
+
+**Stamped Date**
+```
+ออกให้ ณ วันที่ 13 พฤศจิกายน พ.ศ. 2567
+```
+
+---
+
+If you need certain sections to be extracted or translated, please specify which part you are interested in!

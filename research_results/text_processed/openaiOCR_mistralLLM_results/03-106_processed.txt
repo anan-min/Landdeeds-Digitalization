@@ -1,0 +1,12 @@
+ {
+    "ที่ดินระวาง": "5742/42",
+    "เลขที่ดิน": "75789",
+    "ตำบล": "Not provided in the text",
+    "อำเภอ": "Not provided in the text",
+    "ฉโนดที่ดิน": "542",
+    "เลขเล่ม": "57",
+    "หน้าสำรวจ": "Not provided in the text",
+    "มาตราส่วน / สเกล": "1:4000, 1:100",
+    "ลงชื่อ": "Not provided in the text",
+    "ผู้เขียนแผนที่": "Not provided in the text"
+}

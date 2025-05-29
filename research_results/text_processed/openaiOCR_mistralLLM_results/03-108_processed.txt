@@ -1,0 +1,12 @@
+ {
+    "ที่ดิน": "503615836-4",
+    "เลขที่ดิน": null,
+    "ตำบล": "Not specified in the text",
+    "อำเภอ": "Not specified in the text",
+    "ฉโนดที่ดิน": null,
+    "เลขเล่ม": null,
+    "หน้าสำรวจ": null,
+    "มาตราส่วน / สเกล": "1:1000, 1:4000",
+    "ลงชื่อ": null,
+    "ผู้เขียนแผนที่": "Not specified in the text"
+}

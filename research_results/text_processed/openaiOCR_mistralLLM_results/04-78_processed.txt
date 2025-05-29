@@ -1,0 +1,12 @@
+ {
+    "ที่ดินระวาง": "13 พฤศจิกายน 2567/",
+    "เลขที่ดิน": "2",
+    "ตำบล": "Not provided in the text",
+    "อำเภอ": "Not provided in the text",
+    "ฉโนดที่ดิน": "60577, 60575, 60573, 60387",
+    "เลขเล่ม": "Not provided in the text",
+    "หน้าสำรวจ": "Not provided in the text",
+    "มาตราส่วน / สเกล": "1:2000, 1:1000",
+    "ลงชื่อ": "Not provided in the text",
+    "ผู้เขียนแผนที่": "Not provided in the text"
+}

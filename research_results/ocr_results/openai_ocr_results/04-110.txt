@@ -1,0 +1,36 @@
+Certainly! Here is the extracted Thai text from the image of the land deed document (โฉนดที่ดิน):
+
+---
+
+**Top Section:**
+```
+ที่ดินแปลงนี้เนื้อที่ประมาณ                  สองงานหกสิบหกเศษเจ็ดสิบสามตารางวา
+มาตราส่วนในระวาง ๑:๑๐๐๐       มาตราส่วน ๑:๑๐๐๐
+```
+**Map Section:**
+```
+รูปแผนที่
+
+ข.พ.ค.  ที่ 5   9813.
+ข.พ.ค.  ที่ 5   9638.
+
+4จ  5898.
+7จ  5662
+8จ  5995
+```
+**North Arrow:**
+```
+น
+```
+**Bottom Right (Watermark):**
+```
+วันที่ 15 กุมภาพันธ์ พ.ศ. 2567
+```
+**Left (Vertical Red Text):**
+```
+อนุญาตเฉพาะงานคัดสำเนาฯ
+```
+
+---
+
+This is a condensed and clear extraction of the main visible and readable elements from your land deed document image. If you need more detailed OCR for other sections or have any other requests related to the document, please let me know!

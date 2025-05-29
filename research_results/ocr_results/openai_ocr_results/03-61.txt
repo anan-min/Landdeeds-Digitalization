@@ -1,0 +1,34 @@
+Here is the extracted text from the image (in Thai, with some English transcription):
+
+**Thai Text Extraction:**
+
+```
+รูปแผนที่
+
+มาตราส่วนในระวาง 1:4000
+มาตราส่วน 1:1000
+
+25823
+ก หมาย 2650
+
+หมายเลข 19897
+
+แนวเขตที่ดิน
+อ่างเก็บน้ำ
+ลำห้วย
+ห้วยสาย
+
+ดินเลขที่
+
+เลขที่ 21 กุมภาพันธ์ พ.ศ. 2567
+```
+
+**Additional details on the map:**
+- There are boundary lines with distance notations (e.g., 3.20 ม., 2.80 ม.)
+- Purple north orientation marker (N)
+- Center watermark/emblem: กรมที่ดิน (Department of Lands, Thailand)
+
+**Special Note:**
+This is just the legible, visible text. Some handwritten notes around the parcels and on the lines (e.g., distances, reference points) are likely field-specific annotations.
+
+If you need this in English or have specific portions you'd like further attention to, let me know!

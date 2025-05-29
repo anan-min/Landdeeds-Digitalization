@@ -4,9 +4,14 @@ import pytesseract
 from pytesseract import Output
 import numpy as np
 
-# Set the folder paths
-input_folder = '../images'  # Folder where original images are stored
-output_folder = '../research_results/cv_results/testing'  # Folder to save processed images with contours
+script_dir = os.path.dirname(os.path.abspath(__file__))
+image_folder = os.path.join(script_dir, '..', 'static', 'dol_compressed')
+output_folder = os.path.join(
+    script_dir, '..', 'research_results', 'cv_updated_results',  'normal_contour_detection')
+
+if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
+
 
 # Ensure the output folder exists
 if not os.path.exists(output_folder):

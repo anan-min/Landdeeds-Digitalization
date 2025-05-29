@@ -1,0 +1,22 @@
+Here is the extracted Thai text from the land deed document image:
+
+---
+
+- รูปแผนที่
+- มาตราส่วนในระวาง ๑:๑๐๐๐
+- มาตราส่วน ๑:๑๐๐๐
+- ที่ดินแปลงนี้เนื้อที่ประมาณ...ไร่...งาน...ตารางวา...
+- (แปลงสัมปทานชลกร)
+- อค 0720
+- ฉ 3451
+- ฉ 9118
+- ก 4797
+- ฉ 4907
+- ฉ 2627
+- สำนักงาน
+- วันที่...........กุมภาพันธ์ พ.ศ. ๒๕๖๗
+- สำนักงานกรมที่ดิน
+
+---
+
+If you need further details or the extraction of specific smaller text, please let me know!

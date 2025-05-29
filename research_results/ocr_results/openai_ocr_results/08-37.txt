@@ -1,0 +1,25 @@
+Certainly! Here is the extracted text from the image (Thai land deed):
+
+---
+
+**(handwritten and printed text, some main parts below):**
+
+- รูปแผนที่
+- มาตราส่วน 1:1000
+- ทิศเหนือ
+- สำนักงานที่ดินหนองคาย
+- วันที่ 15 กุมภาพันธ์ พ.ศ. 2567
+
+**Numbers near shapes:**
+- 32753
+- 84595
+- 23452
+- 23467
+- 84673
+- 23886
+
+And various other numbers/labels referring to plot points and distances.
+
+---
+
+Note: The document is an official Thai land deed map ("โฉนดที่ดิน"), with a map showing boundary points and measurements, along with the issuing land office and date. If you need specific fields, let me know which parts or numbers you need extracted!

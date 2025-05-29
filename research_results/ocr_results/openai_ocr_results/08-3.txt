@@ -1,26 +1,22 @@
-Here is the extracted text from the Thai land deed document in the image:
+Certainly! Here is the extracted text from the image (Thai Land Deeds Document):
 
 ---
 
-**ที่ดินระวาง** 5036 I 5836-8 (1/1000) **เลขที่ดิน** .......................................... **หน้าสำรวจ** boto  
-**ตำบล** บางนาใต้  
-**อำเภอ** บางนาใต้  
-**จังหวัด** สมุทรปราการ  
-**โฉนดที่** ..........................................  
-**เล่ม** ๙๖๗ **หน้า** ๒๖๓  
-**ที่ลอกแผนที่**  
-**มาตราส่วน** ๑ : ๔๐๐
+**ที่ดินระวาง:** 5036 I 5836-8 (1/1000)  
+**เลขที่ดิน:** ........................................  
+**หน้าสำรวจ:** ................................boto...........................  
+**ที่ทำการอำเภอ:**  
+ตำบล  บานาเระใต้  
+อำเภอ  บาเจาะ  
+จังหวัด  นราธิวาส  
+โดนที่  ....................................................  
+เล่ม  ๓๙  หน้า  ๒๑  
 
-Coordinates and plots:
-2ช 4509  
-2ฉ 4152  
-8 9738  
-2ง 2934  
-2ข 8429  
-2ค 5761
+**ที่วัดลงแผนที่**  
+มาตราส่วน  1:4000
 
-(There is also a North direction indicator “น” and an official watermark in the background.)
+(Contains a map with directions and landmarks)
 
 ---
 
-If you need any specific part transcribed or translated, please let me know!
+If you need the text in English or want to know any specific part, please let me know!

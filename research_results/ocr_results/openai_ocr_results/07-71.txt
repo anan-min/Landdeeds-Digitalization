@@ -1,0 +1,28 @@
+Here is the extracted text from the image (in Thai):
+
+---
+
+**Text from the left (vertical, red):**
+ฉบับสำนักงานที่ดิน
+
+**Text near the top (horizontal):**
+ที่ดินแผนผังเนื้อที่ประมาณ    ไร่   งาน   ตารางวา   ๒.๗ ตารางวา              
+(หากมีเศษเฉียดส่วนสลับตารางวา) 
+
+มาตราส่วนในระวาง  ๑ : ๑๐๐๐          รูปแผนที่          มาตราวาง ๖ : ๕๐๐
+
+**Text near the center (diagram points):**
+จุด 1 (เลข 1) 8454
+จุด 2 (เลข 2) 0801
+จุด 1 (เลข 1) 9908
+จุด 2 (เลข 2) 1863
+
+**Text along left side of diagram:**
+น
+
+**Text along lower right corner:**
+วันที่ 15 กุมภาพันธ์ พ.ศ. 2567
+
+---
+
+If you need anything else from the document or a translation, please let me know!

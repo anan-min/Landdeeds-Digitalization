@@ -21,9 +21,9 @@ def encode_image(image_path):
 
 
 input_folder = os.path.join(os.path.dirname(os.path.abspath(
-    __file__)), '..', 'images')
+    __file__)), '..', '..', 'static', 'dol_compressed')
 output_folder = os.path.join(os.path.dirname(os.path.abspath(
-    __file__)), '..', 'research_results','ocr_results', 'openai_ocr_results')
+    __file__)), '..', '..','research_results','ocr_results', 'openai_ocr_results')
 
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)

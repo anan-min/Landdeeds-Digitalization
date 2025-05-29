@@ -1,0 +1,60 @@
+Here is the extracted text from the land deed document in Thai (as visible in the image):
+
+---
+**From the center-top section:**
+```
+ที่ดินแปลงนี้เนื้อที่ประมาณ (ไม่มีลิขิตกำกับไว้)
+งาน .................. ตารางวา
+มาตราส่วนในระวาง ๑:๒๐๐๐
+```
+
+**Center title:**
+```
+รูปแผนที่
+```
+
+**Next to it:**
+```
+มาตราส่วน ๑:๔๐๐
+```
+
+**On the map, some parcel numbers and landmarks are written, such as:**
+```
+9068
+9117
+16879
+1409
+2014
+
+ถนน
+```
+
+**Around the map:**
+```
+คอกไก่    (top)
+คอกไก่    (top-right and bottom-right)
+คอกไก่    (bottom)
+คอกไก่    (bottom-left)
+คอกไก่    (left)
+```
+
+**Text superimposed in the middle (watermark):**
+```
+สำเนา
+DEPARTMENT OF LAND
+```
+
+**On the left side in red:**
+```
+โฉนดที่ดิน
+```
+
+**Bottom text:**
+```
+สำเนาถูกต้อง
+ลงวันที่ 21 กุมภาพันธ์ พ.ศ. 2567
+```
+
+---
+
+If you need a translation or more specific extraction (such as numbers, dates, or field headers), let me know!

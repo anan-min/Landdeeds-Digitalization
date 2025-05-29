@@ -1,0 +1,12 @@
+ {
+    "ที่ดินระวาง": "2567/15",
+    "เลขที่ดิน": "2ค 7214, 2ค 6390, 2ค 8649, 2ค 7100, 2ค 8539",
+    "ตำบล": "Not provided in the text",
+    "อำเภอ": "Not provided in the text",
+    "ฉโนดที่ดิน": "Not provided in the text",
+    "เลขเล่ม": "Not provided in the text",
+    "หน้าสำรวจ": "Not provided in the text",
+    "มาตราส่วน / สเกล": "1:1000, 1:1000",
+    "ลงชื่อ": "Not provided in the text",
+    "ผู้เขียนแผนที่": "Not provided in the text"
+}

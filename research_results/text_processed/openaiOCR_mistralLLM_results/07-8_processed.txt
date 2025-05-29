@@ -1,0 +1,12 @@
+ {
+    "ที่ดินระวาง": "2004/9",
+    "เลขที่ดิน": "2004/9",
+    "ตำบล": "Not provided in text",
+    "อำเภอ": "Not provided in text",
+    "ฉโนดที่ดิน": "Not provided in text",
+    "เลขเล่ม": "Not provided in text",
+    "หน้าสำรวจ": "Not provided in text",
+    "มาตราส่วน / สเกล": "1:2000",
+    "ลงชื่อ": "Not provided in text",
+    "ผู้เขียนแผนที่": "Not provided in text"
+}

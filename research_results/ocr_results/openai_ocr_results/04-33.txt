@@ -1,0 +1,50 @@
+Certainly! Here is the extracted Thai text from the land deed document image:
+
+---
+
+**Section 1 (Top Left):**
+```
+ตราครุฑ
+
+ชนิด น.ส. 3 ก - 4
+
+ที่ดินระวาง เลขที่ 484 เล่ม 28 หน้า 93   
+ตำบล แก่งเลิงจาน  
+อำเภอ เมือง  
+โฉนดที่ 150  
+สารบบเล่มที่ 2  
+เล่มที่ 50  
+```
+
+**Section 2 (Map):**
+```
+ที่สำรวจแผนที่  
+สเกล 1: 4000  
+```
+(below this is the hand-drawn land plot)
+
+You may see plot boundary measurements, for example:
+```
+450
+450
+600
+600
+```
+And property boundaries labeled with:
+```
+ลำรางสาธารณะ (Public passage)
+ที่ดินเลขที่ (Plot number)
+```
+
+**Section 3 (Bottom Right):**
+```
+ลงชื่อ .....................................
+(เจ้าหน้าที่ที่ดิน)
+วันที่ 8/5/2507  
+```
+
+---
+
+*Note: Some parts may be partly obscured, handwritten, or less clear, so minor details or notes might have been interpreted to the best ability from the visible scan.*
+
+If you need a specific section translated or a detailed explanation, please let me know!

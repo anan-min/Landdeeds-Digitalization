@@ -1,0 +1,14 @@
+ {
+      "mangatsabaanthaitheedin": "1:4000",
+      "tihedintiangani": "5036 I 5836-4",
+      "lumrabwang": "5036 I 5836-3(1: 4000)",
+      "tambon": "เทพเสด็จ",
+      "amphoe": "ดอยหล่อ",
+      "chnonditiadin": "4436",
+      "elum": "45",
+      "hnafsamruat": "97",
+      "neighboringplots": ["6798", "8244", "7425", "9345"],
+      "watermarkoverlay": "สำนักงานรังวัดที่ดิน กรมที่ดิน (Royal Department of Lands)",
+      "langchon": ["นายสถาพร ใจเย็นมะณีรัตน์", "นายประเสริฐ สังข์บุญเรือง"],
+      "sarbajanjandetthana": ["1 มี.ค. 2543", "7 ส.ค. 2536"]
+    }

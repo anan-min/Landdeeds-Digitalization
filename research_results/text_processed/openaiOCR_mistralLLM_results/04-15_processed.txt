@@ -1,0 +1,16 @@
+ {
+    "mangrateratio": "1:2000",
+    "subdivisionratio": "1:4000",
+    "concessionnumber": "1000",
+    "landparcels": [{"parcelnumber": "2525"}, {"parcelnumber": "2332"}, {"parcelnumber": "2292"}, {"parcelnumber": "2716"}],
+    "plotnumber": "154",
+    "district": "Not provided",
+    "amphoe": "Not provided",
+    "tambon": "Not provided",
+    "concessioncode": "Not provided",
+    "folio": "Not provided",
+    "sheetnumber": "Not provided",
+    "scale": "Not provided",
+    "signature": "Not provided",
+    "planauthor": "Not provided"
+  }

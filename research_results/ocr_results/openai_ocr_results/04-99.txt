@@ -1,0 +1,41 @@
+Certainly! Here is the extracted text from the provided Thai land deed document image:
+
+---
+
+**Top Section:**
+```
+ที่ดินแปลงนี้มีเนื้อที่ประมาณ     ไร่ ... งาน ... ตารางวา
+ตามที่รางนี้แสดงตำแหน่ง
+มาตราส่วนในระวาง ๑: ๔๐๐๐
+
+รูปลแผนที่ มาตราส่วน ๑: ๔๐๐๐
+```
+
+**Middle Section (Map and numbers):**
+```
+รูปแผนที่
+ทิศเหนือ
+1863
+1867
+1967
+
+240
+
+เลขที่ดิน
+S036 I 6036-1
+```
+
+**Left Vertical Red Text:**
+```
+ฉบับสำนักงาน
+```
+
+**Watermark/Overlay text:**
+```
+สำเนา
+วันที่ 15 กุมภาพันธ์ พ.ศ. 2567
+```
+
+---
+
+This is the primary clearly readable Thai text extracted from the document in the image. If you need a specific part transcribed or translated, or more details from the corners/numbers, please let me know!

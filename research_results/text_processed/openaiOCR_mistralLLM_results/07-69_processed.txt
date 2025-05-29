@@ -1,0 +1,12 @@
+ {
+    "ที่ดิน": "5036 I 5836-3",
+    "เลขเล่ม": "5836",
+    "ฉโนดที่ดิน": "3",
+    "ตำบล": "Not provided in the text",
+    "อำเภอ": "Not provided in the text",
+    "หน้าสำรวจ": "86455",
+    "มาตราส่วน / สเกล": "1:100, 1:500",
+    "แผนที่": "Provided as an image in the text",
+    "ลงชื่อ": "Not provided in the text",
+    "ผู้เขียนแผนที่": "Not provided in the text"
+}

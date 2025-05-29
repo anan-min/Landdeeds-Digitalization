@@ -1,0 +1,23 @@
+Certainly! Here’s the extracted Thai text from your image:
+
+---
+
+**Main text visible on the image:**
+
+- รูปแผนที่  
+- 49
+- 5ก  0174  
+- 5ก  0182  
+- 5ก  0385  
+- 5ก  0395  
+- 5ก  3887  
+- 5ก  07364  
+- 15 กุมภาพันธ์ พ.ศ. 2567  
+
+On the left in red:
+- **ออกโฉนดที่ดินนี้ ทะเบียนเลขที่ ...**
+
+---
+
+**Note:**  
+There is a lot of tiny fine print text on the left and right sides, which is challenging to extract completely and may require a higher resolution or specific OCR tools for full clarity. If you need a specific section or further extraction, please specify!

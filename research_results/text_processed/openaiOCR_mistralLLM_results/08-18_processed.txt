@@ -1,0 +1,25 @@
+ {
+    "mata_ra_song_rang_wang": "1:4000",
+    "mata_ra_song": "1:2000",
+    "tang_sa_tharan_prayochon": "",
+    "number": [
+        "7859",
+        "207",
+        "4",
+        "9",
+        "8",
+        "7",
+        "5",
+        "5",
+        "7198",
+        "7488",
+        "887",
+        "888"
+    ],
+    "chanod_thi_din": "19",
+    "number_book": "",
+    "front_review": "",
+    "area_scale": "",
+    "leng_chon": "นายสมชาย",
+    "person_writing_map": "สำนัก งานที่ดินจังหวัดสมุทรปราการ"
+}

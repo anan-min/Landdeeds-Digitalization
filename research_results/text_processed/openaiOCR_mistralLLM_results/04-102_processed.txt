@@ -1,0 +1,13 @@
+ {
+  "รูปแผนที่": null, // Image
+  "ที่ดินระวาง": "50367036-1",
+  "เลขที่ดิน": "298",
+  "ตำบล": "บางขุนเทียน", // From the direction arrow text, assuming it indicates subdistrict name
+  "อำเภอ": "รัตนบุรี",
+  "ฉโนดที่ดิน": "121",
+  "เลขเล่ม": null, // Not provided in the text
+  "หน้าสำรวจ": "120",
+  "มาตราส่วน / สเกล": "1:4000",
+  "ลงชื่อ": "null", // Not provided in the text
+  "ผู้เขียนแผนที่": "บริษัทแผนที่บางขุนเทียน"
+}

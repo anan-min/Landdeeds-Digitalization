@@ -1,0 +1,20 @@
+Here is the extracted text from the image (Thai):
+
+```
+รูปแผนที่
+ที่ดินแปลงนี้ตั้งอยู่ในท้องที่ตำบลเกษตรอุดมอำเภอลำปลายมาศ
+มาตราส่วนในระวาง 1:4000  มาตราส่วนในรูป 1:1000
+9000
+7123
+9785
+6506
+0809
+0208
+10716
+44
+12021.84
+```
+
+There are more handwritten annotations and marginal texts, but the main block in the image is this map with specific land location numbers, scale, positions, and possibly the plot number ("44").
+
+If you need the vertical text (in red and black) or have specific parts you want transcribed, please let me know!

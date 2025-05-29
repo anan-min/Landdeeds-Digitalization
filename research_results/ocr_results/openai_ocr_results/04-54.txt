@@ -1,0 +1,28 @@
+Certainly! Here is an extraction of the visible Thai text from the land deeds document image:
+
+---
+
+**Text at the top (handwritten and typed):**
+```
+50316 เลขที่ 58816-4
+ทัตนระวาง   แผนที่    เลขที่ดิน 55   หน้าสำรวจ 5571 
+ตำบล เหมืองแก้ว (แดงลิขิต)  
+อำเภอ  แม่ริม  
+โฉนดที่ 2243  
+เล่ม 22  หน้า 22
+```
+
+**Other text visible:**
+```
+ที่ทำลอแผนที่
+มาตราส่วน 1: 4000
+```
+*Some words in the map section include various land plot numbers and the word "คอก" which means "pen" or an enclosed area, likely referring to boundaries.*
+
+---
+
+**Note:** 
+- Some handwritten or faint elements may not be perfectly captured.
+- The map section contains many small numbers and words related to land plot boundaries which are not fully extractable due to image resolution and handwriting style.
+
+If you need a specific part with higher accuracy, a clearer or higher-resolution image or focus on a particular area might help. Let me know if you need translation or any specific section!

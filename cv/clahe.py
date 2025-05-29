@@ -4,16 +4,15 @@ import pytesseract
 from pytesseract import Output
 import numpy as np
 
-# Set the folder paths
-input_folder = '../images'  # Folder where original images are stored
-# Folder to save processed images with contours
-output_folder = '../research_results/cv_results/clahe'
+script_dir = os.path.dirname(os.path.abspath(__file__))
+input_folder = os.path.join(script_dir, '..', 'static', 'dol_compressed')
+output_folder = os.path.join(
+    script_dir, '..', 'research_results', 'cv_updated_results',  'clahe')
 
-# Ensure the output folder exists
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
-# Function to process each image
+
 
 
 def process_image(image_path, output_folder):

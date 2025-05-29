@@ -1,0 +1,31 @@
+Here is the text extracted from the provided image (Thai land deed document):
+
+---
+
+**จบสำนักงานที่ดิน**  
+**ห้ามออก** (in red along the left margin)
+
+**ทิศเหนือ**     
+ข. 1607  
+**ทิศตะวันออก**  
+ข. 6418  
+**ทิศใต้**  
+ข. 2138  
+**ทิศตะวันตก**  
+ข. 8921  
+
+คลอง  
+คลอง  
+คลอง  
+
+มาตราส่วนในระวาง 1:4000  
+รูปแผนที่  
+มาตราส่วน 1:0000
+
+(กลางแผนที่วงกลมตราครุฑ)
+
+วันที่ 21 กุมภาพันธ์ พ.ศ. 2567
+
+--- 
+
+If you need a translation of any part or more detailed extraction (like specific zone/land number, etc.), please specify!

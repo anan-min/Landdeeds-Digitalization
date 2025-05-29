@@ -1,0 +1,40 @@
+Certainly! Here is the extracted text from the land deed document in Thai:
+
+---
+
+**Top Left:**
+```
+ติดต่อระวาง ...5036 I 5343-3...
+เลขที่ดิน...240... เลขที่โฉนด...267...
+ตำบล...เกาะสีชัง...
+อำเภอ...เกาะสีชัง...
+โฉนดที่ 225
+เล่ม 2 หน้า 54
+```
+
+**Top Right:**
+```
+ที่จำลองแผนที่
+มาตราส่วน ... 1:5000
+```
+
+**Within the Map:**
+- Various numbered points and measurements, such as:
+  - 79037
+  - 78597
+  - 85828
+  - 78434
+  - 75
+  - 414
+  - 412 (multiple places)
+  - 408
+  - 407
+
+- Directional arrow (North).
+
+**Watermark:**
+- The watermark of the Thai Government emblem is partially visible on the document’s lower left.
+
+---
+
+Would you like a translation as well or any specific detail from the document to be transcribed?

@@ -1,0 +1,46 @@
+Here's the transcribed Thai text from the document (land deeds map/Chanote):
+
+---
+**ที่ดินแปลงนี้เนื้อที่ประมาณ**  
+ไร่  งาน  20 ตารางวา
+
+**มาตราส่วนในระวาง**  1:1000  
+**มาตราส่วน**  1:2000  
+
+**รูปแผนที่**
+
+ทิศ  
+(Showing North direction)
+
+Various numbers on map corners:
+- 81624
+- 82104
+- 81947
+- 82001
+- 82000
+
+Distances (meters):
+- 3.54 ม.
+- 3.60 ม.
+- 3.16 ม.
+- 3.20 ม.
+- 2.68 ม.
+- 2.63 ม.
+- 7.76 ม.
+
+Additional text:
+- หลักเขตหมุด
+- หลักเขตขนาน
+
+Other labels:
+- ๐๗๑๗ (80717)
+- ๐๘๙๕ (0895)
+- ๘๑๗๔ (8174)
+- ๘๓๒๖ (8326)
+
+---
+There is also a watermark:  
+**สำนักงานที่ดิน** (Department of Lands)  
+**วันที่ 10 มิถุนายน พ.ศ. 2567**
+
+If you need a specific section translated or more details, please let me know!

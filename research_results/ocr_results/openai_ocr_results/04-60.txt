@@ -1,0 +1,37 @@
+Here is the extracted text from the image of the Thai land deeds document (โฉนดที่ดิน):
+
+---
+
+**General Information (top left):**
+```
+ที่ดินระวาง...............................เลขที่ดิน ๔๓๙ หน้าสำรวจ ๖๒๖๖
+ตำบล เกาะเกร็ด (ขนานแดง)
+อำเภอ ปากเกร็ด
+โดนที่ ๒ ไร่ ๑ งาน ๒๓ ตารางวา
+เลขที่ ............ หน้า ............
+```
+
+---
+
+**Map Section (center):**
+```
+เลขที่ดิน 439    (ในแผนที่แนบ)
+หมู่ที่ 2
+ถนน      439   
+(มีแผนที่ที่มีเลขที่ดิน 439, 438, 424, 423 และตัวเลขขนาดที่ดินรอบๆ)
+
+แนวไฟ (เขียนด้วยหมึกแดง)
+```
+
+---
+
+**Other visible details:**
+- There is a traditional land office stamp and official signature areas.
+- Encircled numbers and border-to-border dimensions (like 18.42 ม. etc.) shown on the map.
+
+---
+
+**Note:**  
+Some hand-written or red-inked text may be harder to transcribe with 100% accuracy due to image clarity.
+
+If there are any specific sections or details you need transcribed in more detail, please let me know!
