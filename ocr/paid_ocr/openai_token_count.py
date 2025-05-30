@@ -52,9 +52,8 @@ def openai_ocr_image_to_text(image_path):
         ],
     )
 
-    tokens_used = response['usage']['total_tokens']
+    tokens_used = response.usage.total_tokens
     print(f"Tokens used: {tokens_used}")
-    return response.output_text
 
 
 count = 0
@@ -66,13 +65,13 @@ for image_file in os.listdir(input_folder):
         # Process the image and get the extracted text
         extracted_text = openai_ocr_image_to_text(image_path)
 
-        # Save the extracted text to a text file
-        text_file_path = os.path.join(output_folder, f"{os.path.splitext(image_file)[0]}.txt")
+        # # Save the extracted text to a text file
+        # text_file_path = os.path.join(output_folder, f"{os.path.splitext(image_file)[0]}.txt")
         
-        with open(text_file_path, 'w', encoding='utf-8') as f:
-            f.write(extracted_text)
+        # with open(text_file_path, 'w', encoding='utf-8') as f:
+        #     f.write(extracted_text)
 
-        print(f"Text from {image_file} saved to {text_file_path}")
+        # print(f"Text from {image_file} saved to {text_file_path}")
 
         count += 1
         if count == 10:
