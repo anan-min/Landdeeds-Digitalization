@@ -1,4 +1,15 @@
  {
-    "มาตราส่วน / สเกล": "1:1000",
-    "หน้าสำรวจ": "100"
+    "mata_sathan": "1:1000",
+    "graphic_and_symbols": [],
+    "conod_tined": "",
+    "elam_tined": "",
+    "lng_khon": "",
+    "thedin_rang": "",
+    "the_din": "",
+    "thedin_rai_wan": "",
+    "thedin_wani": "",
+    " Tambon": "บางขุนเทียน",
+    "Amphoe": "เมืองนนทบุรี",
+    "ha_nna_samruk": 0,
+    "elam_lek": 0
 }
