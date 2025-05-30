@@ -129,35 +129,34 @@ for filename in os.listdir(input_folder):
         process_image(
             image_path=image_path,
             output_folder=testing1_folder,
-            brightness_increase=20,  # Reduced brightness increase
-            gaussian_blur_kernel=(5, 5),  # Mild blur
-            median_blur_kernel=3,  # Light median blur
-            canny_threshold1=30,  # Slightly higher threshold for edge detection
-            canny_threshold2=90,  # Higher threshold to detect fewer edges
-            min_contour_area=50,  # Smaller minimum contour area
-            approx_poly_epsilon_factor=0.03
+            brightness_increase=80,  # High brightness increase
+            gaussian_blur_kernel=(15, 15),  # Strong blur to remove noise
+            median_blur_kernel=9,  # Strong median blur to reduce smaller noise
+            canny_threshold1=50,  # Higher Canny threshold to reduce excessive edges
+            canny_threshold2=150,  # Higher second threshold to suppress minor edges
+            min_contour_area=200,  # Large minimum contour area to filter small noise
+            approx_poly_epsilon_factor=0.03  # Slightly higher epsilon for smoother contours
         )
 
         process_image(
             image_path=image_path,
             output_folder=testing2_folder,
-            brightness_increase=50,  # Medium brightness increase
-            gaussian_blur_kernel=(7, 7),  # Larger blur
-            median_blur_kernel=5,  # Moderate median blur
-            canny_threshold1=20,  # Low threshold for edge detection
-            canny_threshold2=80,  # Adjusted Canny threshold
-            min_contour_area=75,  # Reasonable minimum contour area
-            approx_poly_epsilon_factor=0.02
+            brightness_increase=80,  # High brightness increase
+            gaussian_blur_kernel=(9, 9),  # Moderate blur to soften edges
+            median_blur_kernel=7,  # Moderate median blur
+            canny_threshold1=20,  # Lower Canny threshold to detect edges more conservatively
+            canny_threshold2=100,  # Adjusted second threshold for edge refinement
+            min_contour_area=100,  # Moderate minimum contour area for noise filtering
+            approx_poly_epsilon_factor=0.02  # Balanced epsilon for contour approximation
         )
-# 
         process_image(
             image_path=image_path,
             output_folder=testing3_folder,
             brightness_increase=80,  # High brightness increase
-            gaussian_blur_kernel=(9, 9),  # Stronger blur
-            median_blur_kernel=7,  # Higher median blur
-            canny_threshold1=10,  # Lower Canny threshold for more edges
-            canny_threshold2=60,  # Lower second threshold
-            min_contour_area=100,  # Larger contour area for filtering
-            approx_poly_epsilon_factor=0.01
+            gaussian_blur_kernel=(5, 5),  # Minimal blur to retain edges and details
+            median_blur_kernel=5,  # Mild median blur
+            canny_threshold1=10,  # Lower Canny threshold to detect even faint edges
+            canny_threshold2=60,  # Lower second threshold for more edge sensitivity
+            min_contour_area=50,  # Smaller contour area threshold to catch fine details
+            approx_poly_epsilon_factor=0.01  # Lower epsilon to keep more detailed contours
         )
