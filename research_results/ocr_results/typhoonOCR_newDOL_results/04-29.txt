@@ -1,0 +1,14 @@
+# ที่จ่ายแผนที่
+
+## มาตราส่วน ๒๐๐๐
+
+![Map Image](image-url)
+
+### Note:
+The map shows geographical features and roads within a specific area.
+
+## Date
+วันที่ 13 พฤศจิกายน พ.ศ. 2567
+
+### Signatures
+ผู้จัดทำแผนที่ (Creator of the Plan Map) และ ผู้ตรวจแผนที่ (Reviewer of the Plan Map).

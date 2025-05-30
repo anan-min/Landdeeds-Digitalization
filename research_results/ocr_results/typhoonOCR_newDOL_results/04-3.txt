@@ -1,0 +1,8 @@
+# ที่จ่ายส่งแผนที่
+
+## มาตราส่วน 1:000
+
+![Map](attachment://image)
+
+### Note:
+The map shows geographical features and roads within a certain area.

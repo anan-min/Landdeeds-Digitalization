@@ -1,0 +1,9 @@
+# รูปแผนที่ (ใบต่อ)
+
+## Section
+- The map shows the location of various geographical features and roads.
+
+## Table
+| Column 1 | Column 2 |
+| --- | --- |
+| Data 1 | Data 2 |
