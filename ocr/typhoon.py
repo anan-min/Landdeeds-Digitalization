@@ -59,11 +59,12 @@ def process_all_images_in_folder(folder_path):
         print(f"📄 Found {len(image_files)} images to process.")
 
         for image_file in image_files:
-            image_path = os.path.join(folder_path, image_file)
-            base_name = os.path.splitext(image_file)[0]
-            output_file_path = os.path.join(output_folder, f"{base_name}.txt")
+            if image_file == "03-29.jpg":
+                image_path = os.path.join(folder_path, image_file)
+                base_name = os.path.splitext(image_file)[0]
+                output_file_path = os.path.join(output_folder, f"{base_name}.txt")
 
-            process_and_store_result(image_path, output_file_path)
+                process_and_store_result(image_path, output_file_path)
 
     except Exception as e:
         print(f"❌ Error scanning folder: {e}")

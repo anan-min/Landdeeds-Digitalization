@@ -13,12 +13,6 @@ if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
 
-# Ensure the output folder exists
-if not os.path.exists(output_folder):
-    os.makedirs(output_folder)
-
-# Function to process each image
-
 
 def process_image(image_path, output_folder):
     try:
@@ -33,31 +27,17 @@ def process_image(image_path, output_folder):
         bright = cv2.add(gray, 150)  # Increase brightness
         blurred = cv2.GaussianBlur(bright, (5, 5), 0)
 
-        # Step 2: OCR Text Detection
-        d = pytesseract.image_to_data(blurred, output_type=Output.DICT)
-
-        # Step 3: Mask text regions with stronger intensity
-        mask = np.ones_like(gray) * 255  # Start with white canvas
-
-        for i in range(len(d['text'])):
-            if int(d['conf'][i]) > 30 and len(d['text'][i].strip()) > 1:
-                x, y, w, h = d['left'][i], d['top'][i], d['width'][i], d['height'][i]
-
-                # Increase the area of masking for stronger effect
-                cv2.rectangle(blurred, (x - 5, y - 5),
-                              (x + w + 5, y + h + 5), 255, -1)  # Enlarged mask
-
         # Optional: further blur small text artifacts
         cleaned = cv2.medianBlur(blurred, 5)
 
-        # Step 4: Edge detection
+        # Step 2: Edge detection
         edges = cv2.Canny(cleaned, 30, 100)
 
-        # Step 5: Contour detection
+        # Step 3: Contour detection
         contours, _ = cv2.findContours(
             edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
-        # Draw only large contours (filter out small text noise)
+        # Draw only large contours (filter out small noise)
         output = image.copy()
         for cnt in contours:
             area = cv2.contourArea(cnt)
@@ -72,7 +52,6 @@ def process_image(image_path, output_folder):
 
     except Exception as e:
         print(f"Error processing {image_path}: {e}")
-
 
 # Loop through all files in the input folder and process the images
 for filename in os.listdir(input_folder):

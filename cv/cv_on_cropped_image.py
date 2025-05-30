@@ -14,12 +14,6 @@ if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
 
-# Ensure the output folder exists
-if not os.path.exists(output_folder):
-    os.makedirs(output_folder)
-
-# Function to process each image
-
 
 def process_image(image_path, output_folder):
     try:
