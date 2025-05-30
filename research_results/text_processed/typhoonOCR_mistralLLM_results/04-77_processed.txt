@@ -1,0 +1,32 @@
+ {
+    "main_figure": "circle diagram",
+    "points": [
+        {"point": "A", "time": 2548},
+        {"point": "B", "time": 2548},
+        {"point": "C", "time": 2548},
+        {"point": "D", "time": 2548},
+        {"point": "E", "time": 2548},
+        {"point": "F", "time": 2548},
+        {"point": "G", "time": 2548},
+        {"point": "H", "time": 2548},
+        {"point": "I", "time": 2548},
+        {"point": "J", "time": 2548},
+        {"point": "K", "time": 2548},
+        {"point": "L", "time": 2548},
+        {"point": "M", "time": 2548},
+        {"point": "N", "time": 2548},
+        {"point": "O", "time": 2548},
+        {"point": "P", "time": 2548},
+        {"point": "Q", "time": 2548},
+        {"point": "R", "time": 2548},
+        {"point": "S", "time": 2548},
+        {"point": "T", "time": 2548},
+        {"point": "U", "time": 2548},
+        {"point": "V", "time": 2548},
+        {"point": "W", "time": 2548},
+        {"point": "X", "time": 2548},
+        {"point": "Y", "time": 2548},
+        {"point": "Z", "time": 2548}
+    ],
+    "center_dot": "O"
+}

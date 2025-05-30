@@ -1,0 +1,6 @@
+ {
+    "matra_saran/skel": "1:500",
+    "size": [{"width": 69, "unit": "เซนติเมตร"}, {"width": 6593, "unit": "เซนติเมตร"}, {"width": 59, "unit": "เซนติเมตร"}, {"width": 63, "unit": "เซนติเมตร"}, {"height": 29, "unit": "เซนติเมตร"}, {"height": 3160, "unit": "เซนตıเมตร"}, {"height": 9945, "unit": "เซนติเมตร"}],
+    "direction_symbol": "N",
+    "project_description": "สำหรับโครงการงานที่ได้รับการอนุมัติ"
+}

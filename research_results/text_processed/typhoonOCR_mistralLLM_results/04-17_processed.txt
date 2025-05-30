@@ -1,0 +1,15 @@
+ {
+    "map": "แผนที่แสดงพื้นที่บริเวณถนนพระราม ๑ ถึง ถนนพระราม ๑๐๐ ในกรุงเทพมหานคร",
+    "scale": "มีมาตราส่วน 1:2000",
+    "landmarks": [
+        {"name": "ถนนพระราม ๑", "position": "[coordinates]"},
+        {"name": "ถนนพระราม ๒", "position": "[coordinates]"},
+        ...,
+        {"name": "ถนนพระราม ๑๐๐", "position": "[coordinates]"}
+    ],
+    "facilities": [
+        {"name": "[name_of_facility_1]", "location": "[location_1]"},
+        ...,
+        {"name": "[name_of_facility_N]", "location": "[location_N]"}
+    ]
+}

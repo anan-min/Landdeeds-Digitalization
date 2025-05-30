@@ -1,0 +1,8 @@
+ {
+    "มาตราส่วน": "1:50000",
+    "หน้าสำรวจ": null, // The scale (1:50000) is not a direct match for the field 'หน้าสำรวจ', but it can be inferred that the scale of the map might correspond to the number of sheets used. Since this value isn't explicitly mentioned, it's left as null.
+    "รูปแผนที่": {
+        "ขนาด": null, // The size of the map is not explicitly mentioned in the text.
+        "อยู่บนแผนที่": ["DARU", "DEP"]
+    }
+}

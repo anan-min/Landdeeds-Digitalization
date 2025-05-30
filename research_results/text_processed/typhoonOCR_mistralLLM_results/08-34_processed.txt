@@ -1,0 +1,12 @@
+ {
+    "ตำบล": "กิ่งเหยื่อ",
+    "อำเภอ": "เมืองนนทบุรี",
+    "เลขทีนคี่นที่1": "88/45",
+    "เลขทีนคี่นที่2": "92/45",
+    "ฉโนดที่ดิน": null, // Not provided in the input
+    "เลขเล่ม": null, // Not provided in the input
+    "หน้าสำรวจ": null, // Not provided in the input
+    "มาตราส่วน / สเกล": null, // Not provided in the input
+    "ลงชื่อ": "Nelupu & Co.",
+    "ผู้เขียนแผนที่": "บริษัทแผนที่บางขุนเทียน"
+}

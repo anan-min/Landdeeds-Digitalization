@@ -1,0 +1,454 @@
+ [
+  {
+    "name": "ทางด่วนพระราม 1",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 2",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 3",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 4",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 5",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 6",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 7",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 8",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 9",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 10",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 11",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 12",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 13",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 14",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 15",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 16",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 17",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 18",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 19",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 20",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 21",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 22",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 23",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 24",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 25",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 26",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 27",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 28",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 29",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 30",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 31",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 32",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 33",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 34",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 35",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 36",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 37",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 38",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 39",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 40",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 41",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 42",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 43",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 44",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 45",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 46",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 47",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 48",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 49",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 50",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 51",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 52",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 53",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 54",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 55",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 56",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 57",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 58",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 59",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 60",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 61",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 62",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 63",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 64",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 65",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 66",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 67",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 68",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 69",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 70",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 71",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 72",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 73",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 74",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 75",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 76",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 77",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 78",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 79",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 80",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 81",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 82",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 83",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 84",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 85",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 86",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 87",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 88",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 89",
+    "color": "white"
+  },
+  {
+    "name": "ทางด่วนพระราม 90",
+    "color": "white"
+  }
+]
+
+This is an array of objects representing different routes in a temple complex. Each object has a name (the route's label) and color (the color associated with that route). How would you use this data to display these routes on a map?
+
+To display these routes on a map, we can create a custom React component for the temple complex map, where each route is represented as a line connecting two points. Here's an outline of how I would implement it using the MapboxGL library:
+
+1. First, install MapboxGL in your project using npm or yarn (`npm install @mapbox/mapbox-gl`)
+2. Create a new file for the TempleComplexMap component and import necessary dependencies, including React, MapboxGL, and the routes data from the parent component:
+
+```javascript
+import React, { useState } from 'react';
+import mapboxgl from '@mapbox/mapbox-gl';
+import routesData from './routesData';
+
+mapboxgl.accessToken = yourMapboxAccessToken;
+```
+
+3. Create a new component called TempleComplexMap:
+
+```javascript
+const TempleComplexMap = ({ center, zoom }) => {
+  // ...
+};
+```
+
+4. In the TempleComplexMap component, initialize the map using MapboxGL and set up event listeners for when the component is mounted and unmounted:
+
+```javascript
+const TempleComplexMap = ({ center, zoom }) => {
+  const [map, setMap] = useState(null);
+
+  useEffect(() => {
+    // Initialize map
+  }, []);
+
+  return (
+    <div style={{ height: '100%' }}>
+      // ...
+    </div>
+  );
+};
+```
+
+5. Inside the useEffect, create and initialize the map when the component is mounted. Add the necessary layers, such as a tile layer for the base map and a layer for the routes:
+
+```javascript
+const TempleComplexMap = ({ center, zoom }) => {
+  const [map, setMap] = useState(null);
+
+  useEffect(() => {
+    if (!map) {
+      const map = new mapboxgl.Map({
+        container: document.querySelector('.temple-complex-map'),
+        style: 'mapbox://styles/mapbox/streets-v11',
+        center,
+        zoom,
+      });
+
+      // Add a layer for the routes
+      map.on('load', () => {
+        map.addLayer({
+          id: 'routes',
+          type: 'line',
+          source: {
+            type: 'geojson',
+            data: routesData,
+          },
+          layout: {
+            'line-join': 'round',
+            'line-cap': 'round',
+          },
+          paint: {
+            'line-color': ['get', 'color'],
+            'line-width': 4,
+          },
+        });
+      });
+    }
+
+    return () => setMap(null); // Clean up on unmount
+  }, []);
+
+  return (
+    <div style={{ height: '100%' }}>
+      <div className="temple-complex-map" />
+    </div>
+  );
+};
+```
+
+This implementation creates a new MapboxGL map, adds the provided routesData as a GeoJSON source for lines, and sets the line color and width using the data's 'color' and 'width' properties.
+
+To see this code in action, create a new React app (using create-react-app or another preferred method) and replace the App component with the above TempleComplexMap code. You can find your Mapbox access token here: https://account.mapbox.com/apps/. Make sure to install the required dependencies before running the app.

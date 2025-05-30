@@ -1,0 +1,6 @@
+ {
+    "มาตราส่วน / สเกล": "1:10000",
+    "หน้าสำรวจ": "85499",
+    "ฉโนดที่ดิน": "Multiple values (depending on the number of plots)",
+    "เลขเล่ม": "Not provided in the text"
+}

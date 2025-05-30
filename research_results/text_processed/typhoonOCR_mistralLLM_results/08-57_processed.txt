@@ -1,0 +1,7 @@
+ {
+    "maatra_swn": "1:1000",
+    "size": "large",
+    "graphic_and_symbols": ["circle", "line", "N"],
+    "location_and_direction": "North",
+    "date": "15 กุมภาพันธ์ พ.ศ. 2567"
+}

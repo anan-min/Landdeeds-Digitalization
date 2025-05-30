@@ -1,0 +1,27 @@
+ {
+    "ตำบล": "Not provided in the input",
+    "อำเภอ": "Not provided in the input",
+    "ที่ดินระวาง": "Not provided in the input",
+    "เลขที่ดิน": "Not provided in the input",
+    "ฉโนดที่ดิน": "Not provided in the input",
+    "เลขเล่ม": "Not provided in the input",
+    "หน้าสำรวจ": "Not provided in the input",
+    "มาตราส่วน / สเกล": "1:6000",
+    "ลงชื่อ": "Not provided in the input",
+    "ผู้เขียนแผนที่": "Not provided in the input",
+    "เส้นทาง": [
+        {"id": 2005, "color": "ดำ", "points_of_interest": ["หัวลำโพง"]},
+        {"id": 2746, "color": "แดง", "points_of_interest": ["บางนา"]},
+        {"id": 5746, "color": "เหลือง", "points_of_interest": ["บางพลี"]},
+        {"id": 0440, "color": "ชมพู", "points_of_interest": ["0440"]},
+        {"id": 1131, "color": "เขียว", "points_of_interest": ["1131"]},
+        {"id": 1732, "color": "น้ำเงิน", "points_of_interest": ["1732"]},
+        {"id": 0293, "color": "ม่วง", "points_of_interest": ["0293"]},
+        {"id": 0346, "color": "ขาว", "points_of_interest": ["0346"]},
+        {"id": 0477, "color": "เทา", "points_of_interest": ["0477"]},
+        {"id": 0577, "color": "ม่วงเข้ม", "points_of_interest": ["0577"]},
+        {"id": 0675, "color": "ส้ม", "points_of_interest": ["0675"]},
+        {"id": 0771, "color": "ชมพูเข้ม", "points_of_interest": ["0771"]},
+        {"id": 0845, "color": "แสด", "points_of_interest": ["0845"]}
+    ]
+}

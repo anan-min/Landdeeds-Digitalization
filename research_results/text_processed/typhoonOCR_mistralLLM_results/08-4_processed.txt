@@ -1,0 +1,62 @@
+ [
+  {
+    "date": "January 1, 20XX",
+    "event": "New Year's Day"
+  },
+  {
+    "date": "January 15, 20XX",
+    "event": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "February 14, 20XX",
+    "event": "Valentine's Day"
+  },
+  {
+    "date": "March 8, 20XX",
+    "event": "International Women's Day"
+  },
+  {
+    "date": "March 17, 20XX",
+    "event": "St. Patrick's Day"
+  },
+  {
+    "date": "May 1, 20XX",
+    "event": "Labor Day"
+  },
+  {
+    "date": "May 5, 20XX",
+    "event": "Cinco de Mayo"
+  },
+  {
+    "date": "June 14, 20XX",
+    "event": "Flag Day"
+  },
+  {
+    "date": "July 4, 20XX",
+    "event": "Independence Day"
+  },
+  {
+    "date": "August 26, 20XX",
+    "event": "Women's Equality Day"
+  },
+  {
+    "date": "September 1, 20XX",
+    "event": "Labor Day"
+  },
+  {
+    "date": "October 31, 20XX",
+    "event": "Halloween"
+  },
+  {
+    "date": "November 11, 20XX",
+    "event": "Veterans Day"
+  },
+  {
+    "date": "November 26, 20XX",
+    "event": "Thanksgiving Day"
+  },
+  {
+    "date": "December 25, 20XX",
+    "event": "Christmas Day"
+  }
+]

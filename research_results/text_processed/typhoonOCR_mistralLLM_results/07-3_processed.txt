@@ -1,0 +1,18 @@
+ {
+    "mapNumber": null,
+    "locationDescription": "นายเชษฐา บุญญาสนธิ",
+    "province": null,
+    "district": null,
+    "subdistrict": "บางขุนเทียน",
+    "landPlotCode": null,
+    "plotNumber": null,
+    "concessionNumber": null,
+    "bookNumber": null,
+    "folioPage": null,
+    "examinationPage": null,
+    "scaleRatio": "1:1000",
+    "landAreaOrScale": null,
+    "creationDate": "2567-12-15",
+    "creator": "นายเชษฐา บุญญาสนธิ",
+    "inspector": "นางสาวสมหญิง จริงใจ"
+}

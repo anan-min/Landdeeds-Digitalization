@@ -1,0 +1,5 @@
+ {
+    "maatrasinyadin": ["1:25000"],
+    "mattarasinyawai": ["1:10000"],
+    "krabbabatthai": ["วันที่ 21 กุมภาพันธ์ พ.ศ. 2564"]
+}

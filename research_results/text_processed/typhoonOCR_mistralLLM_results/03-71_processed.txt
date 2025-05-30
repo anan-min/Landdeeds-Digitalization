@@ -1,0 +1,11 @@
+ {
+    "ที่ดินระวาง": "400762/3",
+    "หน้าสำรวจ": "1",
+    "ตำบล": "Not provided in text",
+    "อำเภอ": "Not provided in text",
+    "ฉโนดที่ดิน": "85",
+    "เลขเล่ม": "Not provided in text",
+    "มาตราส่วน / สเกล": "1:000",
+    "ลงชื่อ": "Not provided in text",
+    "ผู้เขียนแผนที่": "partial match, could not determine exact name"
+}

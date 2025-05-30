@@ -1,0 +1,11 @@
+ {
+    "maatra-sawan/maatra-skel": "",
+    "tiin-din": "",
+    "lek-tiin-din": "",
+    "tambon": "",
+    "amphoe": "",
+    "chonod-tiin-din": "",
+    "lek-lek": "",
+    "langhui": "",
+    "ngooban-baan-thi": ""
+}

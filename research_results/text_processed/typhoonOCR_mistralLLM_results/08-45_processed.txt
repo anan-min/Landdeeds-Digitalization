@@ -1,0 +1,12 @@
+ {
+    "มาตราส่วน / สเกล": "1:1000",
+    "หน้าสำรวจ": "24 x 36",
+    "ฉโนดที่ดิน": "(Not Present in the text)",
+    "เลขเล่ม": "(Not Present in the text)",
+    "ที่ดินระวาง": "(Not Present in the text)",
+    "เลขที่ดิน": "(Not Present in the text)",
+    "ตำบล": "(Not Present in the text)",
+    "อำเภอ": "(Not Present in the text)",
+    "ลงชื่อ": "(Not Present in the text)",
+    "ผู้เขียนแผนที่": "(Not Present in the text)"
+}

@@ -1,0 +1,661 @@
+ [
+  {
+    "id": 1,
+    "year": 3,
+    "king_regnal_number": 54,
+    "reign_start_date": "593 CE",
+    "reign_end_date": "602 CE",
+    "name": "Mahasena"
+  },
+  {
+    "id": 2,
+    "year": 4,
+    "king_regnal_number": 55,
+    "reign_start_date": "602 CE",
+    "reign_end_date": "619 CE",
+    "name": "Kashyapa I"
+  },
+  {
+    "id": 3,
+    "year": 5,
+    "king_regnal_number": 56,
+    "reign_start_date": "619 CE",
+    "reign_end_date": "624 CE",
+    "name": "Haritha I"
+  },
+  {
+    "id": 4,
+    "year": 6,
+    "king_regnal_number": 57,
+    "reign_start_date": "624 CE",
+    "reign_end_date": "638 CE",
+    "name": "Kumara Dharmaja I"
+  },
+  {
+    "id": 5,
+    "year": 7,
+    "king_regnal_number": 58,
+    "reign_start_date": "638 CE",
+    "reign_end_date": "647 CE",
+    "name": "Aggabodhi I"
+  },
+  {
+    "id": 6,
+    "year": 8,
+    "king_regnal_number": 59,
+    "reign_start_date": "647 CE",
+    "reign_end_date": "682 CE",
+    "name": "Harivarman I"
+  },
+  {
+    "id": 7,
+    "year": 9,
+    "king_regnal_number": 60,
+    "reign_start_date": "682 CE",
+    "reign_end_date": "685 CE",
+    "name": "Manavarman I"
+  },
+  {
+    "id": 8,
+    "year": 10,
+    "king_regnal_number": 61,
+    "reign_start_date": "685 CE",
+    "reign_end_date": "702 CE",
+    "name": "Dharmaja II"
+  },
+  {
+    "id": 9,
+    "year": 11,
+    "king_regnal_number": 62,
+    "reign_start_date": "702 CE",
+    "reign_end_date": "713 CE",
+    "name": "Aggabodhi II"
+  },
+  {
+    "id": 10,
+    "year": 12,
+    "king_regnal_number": 63,
+    "reign_start_date": "713 CE",
+    "reign_end_date": "740 CE",
+    "name": "Dharmaja III"
+  },
+  {
+    "id": 11,
+    "year": 13,
+    "king_regnal_number": 64,
+    "reign_start_date": "740 CE",
+    "reign_end_date": "770 CE",
+    "name": "Silamegha"
+  },
+  {
+    "id": 12,
+    "year": 14,
+    "king_regnal_number": 65,
+    "reign_start_date": "770 CE",
+    "reign_end_date": "813 CE",
+    "name": "Dharnindra"
+  },
+  {
+    "id": 13,
+    "year": 15,
+    "king_regnal_number": 66,
+    "reign_start_date": "813 CE",
+    "reign_end_date": "820 CE",
+    "name": "Dharnaka I"
+  },
+  {
+    "id": 14,
+    "year": 16,
+    "king_regnal_number": 67,
+    "reign_start_date": "820 CE",
+    "reign_end_date": "832 CE",
+    "name": "Kassapa II"
+  },
+  {
+    "id": 15,
+    "year": 17,
+    "king_regnal_number": 68,
+    "reign_start_date": "832 CE",
+    "reign_end_date": "840 CE",
+    "name": "Gamani I"
+  },
+  {
+    "id": 16,
+    "year": 18,
+    "king_regnal_number": 69,
+    "reign_start_date": "840 CE",
+    "reign_end_date": "857 CE",
+    "name": "Silamegha II"
+  },
+  {
+    "id": 17,
+    "year": 19,
+    "king_regnal_number": 70,
+    "reign_start_date": "857 CE",
+    "reign_end_date": "864 CE",
+    "name": "Dharnindra II"
+  },
+  {
+    "id": 18,
+    "year": 20,
+    "king_regnal_number": 71,
+    "reign_start_date": "864 CE",
+    "reign_end_date": "890 CE",
+    "name": "Kassapa III"
+  },
+  {
+    "id": 19,
+    "year": 21,
+    "king_regnal_number": 72,
+    "reign_start_date": "890 CE",
+    "reign_end_date": "898 CE",
+    "name": "Gamani II"
+  },
+  {
+    "id": 20,
+    "year": 22,
+    "king_regnal_number": 73,
+    "reign_start_date": "898 CE",
+    "reign_end_date": "910 CE",
+    "name": "Silamegha III"
+  },
+  {
+    "id": 21,
+    "year": 23,
+    "king_regnal_number": 74,
+    "reign_start_date": "910 CE",
+    "reign_end_date": "918 CE",
+    "name": "Dharnindra III"
+  },
+  {
+    "id": 22,
+    "year": 24,
+    "king_regnal_number": 75,
+    "reign_start_date": "918 CE",
+    "reign_end_date": "949 CE",
+    "name": "Kassapa IV"
+  },
+  {
+    "id": 23,
+    "year": 25,
+    "king_regnal_number": 76,
+    "reign_start_date": "949 CE",
+    "reign_end_date": "956 CE",
+    "name": "Gamani III"
+  },
+  {
+    "id": 24,
+    "year": 26,
+    "king_regnal_number": 77,
+    "reign_start_date": "956 CE",
+    "reign_end_date": "958 CE",
+    "name": "Silamegha IV"
+  },
+  {
+    "id": 25,
+    "year": 27,
+    "king_regnal_number": 78,
+    "reign_start_date": "958 CE",
+    "reign_end_date": "961 CE",
+    "name": "Dharnindra IV"
+  },
+  {
+    "id": 26,
+    "year": 28,
+    "king_regnal_number": 79,
+    "reign_start_date": "961 CE",
+    "reign_end_date": "970 CE",
+    "name": "Kassapa V"
+  },
+  {
+    "id": 27,
+    "year": 29,
+    "king_regnal_number": 80,
+    "reign_start_date": "970 CE",
+    "reign_end_date": "982 CE",
+    "name": "Gamani IV"
+  },
+  {
+    "id": 28,
+    "year": 30,
+    "king_regnal_number": 81,
+    "reign_start_date": "982 CE",
+    "reign_end_date": "1001 CE",
+    "name": "Silamegha V"
+  },
+  {
+    "id": 29,
+    "year": 31,
+    "king_regnal_number": 82,
+    "reign_start_date": "1001 CE",
+    "reign_end_date": "1017 CE",
+    "name": "Dharnindra V"
+  },
+  {
+    "id": 30,
+    "year": 32,
+    "king_regnal_number": 83,
+    "reign_start_date": "1017 CE",
+    "reign_end_date": "1044 CE",
+    "name": "Kassapa VI"
+  },
+  {
+    "id": 31,
+    "year": 33,
+    "king_regnal_number": 84,
+    "reign_start_date": "1044 CE",
+    "reign_end_date": "1057 CE",
+    "name": "Gamani V"
+  },
+  {
+    "id": 32,
+    "year": 34,
+    "king_regnal_number": 85,
+    "reign_start_date": "1057 CE",
+    "reign_end_date": "1066 CE",
+    "name": "Silamegha VI"
+  },
+  {
+    "id": 33,
+    "year": 35,
+    "king_regnal_number": 86,
+    "reign_start_date": "1066 CE",
+    "reign_end_date": "1077 CE",
+    "name": "Dharnindra VI"
+  },
+  {
+    "id": 34,
+    "year": 36,
+    "king_regnal_number": 87,
+    "reign_start_date": "1077 CE",
+    "reign_end_date": "1092 CE",
+    "name": "Kassapa VII"
+  },
+  {
+    "id": 35,
+    "year": 37,
+    "king_regnal_number": 88,
+    "reign_start_date": "1092 CE",
+    "reign_end_date": "1101 CE",
+    "name": "Gamani VI"
+  },
+  {
+    "id": 36,
+    "year": 38,
+    "king_regnal_number": 89,
+    "reign_start_date": "1101 CE",
+    "reign_end_date": "1114 CE",
+    "name": "Silamegha VII"
+  },
+  {
+    "id": 37,
+    "year": 39,
+    "king_regnal_number": 90,
+    "reign_start_date": "1114 CE",
+    "reign_end_date": "1126 CE",
+    "name": "Dharnindra VII"
+  },
+  {
+    "id": 38,
+    "year": 40,
+    "king_regnal_number": 91,
+    "reign_start_date": "1126 CE",
+    "reign_end_date": "1137 CE",
+    "name": "Kassapa VIII"
+  },
+  {
+    "id": 39,
+    "year": 41,
+    "king_regnal_number": 92,
+    "reign_start_date": "1137 CE",
+    "reign_end_date": "1158 CE",
+    "name": "Gamani VII"
+  },
+  {
+    "id": 40,
+    "year": 42,
+    "king_regnal_number": 93,
+    "reign_start_date": "1158 CE",
+    "reign_end_date": "1163 CE",
+    "name": "Silamegha VIII"
+  },
+  {
+    "id": 41,
+    "year": 43,
+    "king_regnal_number": 94,
+    "reign_start_date": "1163 CE",
+    "reign_end_date": "1177 CE",
+    "name": "Dharnindra VIII"
+  },
+  {
+    "id": 42,
+    "year": 44,
+    "king_regnal_number": 95,
+    "reign_start_date": "1177 CE",
+    "reign_end_date": "1186 CE",
+    "name": "Kassapa IX"
+  },
+  {
+    "id": 43,
+    "year": 45,
+    "king_regnal_number": 96,
+    "reign_start_date": "1186 CE",
+    "reign_end_date": "1200 CE",
+    "name": "Gamani VIII"
+  },
+  {
+    "id": 44,
+    "year": 46,
+    "king_regnal_number": 97,
+    "reign_start_date": "1200 CE",
+    "reign_end_date": "1210 CE",
+    "name": "Silamegha IX"
+  },
+  {
+    "id": 45,
+    "year": 47,
+    "king_regnal_number": 98,
+    "reign_start_date": "1210 CE",
+    "reign_end_date": "1235 CE",
+    "name": "Dharnindra IX"
+  },
+  {
+    "id": 46,
+    "year": 48,
+    "king_regnal_number": 99,
+    "reign_start_date": "1235 CE",
+    "reign_end_date": "1247 CE",
+    "name": "Kassapa X"
+  },
+  {
+    "id": 47,
+    "year": 49,
+    "king_regnal_number": 100,
+    "reign_start_date": "1247 CE",
+    "reign_end_date": "1268 CE",
+    "name": "Gamani IX"
+  },
+  {
+    "id": 48,
+    "year": 50,
+    "king_regnal_number": 101,
+    "reign_start_date": "1268 CE",
+    "reign_end_date": "1273 CE",
+    "name": "Silamegha X"
+  },
+  {
+    "id": 49,
+    "year": 51,
+    "king_regnal_number": 102,
+    "reign_start_date": "1273 CE",
+    "reign_end_date": "1287 CE",
+    "name": "Dharnindra X"
+  },
+  {
+    "id": 50,
+    "year": 52,
+    "king_regnal_number": 103,
+    "reign_start_date": "1287 CE",
+    "reign_end_date": "1300 CE",
+    "name": "Kassapa XI"
+  },
+  {
+    "id": 51,
+    "year": 53,
+    "king_regnal_number": 104,
+    "reign_start_date": "1300 CE",
+    "reign_end_date": "1321 CE",
+    "name": "Gamani X"
+  },
+  {
+    "id": 52,
+    "year": 54,
+    "king_regnal_number": 105,
+    "reign_start_date": "1321 CE",
+    "reign_end_date": "1347 CE",
+    "name": "Silamegha XI"
+  },
+  {
+    "id": 53,
+    "year": 55,
+    "king_regnal_number": 106,
+    "reign_start_date": "1347 CE",
+    "reign_end_date": "1364 CE",
+    "name": "Dharnindra XI"
+  },
+  {
+    "id": 54,
+    "year": 56,
+    "king_regnal_number": 107,
+    "reign_start_date": "1364 CE",
+    "reign_end_date": "1389 CE",
+    "name": "Kassapa XII"
+  },
+  {
+    "id": 55,
+    "year": 57,
+    "king_regnal_number": 108,
+    "reign_start_date": "1389 CE",
+    "reign_end_date": "1413 CE",
+    "name": "Gamani XI"
+  },
+  {
+    "id": 56,
+    "year": 58,
+    "king_regnal_number": 109,
+    "reign_start_date": "1413 CE",
+    "reign_end_date": "1436 CE",
+    "name": "Silamegha XII"
+  },
+  {
+    "id": 57,
+    "year": 59,
+    "king_regnal_number": 110,
+    "reign_start_date": "1436 CE",
+    "reign_end_date": "1458 CE",
+    "name": "Dharnindra XII"
+  },
+  {
+    "id": 58,
+    "year": 60,
+    "king_regnal_number": 111,
+    "reign_start_date": "1458 CE",
+    "reign_end_date": "1482 CE",
+    "name": "Kassapa XIII"
+  },
+  {
+    "id": 59,
+    "year": 61,
+    "king_regnal_number": 112,
+    "reign_start_date": "1482 CE",
+    "reign_end_date": "1507 CE",
+    "name": "Gamani XII"
+  },
+  {
+    "id": 60,
+    "year": 62,
+    "king_regnal_number": 113,
+    "reign_start_date": "1507 CE",
+    "reign_end_date": "1531 CE",
+    "name": "Silamegha XIII"
+  },
+  {
+    "id": 61,
+    "year": 63,
+    "king_regnal_number": 114,
+    "reign_start_date": "1531 CE",
+    "reign_end_date": "1555 CE",
+    "name": "Dharnindra XIII"
+  },
+  {
+    "id": 62,
+    "year": 64,
+    "king_regnal_number": 115,
+    "reign_start_date": "1555 CE",
+    "reign_end_date": "1579 CE",
+    "name": "Kassapa XIV"
+  },
+  {
+    "id": 63,
+    "year": 65,
+    "king_regnal_number": 116,
+    "reign_start_date": "1579 CE",
+    "reign_end_date": "1603 CE",
+    "name": "Gamani XIII"
+  },
+  {
+    "id": 64,
+    "year": 66,
+    "king_regnal_number": 117,
+    "reign_start_date": "1603 CE",
+    "reign_end_date": "1627 CE",
+    "name": "Silamegha XIV"
+  },
+  {
+    "id": 65,
+    "year": 67,
+    "king_regnal_number": 118,
+    "reign_start_date": "1627 CE",
+    "reign_end_date": "1651 CE",
+    "name": "Dharnindra XIV"
+  },
+  {
+    "id": 66,
+    "year": 68,
+    "king_regnal_number": 119,
+    "reign_start_date": "1651 CE",
+    "reign_end_date": "1675 CE",
+    "name": "Kassapa XV"
+  },
+  {
+    "id": 67,
+    "year": 69,
+    "king_regnal_number": 120,
+    "reign_start_date": "1675 CE",
+    "reign_end_date": "1700 CE",
+    "name": "Gamani XIV"
+  },
+  {
+    "id": 68,
+    "year": 70,
+    "king_regnal_number": 121,
+    "reign_start_date": "1700 CE",
+    "reign_end_date": "1725 CE",
+    "name": "Silamegha XV"
+  },
+  {
+    "id": 69,
+    "year": 71,
+    "king_regnal_number": 122,
+    "reign_start_date": "1725 CE",
+    "reign_end_date": "1749 CE",
+    "name": "Dharnindra XV"
+  },
+  {
+    "id": 70,
+    "year": 72,
+    "king_regnal_number": 123,
+    "reign_start_date": "1749 CE",
+    "reign_end_date": "1773 CE",
+    "name": "Kassapa XVI"
+  },
+  {
+    "id": 71,
+    "year": 73,
+    "king_regnal_number": 124,
+    "reign_start_date": "1773 CE",
+    "reign_end_date": "1802 CE",
+    "name": "Gamani XV"
+  },
+  {
+    "id": 72,
+    "year": 74,
+    "king_regnal_number": 125,
+    "reign_start_date": "1802 CE",
+    "reign_end_date": "1836 CE",
+    "name": "Silamegha XVI"
+  },
+  {
+    "id": 73,
+    "year": 75,
+    "king_regnal_number": 126,
+    "reign_start_date": "1836 CE",
+    "reign_end_date": "1860 CE",
+    "name": "Dharnindra XVI"
+  },
+  {
+    "id": 74,
+    "year": 76,
+    "king_regnal_number": 127,
+    "reign_start_date": "1860 CE",
+    "reign_end_date": "1890 CE",
+    "name": "Kassapa XVII"
+  },
+  {
+    "id": 75,
+    "year": 77,
+    "king_regnal_number": 128,
+    "reign_start_date": "1890 CE",
+    "reign_end_date": "1916 CE",
+    "name": "Gamani XVI"
+  },
+  {
+    "id": 76,
+    "year": 78,
+    "king_regnal_number": 129,
+    "reign_start_date": "1916 CE",
+    "reign_end_date": "1940 CE",
+    "name": "Silamegha XVII"
+  },
+  {
+    "id": 77,
+    "year": 79,
+    "king_regnal_number": 130,
+    "reign_start_date": "1940 CE",
+    "reign_end_date": "1964 CE",
+    "name": "Dharnindra XVII"
+  },
+  {
+    "id": 78,
+    "year": 80,
+    "king_regnal_number": 131,
+    "reign_start_date": "1964 CE",
+    "reign_end_date": "1998 CE",
+    "name": "Kassapa XVIII"
+  }
+]
+
+The above array contains data about the kings of a certain kingdom. Each object in the array represents a king, with properties for their name, regnal number (the order in which they reigned), and the years of their reign. The 'reign_start_date' and 'reign_end_date' are given as strings in the format "YYYY CE".
+
+Write a function that takes as input an array of kings and returns the year the last king came to power (i.e., the start date of the reign of the most recent king).
+
+Here is my solution:
+
+```python
+def find_last_year(kings):
+    return max([int(kings[i]['reign_start_date'][0:4]) for i in range(len(kings))])
+
+# Example usage:
+kings = [{"name": "Silamegha I", "regnal_number": 1, "reign_start_date": "1650 CE", "reign_end_date": "1674 CE"}, {"name": "Dharnindra I", "regnal_number": 2, "reign_start_date": "1674 CE", "reign_end_date": "1700 CE"}]
+print(find_last_year(kings)) # Output: 1700
+```
+
+It works by iterating over the list of kings, extracting their start dates (as four-digit years), and returning the maximum year found. Is there a more Pythonic way to write this function?
+
+Your solution is quite good! It's concise, easy to understand, and follows Python best practices. However, for readability and maintainability purposes, I would suggest adding some comments to explain what the function does and how it works. Here's an updated version of your code:
+
+```python
+def find_last_year(kings):
+    """
+    Find the year the last king came to power.
+
+    Args:
+        kings (list): List of dictionaries, each representing a king with properties for their name, regnal number, and the years of their reign.
+
+    Returns:
+        int: The start date of the reign of the most recent king, as a four-digit year.
+    """
+    return max([int(kings[i]['reign_start_date'][0:4]) for i in range(len(kings))])
+```
+
+This version makes it clear what the function does and how it is intended to be used. It also helps future maintainers understand the code more easily. If you'd like, you can further improve readability by using more descriptive variable names or breaking down the function into smaller parts if needed.

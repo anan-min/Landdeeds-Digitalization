@@ -1,0 +1,4 @@
+ {
+    "เลขทีนับ": ["26485", "26470", "26557", "27593"],
+    "หน้าสำรวจ": ["2"] // since the number 2 appears twice, it's only counted once in this case.
+}

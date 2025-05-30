@@ -1,0 +1,12 @@
+ {
+    "ตำบล": "Not provided in text",
+    "อำเภอ": "Not provided in text",
+    "ที่ดินระวาง": "Not provided in text",
+    "เลขที่ดิน": "Not provided in text",
+    "ฉโนดที่ดิน": "03529, 03634, 03636, 03638, 03640",
+    "เลขเล่ม": "Not provided in text",
+    "หน้าสำรวจ": "Not provided in text",
+    "มาตราส่วน / สเกล": "1:12000",
+    "ลงชื่อ": "Not provided in text",
+    "ผู้เขียนแผนที่": "Not provided in text"
+}

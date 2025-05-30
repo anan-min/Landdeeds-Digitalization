@@ -1,0 +1,10 @@
+ {
+    "ตำบล": "บ้านใหม่",
+    "ao-phao": "เมืองปทุมธานี",
+    "mhahaeng": "2",
+    "maatra-sa-yon/sekl": "2:##",
+    "lung-chuui": true,
+    "cha-non-thi-din": "98/2",
+    "huusamrwok": 5,
+    "ngan-naam": "นายสมชาย"
+}
