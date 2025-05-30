@@ -5,7 +5,7 @@ from pytesseract import Output
 import numpy as np
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
-image_folder = os.path.join(script_dir, '..', 'static', 'dol_compressed')
+input_folder = os.path.join(script_dir, '..', 'static', 'dol_compressed')
 output_folder = os.path.join(
     script_dir, '..', 'research_results', 'cv_updated_results',  'normal_contour_detection')
 
@@ -52,6 +52,7 @@ def process_image(image_path, output_folder):
 
     except Exception as e:
         print(f"Error processing {image_path}: {e}")
+
 
 # Loop through all files in the input folder and process the images
 for filename in os.listdir(input_folder):
